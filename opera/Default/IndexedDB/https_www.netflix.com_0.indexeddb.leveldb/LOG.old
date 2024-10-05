@@ -1,0 +1,30 @@
+2024/09/07-19:52:31.006 651 Reusing MANIFEST /home/poseidon/.config/opera/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/07-19:52:31.006 651 Recovering log #9
+2024/09/07-19:52:31.007 651 Reusing old log /home/poseidon/.config/opera/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000009.log 
+2024/09/07-20:06:03.945 652 Level-0 table #14: started
+2024/09/07-20:06:03.970 652 Level-0 table #14: 2448301 bytes OK
+2024/09/07-20:06:03.985 652 Delete type=0 #9
+2024/09/07-20:13:36.046 652 Compacting 1@1 + 1@2 files
+2024/09/07-20:13:36.069 652 Generated table #15@1: 63 keys, 16351 bytes
+2024/09/07-20:13:36.069 652 Compacted 1@1 + 1@2 files => 16351 bytes
+2024/09/07-20:13:36.084 652 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/07-20:13:36.084 652 Delete type=2 #11
+2024/09/07-20:13:36.084 652 Delete type=2 #14
+2024/09/07-20:51:38.286 652 Level-0 table #17: started
+2024/09/07-20:51:38.321 652 Level-0 table #17: 2403421 bytes OK
+2024/09/07-20:51:38.339 652 Delete type=0 #13
+2024/09/07-20:58:38.785 651 Compacting 1@1 + 1@2 files
+2024/09/07-20:58:38.805 651 Generated table #18@1: 55 keys, 15166 bytes
+2024/09/07-20:58:38.805 651 Compacted 1@1 + 1@2 files => 15166 bytes
+2024/09/07-20:58:38.819 651 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/07-20:58:38.820 651 Delete type=2 #15
+2024/09/07-20:58:38.820 651 Delete type=2 #17
+2024/09/07-21:39:35.609 652 Level-0 table #20: started
+2024/09/07-21:39:35.642 652 Level-0 table #20: 2257183 bytes OK
+2024/09/07-21:39:35.660 652 Delete type=0 #16
+2024/09/07-21:44:19.613 652 Compacting 1@1 + 1@2 files
+2024/09/07-21:44:19.637 652 Generated table #21@1: 55 keys, 14456 bytes
+2024/09/07-21:44:19.638 652 Compacted 1@1 + 1@2 files => 14456 bytes
+2024/09/07-21:44:19.652 652 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/07-21:44:19.652 652 Delete type=2 #20
+2024/09/07-21:44:19.652 652 Delete type=2 #18

@@ -1,0 +1,48 @@
+2024-10-05T09:47:46.349Z Info: Setting LTeX UI language to 'en-us'.
+2024-10-05T09:47:46.349Z Info: Loading i18n messages...
+2024-10-05T09:47:46.350Z Info: Loading default i18n messages...
+2024-10-05T09:47:46.350Z Info: 
+2024-10-05T09:47:46.351Z Info: ltex.ltex-ls.path not set.
+2024-10-05T09:47:46.351Z Info: Searching for ltex-ls in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib'...
+2024-10-05T09:47:46.351Z Info: ltex-ls found in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-10-05T09:47:46.351Z Info: 
+2024-10-05T09:47:46.351Z Info: Using ltex-ls from '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-10-05T09:47:46.351Z Info: Using Java bundled with ltex-ls as ltex.java.path is not set.
+2024-10-05T09:47:46.351Z Info: Testing ltex-ls...
+2024-10-05T09:47:46.351Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-10-05T09:47:46.351Z Info:   Arguments: ["--version"]
+2024-10-05T09:47:46.351Z Info:   env['JAVA_HOME']: undefined
+2024-10-05T09:47:46.351Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-10-05T09:47:46.559Z Info: Test successful!
+2024-10-05T09:47:46.559Z Info: 
+2024-10-05T09:47:46.562Z Info: Starting ltex-ls...
+2024-10-05T09:47:46.562Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-10-05T09:47:46.562Z Info:   Arguments: []
+2024-10-05T09:47:46.562Z Info:   env['JAVA_HOME']: undefined
+2024-10-05T09:47:46.562Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-10-05T09:47:46.562Z Info: 
+2024-10-05T09:47:47.473Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.dictionary.en-US.txt'.
+2024-10-05T09:47:47.477Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-US.txt'.
+2024-10-05T09:47:47.482Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-US.txt'.
+2024-10-05T09:48:06.504Z Info: Created external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.dictionary.en-GB.txt' as it didn't exist.
+2024-10-05T09:48:06.504Z Info: Read external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.dictionary.en-GB.txt'.
+2024-10-05T09:48:06.504Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.dictionary.en-GB.txt'.
+2024-10-05T09:48:06.520Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.dictionary.en-GB.txt'.
+2024-10-05T09:48:10.009Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.dictionary.en-GB.txt'.
+2024-10-05T09:48:10.009Z Info: External setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.dictionary.en-GB.txt' changed, re-reading.
+2024-10-05T09:48:19.358Z Info: Created external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt' as it didn't exist.
+2024-10-05T09:48:19.359Z Info: Read external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt'.
+2024-10-05T09:48:19.359Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt'.
+2024-10-05T09:48:19.365Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt'.
+2024-10-05T09:48:30.260Z Info: Created external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt' as it didn't exist.
+2024-10-05T09:48:30.260Z Info: Read external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-10-05T09:48:30.260Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-10-05T09:48:30.272Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-10-05T09:49:20.816Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-10-05T09:49:20.816Z Info: External setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt' changed, re-reading.
+2024-10-05T09:49:28.135Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt'.
+2024-10-05T09:49:28.135Z Info: External setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt' changed, re-reading.
+2024-10-05T09:50:08.171Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt'.
+2024-10-05T09:50:08.171Z Info: External setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.disabledRules.en-GB.txt' changed, re-reading.
+2024-10-05T09:50:23.123Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-10-05T09:50:23.124Z Info: External setting file '/home/poseidon/Desktop/Documents/MLB/.vscode/ltex.hiddenFalsePositives.en-GB.txt' changed, re-reading.

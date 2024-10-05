@@ -1,0 +1,7 @@
+2024-10-05 14:25:47.924 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-05 14:25:47.924 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-05 14:25:47.924 [info] Experiment 'pythonTestAdapter' is active
+2024-10-05 14:25:47.951 [info] Python interpreter path: /bin/python
+2024-10-05 14:25:48.165 [info] > pixi --version
+2024-10-05 14:25:48.944 [info] Starting Pylance language server.
+2024-10-05 14:25:57.189 [info] CreateEnv Trigger - Workspace not found for /home/poseidon/.config/waybar/scripts/waymedia/waymedia

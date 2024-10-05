@@ -1,0 +1,37 @@
+2024-10-05 09:18:30.335 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-05 09:18:30.335 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-05 09:18:30.335 [info] Experiment 'pythonTestAdapter' is active
+2024-10-05 09:18:30.335 [warning] Dir "/home/poseidon/Desktop/Code/Python_code/.pixi/envs" is not watchable (directory does not exist)
+2024-10-05 09:18:30.335 [info] Default formatter is set to null for workspace /home/poseidon/Desktop/Code/Python_code
+2024-10-05 09:18:30.335 [info] Starting Environment refresh
+2024-10-05 09:18:30.335 [info] Starting Environment refresh
+2024-10-05 09:18:30.335 [info] > pixi --version
+2024-10-05 09:18:30.335 [info] > hatch env show --json
+2024-10-05 09:18:30.335 [info] cwd: .
+2024-10-05 09:18:30.341 [info] Environments refresh finished (event): 211 milliseconds
+2024-10-05 09:18:30.341 [info] Environments refresh paths discovered: 211 milliseconds
+2024-10-05 09:18:30.341 [info] Environments refresh finished (event): 211 milliseconds
+2024-10-05 09:18:30.341 [info] Environments refresh paths discovered: 211 milliseconds
+2024-10-05 09:18:30.342 [info] Environment refresh took 213 milliseconds
+2024-10-05 09:18:30.343 [info] Environment refresh took 213 milliseconds
+2024-10-05 09:18:30.347 [info] > pyenv which python
+2024-10-05 09:18:30.347 [info] cwd: .
+2024-10-05 09:18:30.355 [info] Python interpreter path: /bin/python
+2024-10-05 09:18:31.132 [info] Starting Pylance language server.
+2024-10-05 09:18:42.626 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:20:02.490 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:20:11.029 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:20:13.433 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:20:19.439 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:20:23.767 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:20:36.603 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:21:58.112 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:23:38.054 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:23:40.012 [info] CreateEnv Trigger - Skipping for /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:24:29.554 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:25:01.196 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:26:55.791 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:27:26.222 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:28:31.168 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:32:56.955 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py
+2024-10-05 09:46:53.352 [info] Discover tests for workspace name: Python_code - uri: /home/poseidon/Desktop/Code/Python_code/Smallest Multiple.py

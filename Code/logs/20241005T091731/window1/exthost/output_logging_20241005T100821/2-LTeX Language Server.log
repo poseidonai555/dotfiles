@@ -1,0 +1,765 @@
+[Info  - 10:18:08 AM] Starting ltex-ls...
+Oct 05, 2024 10:18:09 AM org.bsplines.ltexls.server.LtexLanguageServer initialize
+INFO: ltex-ls 15.2.0 - initializing...
+Oct 05, 2024 10:18:09 AM org.bsplines.ltexls.tools.I18n setLocale
+INFO: Setting locale to 'en'
+Oct 05, 2024 10:18:09 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:18:10 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 46 rule matches
+Oct 05, 2024 10:18:54 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:18:54 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 46 rule matches
+Oct 05, 2024 10:18:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:18:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 47 rule matches
+Oct 05, 2024 10:18:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:18:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 46 rule matches
+Oct 05, 2024 10:18:56 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:18:56 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 46 rule matches
+Oct 05, 2024 10:18:57 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:18:57 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 46 rule matches
+Oct 05, 2024 10:18:57 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:18:57 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 46 rule matches
+Oct 05, 2024 10:20:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 05, 2024 10:20:54 AM org.bsplines.ltexls.settings.SettingsManager$Companion logDifferentSettings
+FINE: Reinitializing LanguageTool due to different settings for language 'fr': setting 'settings', old 'null', new 'non-null'
+Oct 05, 2024 10:20:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:20:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 15 rule matches
+Oct 05, 2024 10:21:07 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:07 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 14 rule matches
+Oct 05, 2024 10:21:10 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:10 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 13 rule matches
+Oct 05, 2024 10:21:13 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:13 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 12 rule matches
+Oct 05, 2024 10:21:16 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:16 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 11 rule matches
+Oct 05, 2024 10:21:24 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:24 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 10 rule matches
+Oct 05, 2024 10:21:27 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:27 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 9 rule matches
+Oct 05, 2024 10:21:30 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:30 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 8 rule matches
+Oct 05, 2024 10:21:33 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:33 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 7 rule matches
+Oct 05, 2024 10:21:36 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:36 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 6 rule matches
+Oct 05, 2024 10:21:39 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:39 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 5 rule matches
+Oct 05, 2024 10:21:51 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:51 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:21:54 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:54 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:21:56 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:21:56 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:22:03 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:22:03 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:22:05 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:22:05 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:03 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:03 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:05 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:05 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:06 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:06 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:07 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:07 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:07 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:07 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:09 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:09 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:10 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:10 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:29:11 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:11 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:29:12 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:29:12 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:42 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:42 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:30:43 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:43 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:44 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:44 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:44 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:44 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:45 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:45 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:45 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:45 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:46 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:46 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:51 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:51 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:51 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:51 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:30:52 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:30:52 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:31:59 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:31:59 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:00 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:00 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:00 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:00 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 10 rule matches
+Oct 05, 2024 10:32:03 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:03 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:24 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:24 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:25 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:25 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:32 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:32 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:32 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:32 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:33 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:33 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:32:33 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:33 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:35 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:35 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:36 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:36 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:32:37 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:37 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:37 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:37 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:38 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:38 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:39 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:39 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:41 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:41 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:42 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:42 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:42 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:42 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:44 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:44 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:46 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:46 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:32:49 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:49 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:32:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:51 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:51 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:32:57 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:32:57 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:33:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:33:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:33:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:33:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:33:08 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:33:08 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:35:24 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:35:24 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:35:26 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:35:26 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:35:30 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:35:30 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:35:38 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:35:38 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:35:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:35:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:35:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:35:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:35:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:35:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:36:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:05 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\nSeulement les adultes peuvent voter en France\n"... (truncated to 100 characters)
+Oct 05, 2024 10:36:05 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:11 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:11 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:32 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:32 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:33 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:33 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:35 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:35 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:36 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:36 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:37 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:37 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:46 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:46 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:49 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:49 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:49 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:49 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:36:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:51 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:51 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:52 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:52 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:53 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:53 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:53 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:53 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:54 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:54 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:36:54 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:54 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:56 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:56 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:56 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:56 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:57 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:57 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:36:58 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:58 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:36:59 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:59 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:36:59 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:36:59 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:37:00 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:00 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:37:01 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:01 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:37:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:37:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:37:03 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:03 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:37:13 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:13 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:37:16 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:16 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:37:20 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:20 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:37:29 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:29 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:37:37 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:37 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:37:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:37:57 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:37:57 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:38:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:38:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:38:56 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:38:56 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:38:56 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:38:56 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:38:57 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:38:57 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:38:58 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:38:58 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:38:59 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:38:59 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:39:00 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:00 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:01 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:01 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:01 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:01 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:02 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:19 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:19 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:20 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:20 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:20 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:20 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:21 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:21 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:21 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:21 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:22 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:22 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:22 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:22 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:23 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:23 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:24 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:24 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:24 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:24 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:39:26 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:26 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:26 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:26 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:39:27 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:27 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:28 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:28 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:28 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:28 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:29 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:29 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:39:30 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:30 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:39:30 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:39:30 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:40:06 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:40:06 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:40:24 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:40:24 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:40:26 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:40:26 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:41:19 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:19 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:41:19 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:19 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:41:20 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:20 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:41:27 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:27 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:41:27 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:27 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:41:27 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:27 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:41:29 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:29 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:41:29 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:29 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:30 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:31 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:32 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:32 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:33 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:33 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:41:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:36 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:36 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:36 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:36 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:41:38 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:38 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:38 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:38 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:41:39 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:41:39 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:46:45 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:46:45 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:46:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:46:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:46:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:46:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:47:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 05, 2024 10:47:09 AM org.bsplines.ltexls.settings.SettingsManager$Companion logDifferentSettings
+FINE: Reinitializing LanguageTool due to different settings for language 'en-GB': setting 'settings', old 'null', new 'non-null'
+Oct 05, 2024 10:47:09 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France?\n\nSeulement les adultes peuvent voter en France"... (truncated to 100 characters)
+Oct 05, 2024 10:47:10 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 63 rule matches

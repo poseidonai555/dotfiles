@@ -1,0 +1,59 @@
+{
+    "Account": {
+        "access_token": "BQBjvxmJoHGcw-Itxe3MRKEnAkYCCo7Bv_jc9OQCkkPKFMIaK03PLjJGCKoAjnYLb0RpKwEdZtZSClBnet6APEO-ZDr_VuwlZjVgMVjSmTiXDVr5mrL-FZUtOki2V7DW0UOCVvmMJf9jRwY8ssoxVsgRb8l39DPIjuUiF3vqOlxe7BiBfenQqeFK3REtmKYXpuzC42kxqgcFZzhXTNXaSZVHdNdVLmPd7d6wV_voKr6dwfLv1XJp6FELDKkVU2O3t-wny9svTplpWy1F76mGYiAYFQxa1Day8YDSh34ADM6tux8ZUjS0ykcaYn-Ltnr4J5E-zck1HhUIr_TDRGA1",
+        "client_id": "ace63d40f09d49a9a1f31931c2d089ed",
+        "client_secret": "ee5672dd8e414e208375c04d9fe14e02",
+        "last_refresh": 1726941148,
+        "refresh_token": "AQDAT4DNnjAhbCIyBOhdK6W9qfwzeAH29iHjZs2RyYp8h1H_WeEmdczojBRmIRvaG-E6kcer2R9BZu_gozGTkUTS4QKtRtA41-lo9UEx4xjiQoRHfbPDcT5oqaYw_ii3REY"
+    },
+    "General": {
+        "check_for_updates": true,
+        "close_to_tray": false,
+        "custom_playlist_order": [],
+        "fallback_icons": false,
+        "hidden_song_headers": [],
+        "ignore_unavailable_index": false,
+        "last_device": "",
+        "last_playlist": "1ues0IuSL3ravokryYYdeQ",
+        "last_version": "v3.11",
+        "media_controller": false,
+        "native_window": false,
+        "notify_track_change": false,
+        "playlist_order": 0,
+        "refresh_interval": 3,
+        "relative_added": true,
+        "show_changelog": true,
+        "song_header_sort_by": -1,
+        "style": "",
+        "style_palette": 0,
+        "track_list_resize_mode": 0,
+        "track_numbers": 1,
+        "tray_album_art": false,
+        "tray_icon": true,
+        "tray_light_icon": false
+    },
+    "Qt": {
+        "album_shape": 1,
+        "album_size": 0,
+        "custom_font_name": "",
+        "custom_font_size": 0,
+        "library_layout": 0,
+        "mirror_title_bar": false,
+        "system_title_bar": false,
+        "toolbar_position": 1
+    },
+    "Spotify": {
+        "additional_arguments": "",
+        "always_start": true,
+        "backend": "",
+        "bitrate": 320,
+        "device_type": 0,
+        "disable_discovery": false,
+        "global_config": false,
+        "max_queue": 500,
+        "path": "",
+        "start_client": false,
+        "username": "",
+        "volume": 100
+    }
+}

@@ -1,0 +1,169 @@
+[Info  - 10:06:22 AM] Starting ltex-ls...
+Oct 05, 2024 10:06:22 AM org.bsplines.ltexls.server.LtexLanguageServer initialize
+INFO: ltex-ls 15.2.0 - initializing...
+Oct 05, 2024 10:06:22 AM org.bsplines.ltexls.tools.I18n setLocale
+INFO: Setting locale to 'en'
+Oct 05, 2024 10:06:22 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: ""
+Oct 05, 2024 10:06:23 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:06:35 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: ""
+Oct 05, 2024 10:06:35 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:06:49 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "has"
+Oct 05, 2024 10:06:49 AM org.bsplines.ltexls.server.LtexTextDocumentItem raiseExceptionIfCanceled
+FINE: Canceling check due to incoming check request...
+Oct 05, 2024 10:06:49 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "hast"
+Oct 05, 2024 10:06:49 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:06:59 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: ""
+Oct 05, 2024 10:06:59 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:00 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: ""
+Oct 05, 2024 10:07:00 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:06 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: ""
+Oct 05, 2024 10:07:06 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:08 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les"
+Oct 05, 2024 10:07:08 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:09 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: ""
+Oct 05, 2024 10:07:09 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:10 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les"
+Oct 05, 2024 10:07:10 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:11 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les J"
+Oct 05, 2024 10:07:11 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:12 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les"
+Oct 05, 2024 10:07:12 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 10:07:12 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeu"
+Oct 05, 2024 10:07:12 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:13 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeun"
+Oct 05, 2024 10:07:13 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:13 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeune"
+Oct 05, 2024 10:07:13 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:14 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes"
+Oct 05, 2024 10:07:14 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:14 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes l"
+Oct 05, 2024 10:07:14 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:16 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeune"
+Oct 05, 2024 10:07:16 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:16 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeu"
+Oct 05, 2024 10:07:16 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:19 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes"
+Oct 05, 2024 10:07:19 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:20 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la"
+Oct 05, 2024 10:07:20 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Oct 05, 2024 10:07:21 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la poli"
+Oct 05, 2024 10:07:21 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:07:21 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politi"
+Oct 05, 2024 10:07:21 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:07:22 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique"
+Oct 05, 2024 10:07:22 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:07:22 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\n"
+Oct 05, 2024 10:07:22 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:07:25 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\n"
+Oct 05, 2024 10:07:25 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:07:25 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\n"
+Oct 05, 2024 10:07:25 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:07:38 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQ"
+Oct 05, 2024 10:07:38 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Oct 05, 2024 10:07:39 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui"
+Oct 05, 2024 10:07:39 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:07:39 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui"
+Oct 05, 2024 10:07:39 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:07:39 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui p"
+Oct 05, 2024 10:07:39 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Oct 05, 2024 10:07:40 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut"
+Oct 05, 2024 10:07:40 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:07:40 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut vo"
+Oct 05, 2024 10:07:40 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 5 rule matches
+Oct 05, 2024 10:07:41 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut vote"
+Oct 05, 2024 10:07:41 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:07:41 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter"
+Oct 05, 2024 10:07:41 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:07:42 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en"
+Oct 05, 2024 10:07:42 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:07:44 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en F"
+Oct 05, 2024 10:07:44 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:07:45 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en Fr"
+Oct 05, 2024 10:07:45 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 5 rule matches
+Oct 05, 2024 10:07:45 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France"
+Oct 05, 2024 10:07:45 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:07:46 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\n"
+Oct 05, 2024 10:07:46 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches
+Oct 05, 2024 10:07:46 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-US' via LanguageTool: "Les jeunes et la politique\n\nQui peut voter en France\n\n"
+Oct 05, 2024 10:07:46 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 4 rule matches

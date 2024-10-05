@@ -1,0 +1,27 @@
+2024/10/05-12:48:01.388 4 Reusing MANIFEST /home/poseidon/.config/opera/Default/Session Storage/MANIFEST-000001
+2024/10/05-12:48:01.389 4 Recovering log #616
+2024/10/05-12:48:01.389 4 Reusing old log /home/poseidon/.config/opera/Default/Session Storage/000616.log 
+2024/10/05-12:59:56.980 4 Level-0 table #621: started
+2024/10/05-12:59:56.990 4 Level-0 table #621: 46608 bytes OK
+2024/10/05-12:59:56.995 4 Delete type=0 #616
+2024/10/05-14:57:37.473 4 Level-0 table #623: started
+2024/10/05-14:57:37.484 4 Level-0 table #623: 24171 bytes OK
+2024/10/05-14:57:37.491 4 Delete type=0 #620
+2024/10/05-19:43:54.759 5 Level-0 table #625: started
+2024/10/05-19:43:54.777 5 Level-0 table #625: 42507 bytes OK
+2024/10/05-19:43:54.787 5 Delete type=0 #622
+2024/10/05-19:43:56.141 5 Level-0 table #627: started
+2024/10/05-19:43:56.145 5 Level-0 table #627: 51038 bytes OK
+2024/10/05-19:43:56.151 5 Delete type=0 #624
+2024/10/05-19:43:56.151 5 Compacting 4@0 + 1@1 files
+2024/10/05-19:43:56.161 5 Generated table #628@0: 16024 keys, 642780 bytes
+2024/10/05-19:43:56.161 5 Compacted 4@0 + 1@1 files => 642780 bytes
+2024/10/05-19:43:56.166 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/05-19:43:56.166 5 Delete type=2 #625
+2024/10/05-19:43:56.166 5 Delete type=2 #618
+2024/10/05-19:43:56.166 5 Delete type=2 #627
+2024/10/05-19:43:56.166 5 Delete type=2 #623
+2024/10/05-19:43:56.166 5 Delete type=2 #621
+2024/10/05-19:43:56.566 4 Level-0 table #630: started
+2024/10/05-19:43:56.579 4 Level-0 table #630: 46685 bytes OK
+2024/10/05-19:43:56.586 4 Delete type=0 #626

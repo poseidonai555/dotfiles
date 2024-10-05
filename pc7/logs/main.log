@@ -1,0 +1,2683 @@
+[2024-09-21 22:45:15.404] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 22:45:15.406] [info]  Config missing 'clientBindSettings', default: 'true'
+[2024-09-21 22:45:15.440] [info]  Config missing 'smartTrading', default: 'true'
+[2024-09-21 22:45:15.450] [info]  Config missing 'lang', default: 'en_US'
+[2024-09-21 22:45:15.457] [info]  Config missing 'autoPlay', default: 'true'
+[2024-09-21 22:45:15.464] [info]  Config missing 'enableResourceSwapper', default: 'true'
+[2024-09-21 22:45:15.469] [info]  Config missing 'enableChangelogs', default: 'true'
+[2024-09-21 22:45:15.475] [info]  Config missing 'enableSocialHubTabs', default: 'true'
+[2024-09-21 22:45:15.481] [info]  Config missing 'enableAltMng', default: 'true'
+[2024-09-21 22:45:15.487] [info]  Config missing 'autoScreenshot', default: 'disable'
+[2024-09-21 22:45:15.493] [info]  Config missing 'blockSpins', default: 'false'
+[2024-09-21 22:45:15.499] [info]  Config missing 'customUserAgent', default: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36'
+[2024-09-21 22:45:15.505] [info]  Config missing 'enableRPC', default: 'true'
+[2024-09-21 22:45:15.511] [info]  Config missing 'shareMapInfo', default: 'true'
+[2024-09-21 22:45:15.516] [info]  Config missing 'shareModeInfo', default: 'true'
+[2024-09-21 22:45:15.522] [info]  Config missing 'shareClassInfo', default: 'true'
+[2024-09-21 22:45:15.527] [info]  Config missing 'shareTimerInfo', default: 'true'
+[2024-09-21 22:45:15.533] [info]  Config missing 'flagMode', default: 'newMode'
+[2024-09-21 22:45:15.538] [info]  Config missing 'unlimitedFPS', default: 'true'
+[2024-09-21 22:45:15.544] [info]  Config missing 'angleType', default: 'default'
+[2024-09-21 22:45:15.550] [info]  Config missing 's_useInProcessGPU', default: 'false'
+[2024-09-21 22:45:15.556] [info]  Config missing 'webgl2Context', default: 'true'
+[2024-09-21 22:45:15.562] [info]  Config missing 'acceleratedCanvas', default: 'true'
+[2024-09-21 22:45:15.568] [info]  Config missing 'colorProfile', default: 'default'
+[2024-09-21 22:45:15.574] [info]  Config missing 's_removeUselessFeatures', default: 'true'
+[2024-09-21 22:45:15.580] [info]  Config missing 's_helpfulFlags', default: 'true'
+[2024-09-21 22:45:15.586] [info]  Config missing 's_gpuRasterization', default: 'true'
+[2024-09-21 22:45:15.592] [info]  Config missing 'e_increaseLimits', default: 'false'
+[2024-09-21 22:45:15.598] [info]  Config missing 'e_lowLatency', default: 'false'
+[2024-09-21 22:45:15.604] [info]  Config missing 'e_experimental', default: 'false'
+[2024-09-21 22:45:15.610] [info]  Config missing 'e_disableDirectComposition', default: 'false'
+[2024-09-21 22:45:15.616] [info]  Config missing 'e_disableThreadedScrolling', default: 'false'
+[2024-09-21 22:45:15.622] [info]  Config missing 'e_disableOffMainThreadCSSPaint', default: 'false'
+[2024-09-21 22:45:15.629] [info]  Config missing 'e_macExperimental', default: 'false'
+[2024-09-21 22:45:15.634] [info]  Config missing 'easyCSSMode', default: 'disable'
+[2024-09-21 22:45:15.640] [info]  Config missing 'userCSSPath', default: ''
+[2024-09-21 22:45:15.645] [info]  Config missing 'easyCSSMode_Social', default: 'disable'
+[2024-09-21 22:45:15.650] [info]  Config missing 'userCSSPath_Social', default: ''
+[2024-09-21 22:45:15.656] [info]  Config missing 'easyCSS_FaceFixer', default: 'false'
+[2024-09-21 22:45:15.661] [info]  Config missing 'easyCSS_StretchedRes', default: 'false'
+[2024-09-21 22:45:15.667] [info]  Config missing 'loadingScreenBackground', default: 'off'
+[2024-09-21 22:45:15.672] [info]  Config missing 'loadingScreenBackground_Color', default: '#000'
+[2024-09-21 22:45:15.677] [info]  Config missing 'loadingScreenBackground_Source', default: ''
+[2024-09-21 22:45:15.683] [info]  Config missing 'loadingScreenImage', default: 'off'
+[2024-09-21 22:45:15.688] [info]  Config missing 'loadingScreenImage_Source', default: ''
+[2024-09-21 22:45:15.694] [info]  Config missing 'endUIBackground', default: 'off'
+[2024-09-21 22:45:15.699] [info]  Config missing 'endUIBackground_Color', default: '#000'
+[2024-09-21 22:45:15.704] [info]  Config missing 'endUIBackground_Source', default: ''
+[2024-09-21 22:45:15.710] [info]  Config missing 'lostConnectionBackground', default: 'off'
+[2024-09-21 22:45:15.715] [info]  Config missing 'lostConnectionBackground_Color', default: '#000'
+[2024-09-21 22:45:15.721] [info]  Config missing 'lostConnectionBackground_Source', default: ''
+[2024-09-21 22:45:15.726] [info]  Config missing 'fixChatWidth', default: 'true'
+[2024-09-21 22:45:15.732] [info]  Config missing 'enableSelectableChat', default: 'false'
+[2024-09-21 22:45:15.738] [info]  Config missing 'enableAutoSpect', default: 'false'
+[2024-09-21 22:45:15.744] [info]  Config missing 'enablePingFix', default: 'false'
+[2024-09-21 22:45:15.749] [info]  Config missing 'showAltMenuPing', default: 'true'
+[2024-09-21 22:45:15.755] [info]  Config missing 'showSpecUtil', default: 'true'
+[2024-09-21 22:45:15.760] [info]  Config missing 'kpdPhoneFix', default: 'true'
+[2024-09-21 22:45:15.766] [info]  Config missing 'disableCSSAnimations', default: 'false'
+[2024-09-21 22:45:15.771] [info]  Config missing 'enableTimer', default: 'true'
+[2024-09-21 22:45:15.777] [info]  Config missing 'useOldWatermark', default: 'false'
+[2024-09-21 22:45:15.782] [info]  Config missing 'showExitBtn', default: 'bottom'
+[2024-09-21 22:45:15.788] [info]  Config missing 'streamContainerMode', default: 'off'
+[2024-09-21 22:45:15.794] [info]  Config missing 'altManagerUIMode', default: 'V2'
+[2024-09-21 22:45:15.800] [info]  Config missing 'replaceEsportsMode', default: 'altmanager'
+[2024-09-21 22:45:15.806] [info]  Config missing 'hidetlInfHold', default: 'false'
+[2024-09-21 22:45:15.812] [info]  Config missing 'hideNewsHolder', default: 'false'
+[2024-09-21 22:45:15.818] [info]  Config missing 'hideMerchHolder', default: 'false'
+[2024-09-21 22:45:15.823] [info]  Config missing 'hideHeaderRightSocial', default: 'false'
+[2024-09-21 22:45:15.829] [info]  Config missing 'hideHomeStoreAd', default: 'false'
+[2024-09-21 22:45:15.834] [info]  Config missing 'enableClanColor', default: 'true'
+[2024-09-21 22:45:15.840] [info]  Config missing 'enableBadges', default: 'true'
+[2024-09-21 22:45:15.845] [info]  Config missing 'showPC7Users', default: 'true'
+[2024-09-21 22:45:15.851] [info]  Config missing 'enableClearSpect', default: 'false'
+[2024-09-21 22:45:15.856] [info]  Config missing 'enablePlaceboFPS', default: 'false'
+[2024-09-21 22:45:15.862] [info]  Config missing 'placeboFPSAmount', default: '0'
+[2024-09-21 22:45:15.867] [info]  Config missing 'enableSufferMode', default: 'false'
+[2024-09-21 22:45:15.873] [info]  Config missing 'enableUnobTextMode', default: 'false'
+[2024-09-21 22:45:15.878] [info]  Config missing 'raveMode', default: 'off'
+[2024-09-21 22:45:15.884] [info]  Config missing 'enableGrayscaleMode', default: 'false'
+[2024-09-21 22:45:15.890] [info]  Config missing 'enableResourceFilter', default: 'true'
+[2024-09-21 22:45:15.896] [info]  Config missing 'enableResourceFilter_EXP', default: 'true'
+[2024-09-21 22:45:15.902] [info]  Config missing 'enableResourceFilterKRPopup', default: 'false'
+[2024-09-21 22:45:15.906] [info]  Config missing 'enableResourceFilterBundlePopup', default: 'false'
+[2024-09-21 22:45:15.913] [info]  Config missing 'enableResourceFilterGiftPopup', default: 'false'
+[2024-09-21 22:45:15.918] [info]  Config missing 'enableResourceFilterSocialHub', default: 'true'
+[2024-09-21 22:45:15.922] [info]  Config missing 'enableChatLogs', default: 'true'
+[2024-09-21 22:45:15.927] [info]  Config missing 'chatTweaksMode', default: 'off'
+[2024-09-21 22:45:15.931] [info]  Config missing 'showNukeCounter', default: 'false'
+[2024-09-21 22:45:15.936] [info]  Config missing 'enableNukeCounterGoal', default: 'false'
+[2024-09-21 22:45:15.940] [info]  Config missing 'nukeCounterGoalNumber', default: '0'
+[2024-09-21 22:45:15.944] [info]  Config missing 'showNukeCounterBackground', default: 'true'
+[2024-09-21 22:45:15.949] [info]  Config missing 'nukeCounterScale', default: '5'
+[2024-09-21 22:45:15.953] [info]  Config missing 'nukeCounterLeftOffsetP', default: '940'
+[2024-09-21 22:45:15.957] [info]  Config missing 'nukeCounterTopOffsetP', default: '500'
+[2024-09-21 22:45:15.961] [info]  Config missing 'enableConnectionCheckerInterval', default: 'false'
+[2024-09-21 22:45:15.966] [info]  Config missing 'connectionCheckerInterval', default: '30'
+[2024-09-21 22:45:15.970] [info]  Config missing 'connectionCheckerMode', default: 'onlyEmpty_2'
+[2024-09-21 22:45:15.974] [info]  Config missing 'matchmakerSettings', default: ''
+[2024-09-21 22:45:15.979] [info]  Config missing 'searchOtherRegionsOnEmpty', default: 'true'
+[2024-09-21 22:45:15.983] [info]  Config missing 'joinMatchCustom', default: 'false'
+[2024-09-21 22:45:15.987] [info]  Config missing 'joinMatchOCustom', default: 'false'
+[2024-09-21 22:45:15.991] [info]  Config missing 'ignoreEmptyGames', default: 'true'
+[2024-09-21 22:45:15.995] [info]  Config missing 'joinRandomGameWhenNoneFound', default: 'true'
+[2024-09-21 22:45:16.000] [info]  Config missing 'minimumTimeLeft', default: '20'
+[2024-09-21 22:45:16.004] [info]  Config missing 'maxPlayerCount', default: '7'
+[2024-09-21 22:45:16.008] [info]  Config missing 'matchmakerOutputMode', default: 'hideGameLink'
+[2024-09-21 22:45:16.013] [info]  Config missing 'enableKeystrokesOverlay', default: 'false'
+[2024-09-21 22:45:16.017] [info]  Config missing 'keysLeftOffsetP', default: '196'
+[2024-09-21 22:45:16.022] [info]  Config missing 'keysTopOffsetP', default: '924'
+[2024-09-21 22:45:16.026] [info]  Config missing 'keysScale', default: '9'
+[2024-09-21 22:45:16.030] [info]  Config missing 'keysAuxKeybind1', default: 'Q'
+[2024-09-21 22:45:16.035] [info]  Config missing 'keysAuxKeybind2', default: 'R'
+[2024-09-21 22:45:16.039] [info]  Config missing 'keyBackgroundColor', default: '#262626'
+[2024-09-21 22:45:16.043] [info]  Config missing 'keyForegroundColor', default: '#eeeeee'
+[2024-09-21 22:45:16.057] [info]  Config missing 'enableRGBKeys', default: 'false'
+[2024-09-21 22:45:16.061] [info]  Config missing 'invertKeys', default: 'false'
+[2024-09-21 22:45:16.066] [info]  Config missing 'blockBanlogsTab', default: 'false'
+[2024-09-21 22:45:16.070] [info]  Config missing 'copySuspectInfo', default: 'disabled'
+[2024-09-21 22:45:16.075] [info]  Config missing 'betterSuspectInfo', default: 'false'
+[2024-09-21 22:45:16.079] [info]  Config missing 'openCallMenuAfterAction', default: 'false'
+[2024-09-21 22:45:16.084] [info]  Config missing 'autoSpawnInCalls', default: 'true'
+[2024-09-21 22:45:16.088] [info]  Config missing 'enableInboxNotificationUtil', default: 'true'
+[2024-09-21 22:45:16.092] [info]  Config missing 'InboxNotificationUtilSettings', default: ''
+[2024-09-21 22:45:16.097] [info]  Config missing 'enableLinkCmd', default: 'false'
+[2024-09-21 22:45:16.102] [info]  Config missing 'enableClientCmd', default: 'true'
+[2024-09-21 22:45:16.106] [info]  Config missing 'enableProfileCmd', default: 'false'
+[2024-09-21 22:45:16.111] [info]  Config missing 'enableNukesCmd', default: 'false'
+[2024-09-21 22:45:16.115] [info]  Config missing 'enableModCmd', default: 'false'
+[2024-09-21 22:45:16.120] [info]  Config missing 'showTwitchChat', default: 'false'
+[2024-09-21 22:45:16.124] [info]  Config missing 'twitchChatHeight', default: '250'
+[2024-09-21 22:45:16.129] [info]  Config missing 'twitchChat_Color', default: '#FF0000'
+[2024-09-21 22:45:16.133] [info]  Config missing 'showTwitchChatBox', default: 'false'
+[2024-09-21 22:45:16.139] [info]  Config missing 'disableTwitchChatScroll', default: 'false'
+[2024-09-21 22:45:16.144] [info]  Config missing 'restrictTwitchTrolling', default: 'false'
+[2024-09-21 22:45:16.148] [info]  Config missing 'notifyOnTwitchFollow', default: 'true'
+[2024-09-21 22:45:16.153] [info]  Config missing 'notifyOnTwitchSub', default: 'true'
+[2024-09-21 22:45:16.158] [info]  Config missing 'notifyOnTwitchRaid', default: 'true'
+[2024-09-21 22:45:16.163] [info]  Config missing 'twitchChannelPointsUtil', default: 'true'
+[2024-09-21 22:45:16.168] [info]  Config missing 'matchmakerOptions', default: '[object Object]'
+[2024-09-21 22:45:16.173] [info]  Config missing 'InboxNotificationUtilOptions', default: '[object Object]'
+[2024-09-21 22:45:16.178] [info]  Config missing 'twitchChannelPointsOptions', default: '[object Object]'
+[2024-09-21 22:45:16.184] [info]  Config missing 'BindOptions', default: '[object Object]'
+[2024-09-21 22:45:16.189] [info]  Changed 142 config entries out of 142
+[2024-09-21 22:45:16.196] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-21 22:45:16.204] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-21 22:45:16.211] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-21 22:45:16.217] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-21 22:45:16.448] [warn]  ERROR IN USERSCRIPTS DIRECTORY ACCESS
+[2024-09-21 22:45:16.448] [warn]  null
+[2024-09-21 22:45:16.686] [info]  Script Loaded: js/preload/agreements.js
+[2024-09-21 22:45:20.286] [info]  Script Loaded: js/preload/agreements.js
+[2024-09-21 22:45:22.627] [info]  Script Loaded: js/preload/agreements.js
+[2024-09-21 22:45:30.059] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 22:45:30.089] [info]  Changed 0 config entries out of 142
+[2024-09-21 22:45:30.107] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-21 22:45:30.117] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-21 22:45:30.128] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-21 22:45:30.136] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-21 22:45:30.142] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 22:45:30.143] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 22:45:30.144] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-21 22:45:30.155] [info]  Script Loaded: js/util/wm.js
+[2024-09-21 22:45:30.161] [info]  UI Language: en_US
+[2024-09-21 22:45:30.161] [info]  [FLAG MODE] New
+[2024-09-21 22:45:30.303] [warn]  ERROR IN PC7 SCREENSHOTS DIRECTORY ACCESS
+[2024-09-21 22:45:30.303] [warn]  null
+[2024-09-21 22:45:30.304] [warn]  ERROR IN RESOURCE SWAPPER DIRECTORY ACCESS
+[2024-09-21 22:45:30.304] [warn]  null
+[2024-09-21 22:45:30.432] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-21 22:45:30.749] [info]  Checking for update
+[2024-09-21 22:45:30.794] [info]  Generated new staging user ID: b3b2e797-7879-5e2d-b91e-4e8615f16b98
+[2024-09-21 22:45:32.216] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-21 22:45:32.217] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-21 22:45:33.728] [info]  Launching Game...
+[2024-09-21 22:45:33.790] [info]  [Asset Validation Key] Key received...
+[2024-09-21 22:45:33.791] [info]  [Asset Validation Key] Key valid!
+[2024-09-21 22:45:34.198] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 22:45:34.244] [info]  Script Loaded: js/preload/game.js
+[2024-09-21 22:45:34.244] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 22:45:34.244] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 22:45:40.475] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 22:45:40.512] [info]  Script Loaded: js/preload/game.js
+[2024-09-21 22:45:40.512] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 22:45:40.513] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 22:59:44.420] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 22:59:44.451] [info]  Changed 0 config entries out of 142
+[2024-09-21 22:59:44.469] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-21 22:59:44.478] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-21 22:59:44.490] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-21 22:59:44.497] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-21 22:59:44.502] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 22:59:44.503] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 22:59:44.504] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-21 22:59:44.512] [info]  Script Loaded: js/util/wm.js
+[2024-09-21 22:59:44.517] [info]  UI Language: en_US
+[2024-09-21 22:59:44.517] [info]  [FLAG MODE] New
+[2024-09-21 22:59:44.799] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-21 22:59:45.065] [info]  Checking for update
+[2024-09-21 22:59:46.549] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-21 22:59:46.550] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-21 22:59:48.062] [info]  Launching Game...
+[2024-09-21 22:59:48.123] [info]  [Asset Validation Key] Key received...
+[2024-09-21 22:59:48.124] [info]  [Asset Validation Key] Key valid!
+[2024-09-21 22:59:48.661] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 22:59:48.704] [info]  Script Loaded: js/preload/game.js
+[2024-09-21 22:59:48.704] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 22:59:48.704] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 23:01:18.426] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 23:01:18.457] [info]  Changed 0 config entries out of 142
+[2024-09-21 23:01:18.475] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-21 23:01:18.484] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-21 23:01:18.496] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-21 23:01:18.503] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-21 23:01:18.508] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 23:01:18.509] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 23:01:18.511] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-21 23:01:18.520] [info]  Script Loaded: js/util/wm.js
+[2024-09-21 23:01:18.523] [info]  UI Language: en_US
+[2024-09-21 23:01:18.524] [info]  [FLAG MODE] New
+[2024-09-21 23:01:18.782] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-21 23:01:19.072] [info]  Checking for update
+[2024-09-21 23:01:20.384] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-21 23:01:20.385] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-21 23:01:21.897] [info]  Launching Game...
+[2024-09-21 23:01:21.931] [info]  [Asset Validation Key] Key received...
+[2024-09-21 23:01:21.931] [info]  [Asset Validation Key] Key valid!
+[2024-09-21 23:01:22.397] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 23:01:22.441] [info]  Script Loaded: js/preload/game.js
+[2024-09-21 23:01:22.442] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 23:01:22.442] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 23:01:27.004] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 23:01:27.035] [info]  Changed 0 config entries out of 142
+[2024-09-21 23:01:27.052] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-21 23:01:27.062] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-21 23:01:27.074] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-21 23:01:27.081] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-21 23:01:27.086] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 23:01:27.087] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 23:01:27.088] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-21 23:01:27.100] [info]  Script Loaded: js/util/wm.js
+[2024-09-21 23:01:27.106] [info]  UI Language: en_US
+[2024-09-21 23:01:27.106] [info]  [FLAG MODE] New
+[2024-09-21 23:01:27.322] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-21 23:01:27.595] [info]  Checking for update
+[2024-09-21 23:01:28.178] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-21 23:01:28.178] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-21 23:01:29.677] [info]  [Asset Validation Key] Key received...
+[2024-09-21 23:01:29.677] [info]  [Asset Validation Key] Key valid!
+[2024-09-21 23:01:31.686] [info]  Launching Game...
+[2024-09-21 23:01:32.237] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 23:01:32.280] [info]  Script Loaded: js/preload/game.js
+[2024-09-21 23:01:32.280] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 23:01:32.280] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 23:13:42.616] [info]  https://krunker.io/social.html?p=profile&q=GabGab026
+[2024-09-21 23:13:42.737] [info]  Script Loaded: js/preload/newSocialTabs.js
+[2024-09-21 23:13:42.825] [info]  Hold Up!
+[2024-09-21 23:13:42.825] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-09-21 23:13:42.829] [info]  Navigating -> https://krunker.io/social.html?p=profile&q=GabGab026
+[2024-09-21 23:13:43.265] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 23:13:43.295] [info]  Script Loaded: js/preload/social.js
+[2024-09-21 23:13:43.296] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 23:13:43.296] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 23:13:44.530] [info]  Hold Up!
+[2024-09-21 23:13:44.530] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-09-21 23:13:58.091] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 23:13:58.127] [info]  Script Loaded: js/preload/game.js
+[2024-09-21 23:13:58.128] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 23:13:58.128] [info]  [USERSCRIPT] No Requires Found
+[2024-09-21 23:14:08.652] [info]  Script Loaded: js/util/settings.js
+[2024-09-21 23:14:08.689] [info]  Script Loaded: js/preload/game.js
+[2024-09-21 23:14:08.689] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-21 23:14:08.689] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 00:30:37.679] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 00:30:37.710] [info]  Changed 0 config entries out of 142
+[2024-09-22 00:30:37.721] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 00:30:37.724] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 00:30:37.728] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 00:30:37.731] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 00:30:37.733] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 00:30:37.733] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 00:30:37.733] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 00:30:37.736] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 00:30:37.739] [info]  UI Language: en_US
+[2024-09-22 00:30:37.739] [info]  [FLAG MODE] New
+[2024-09-22 00:30:37.963] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 00:30:38.241] [info]  Checking for update
+[2024-09-22 00:30:54.795] [info]  Launching Game...
+[2024-09-22 00:32:51.900] [info]  [AXIOS] Error fetching taglist json!
+[2024-09-22 00:32:51.901] [info]  [AXIOS] Error fetching badges json!
+[2024-09-22 00:32:51.901] [info]  Error fetching badgesUpdater json!
+[2024-09-22 00:32:51.902] [info]  [AXIOS] Error fetching fakeNamesObj json!
+[2024-09-22 00:32:51.902] [info]  [AXIOS] Error fetching decorations json!
+[2024-09-22 00:32:51.902] [info]  [AXIOS] Error fetching clans json!
+[2024-09-22 00:32:51.905] [info]  [AXIOS] Error fetching decorations json!
+[2024-09-22 00:32:51.906] [info]  [AXIOS] Error fetching userscriptInfoObj json!
+[2024-09-22 00:32:51.907] [error] Error: Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6400)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+[2024-09-22 00:32:51.908] [error] Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6400)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+[2024-09-22 00:34:55.012] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 00:34:55.055] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 00:34:55.055] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 00:34:55.055] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:24:56.133] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:24:56.164] [info]  Changed 0 config entries out of 142
+[2024-09-22 10:24:56.166] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 10:24:56.167] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 10:24:56.169] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 10:24:56.170] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 10:24:56.172] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:24:56.172] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:24:56.172] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 10:24:56.175] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 10:24:56.178] [info]  UI Language: en_US
+[2024-09-22 10:24:56.178] [info]  [FLAG MODE] New
+[2024-09-22 10:24:56.435] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 10:24:56.733] [info]  Checking for update
+[2024-09-22 10:24:58.369] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 10:24:58.370] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 10:24:59.879] [info]  Launching Game...
+[2024-09-22 10:24:59.941] [info]  [Asset Validation Key] Key received...
+[2024-09-22 10:24:59.941] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 10:25:00.465] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:25:00.515] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 10:25:00.516] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:25:00.516] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:31:33.660] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:31:33.695] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 10:31:33.696] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:31:33.696] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:33:33.149] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:33:33.185] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 10:33:33.185] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:33:33.186] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:33:37.673] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:33:37.709] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 10:33:37.709] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:33:37.709] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:33:41.823] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:33:41.861] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 10:33:41.861] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:33:41.862] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:33:45.732] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:33:45.770] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 10:33:45.771] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:33:45.771] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 10:33:51.396] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 10:33:51.432] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 10:33:51.432] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 10:33:51.432] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:06:28.548] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:06:28.579] [info]  Changed 0 config entries out of 142
+[2024-09-22 12:06:28.591] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 12:06:28.595] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 12:06:28.599] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 12:06:28.604] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 12:06:28.605] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:06:28.605] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:06:28.606] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 12:06:28.611] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 12:06:28.614] [info]  UI Language: en_US
+[2024-09-22 12:06:28.614] [info]  [FLAG MODE] New
+[2024-09-22 12:06:28.841] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 12:06:29.105] [info]  Checking for update
+[2024-09-22 12:06:30.671] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 12:06:30.671] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 12:06:32.197] [info]  [Asset Validation Key] Key received...
+[2024-09-22 12:06:32.197] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 12:06:34.177] [info]  Launching Game...
+[2024-09-22 12:06:34.753] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:06:34.799] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 12:06:34.799] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:06:34.799] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:07:59.238] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:07:59.270] [info]  Changed 0 config entries out of 142
+[2024-09-22 12:07:59.280] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 12:07:59.284] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 12:07:59.287] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 12:07:59.291] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 12:07:59.292] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:07:59.293] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:07:59.293] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 12:07:59.296] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 12:07:59.299] [info]  UI Language: en_US
+[2024-09-22 12:07:59.299] [info]  [FLAG MODE] New
+[2024-09-22 12:07:59.556] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 12:07:59.827] [info]  Checking for update
+[2024-09-22 12:08:01.319] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 12:08:01.320] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 12:08:02.831] [info]  Launching Game...
+[2024-09-22 12:08:02.996] [info]  [Asset Validation Key] Key received...
+[2024-09-22 12:08:02.997] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 12:08:03.358] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:08:03.403] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 12:08:03.403] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:08:03.403] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:11:19.203] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:11:19.235] [info]  Changed 0 config entries out of 142
+[2024-09-22 12:11:19.245] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 12:11:19.249] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 12:11:19.253] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 12:11:19.256] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 12:11:19.257] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:11:19.257] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:11:19.258] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 12:11:19.261] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 12:11:19.264] [info]  UI Language: en_US
+[2024-09-22 12:11:19.264] [info]  [FLAG MODE] New
+[2024-09-22 12:11:19.525] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 12:11:19.794] [info]  Checking for update
+[2024-09-22 12:11:21.711] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 12:11:21.712] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 12:11:23.221] [info]  Launching Game...
+[2024-09-22 12:11:23.432] [info]  [Asset Validation Key] Key received...
+[2024-09-22 12:11:23.432] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 12:11:23.862] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:11:23.906] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 12:11:23.907] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:11:23.907] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:12:30.700] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:12:30.732] [info]  Changed 0 config entries out of 142
+[2024-09-22 12:12:30.743] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 12:12:30.747] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 12:12:30.751] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 12:12:30.755] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 12:12:30.756] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:12:30.756] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:12:30.757] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 12:12:30.760] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 12:12:30.763] [info]  UI Language: en_US
+[2024-09-22 12:12:30.763] [info]  [FLAG MODE] New
+[2024-09-22 12:12:30.996] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 12:12:31.257] [info]  Checking for update
+[2024-09-22 12:12:32.883] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 12:12:32.884] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 12:12:34.395] [info]  Launching Game...
+[2024-09-22 12:12:34.486] [info]  [Asset Validation Key] Key received...
+[2024-09-22 12:12:34.486] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 12:12:35.031] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:12:35.077] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 12:12:35.077] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:12:35.077] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:13:09.835] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:13:09.865] [info]  Changed 0 config entries out of 142
+[2024-09-22 12:13:09.874] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 12:13:09.878] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 12:13:09.882] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 12:13:09.887] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 12:13:09.888] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:13:09.888] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:13:09.888] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 12:13:09.891] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 12:13:09.894] [info]  UI Language: en_US
+[2024-09-22 12:13:09.895] [info]  [FLAG MODE] New
+[2024-09-22 12:13:10.166] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 12:13:10.442] [info]  Checking for update
+[2024-09-22 12:13:11.994] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 12:13:11.994] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 12:13:13.735] [info]  [Asset Validation Key] Key received...
+[2024-09-22 12:13:13.736] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 12:13:15.501] [info]  Launching Game...
+[2024-09-22 12:13:16.049] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:13:16.095] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 12:13:16.096] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:13:16.096] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:15:11.809] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:15:11.839] [info]  Changed 0 config entries out of 142
+[2024-09-22 12:15:11.848] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 12:15:11.851] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 12:15:11.855] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 12:15:11.858] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 12:15:11.860] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:15:11.860] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:15:11.860] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 12:15:11.863] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 12:15:11.867] [info]  UI Language: en_US
+[2024-09-22 12:15:11.867] [info]  [FLAG MODE] New
+[2024-09-22 12:15:12.089] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 12:15:12.353] [info]  Checking for update
+[2024-09-22 12:15:13.793] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 12:15:13.793] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 12:15:15.471] [info]  [Asset Validation Key] Key received...
+[2024-09-22 12:15:15.472] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 12:15:17.300] [info]  Launching Game...
+[2024-09-22 12:15:17.947] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:15:17.991] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 12:15:17.991] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:15:17.991] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:16:13.702] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:16:13.734] [info]  Changed 0 config entries out of 142
+[2024-09-22 12:16:13.745] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 12:16:13.748] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 12:16:13.752] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 12:16:13.756] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 12:16:13.757] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:16:13.757] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:16:13.758] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 12:16:13.761] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 12:16:13.764] [info]  UI Language: en_US
+[2024-09-22 12:16:13.764] [info]  [FLAG MODE] New
+[2024-09-22 12:16:13.990] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 12:16:14.274] [info]  Checking for update
+[2024-09-22 12:16:15.602] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 12:16:15.603] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 12:16:17.114] [info]  Launching Game...
+[2024-09-22 12:16:17.236] [info]  [Asset Validation Key] Key received...
+[2024-09-22 12:16:17.236] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 12:16:17.737] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:16:17.783] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 12:16:17.783] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:16:17.783] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:16:34.159] [info]  [GameTools] Exporting config...
+[2024-09-22 12:16:34.159] [info]  [GameTools] Deleted config entries: [
+  'userCSSPath',
+  'userCSSPath_Social',
+  'agreement_TermsOfService',
+  'agreement_PrivacyPolicy',
+  '_fixes',
+  'isMaximized',
+  'Fullscreen',
+  'window',
+  'isUserLive'
+]
+[2024-09-22 12:56:01.287] [info]  https://krunker.io/social.html?p=profile&q=Helipsargo
+[2024-09-22 12:56:01.404] [info]  Script Loaded: js/preload/newSocialTabs.js
+[2024-09-22 12:56:01.418] [info]  Hold Up!
+[2024-09-22 12:56:01.418] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-09-22 12:56:01.421] [info]  Navigating -> https://krunker.io/social.html?p=profile&q=Helipsargo
+[2024-09-22 12:56:01.902] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:56:01.930] [info]  Script Loaded: js/preload/social.js
+[2024-09-22 12:56:01.931] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:56:01.931] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:56:02.924] [info]  Hold Up!
+[2024-09-22 12:56:02.924] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-09-22 12:56:17.508] [info]  https://krunker.io/social.html?p=profile&q=Helipsargo
+[2024-09-22 12:56:17.631] [info]  Script Loaded: js/preload/newSocialTabs.js
+[2024-09-22 12:56:17.637] [info]  Hold Up!
+[2024-09-22 12:56:17.637] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-09-22 12:56:17.640] [info]  Navigating -> https://krunker.io/social.html?p=profile&q=Helipsargo
+[2024-09-22 12:56:18.083] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 12:56:18.102] [info]  Script Loaded: js/preload/social.js
+[2024-09-22 12:56:18.102] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 12:56:18.102] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 12:56:18.930] [info]  Hold Up!
+[2024-09-22 12:56:18.930] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-09-22 13:06:35.596] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:06:35.632] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:06:35.633] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:06:35.633] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 13:06:41.114] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:06:41.150] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:06:41.150] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:06:41.150] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 13:06:46.723] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:06:46.761] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:06:46.761] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:06:46.761] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 13:06:52.161] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:06:52.197] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:06:52.197] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:06:52.197] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 13:06:57.509] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:06:57.546] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:06:57.546] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:06:57.546] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 13:07:04.737] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:07:04.775] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:07:04.776] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:07:04.776] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 13:07:16.333] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:07:16.369] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:07:16.370] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:07:16.370] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 13:17:56.623] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 13:17:56.659] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 13:17:56.659] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 13:17:56.659] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 18:28:14.851] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 18:28:14.884] [info]  Changed 0 config entries out of 142
+[2024-09-22 18:28:14.886] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 18:28:14.887] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 18:28:14.889] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 18:28:14.890] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 18:28:14.892] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 18:28:14.892] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 18:28:14.892] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 18:28:14.895] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 18:28:14.898] [info]  UI Language: en_US
+[2024-09-22 18:28:14.898] [info]  [FLAG MODE] New
+[2024-09-22 18:28:15.211] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 18:28:15.546] [info]  Checking for update
+[2024-09-22 18:28:17.419] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 18:28:17.420] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 18:28:18.931] [info]  Launching Game...
+[2024-09-22 18:28:19.109] [info]  [Asset Validation Key] Key received...
+[2024-09-22 18:28:19.110] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 18:28:19.553] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 18:28:19.602] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 18:28:19.603] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 18:28:19.603] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 18:41:14.166] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 18:41:14.197] [info]  Changed 0 config entries out of 142
+[2024-09-22 18:41:14.208] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-22 18:41:14.212] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-22 18:41:14.215] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-22 18:41:14.218] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-22 18:41:14.220] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 18:41:14.220] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 18:41:14.220] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-22 18:41:14.224] [info]  Script Loaded: js/util/wm.js
+[2024-09-22 18:41:14.227] [info]  UI Language: en_US
+[2024-09-22 18:41:14.227] [info]  [FLAG MODE] New
+[2024-09-22 18:41:14.451] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-22 18:41:14.718] [info]  Checking for update
+[2024-09-22 18:41:16.239] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-22 18:41:16.240] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-22 18:41:17.811] [info]  [Asset Validation Key] Key received...
+[2024-09-22 18:41:17.812] [info]  [Asset Validation Key] Key valid!
+[2024-09-22 18:41:19.751] [info]  Launching Game...
+[2024-09-22 18:41:20.343] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 18:41:20.388] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 18:41:20.389] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 18:41:20.389] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 18:42:04.007] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 18:42:04.044] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 18:42:04.044] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 18:42:04.044] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 20:03:36.547] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 20:03:36.584] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 20:03:36.584] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 20:03:36.584] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 20:03:41.109] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 20:03:41.146] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 20:03:41.147] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 20:03:41.147] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 20:04:19.222] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 20:04:19.269] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 20:04:19.270] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 20:04:19.270] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 20:05:16.005] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 20:05:16.042] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 20:05:16.042] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 20:05:16.042] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 20:08:15.557] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 20:08:15.593] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 20:08:15.593] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 20:08:15.593] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 20:08:20.080] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 20:08:20.117] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 20:08:20.118] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 20:08:20.118] [info]  [USERSCRIPT] No Requires Found
+[2024-09-22 20:12:32.188] [info]  Script Loaded: js/util/settings.js
+[2024-09-22 20:12:32.225] [info]  Script Loaded: js/preload/game.js
+[2024-09-22 20:12:32.225] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-22 20:12:32.225] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 13:42:26.450] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 13:42:26.480] [info]  Changed 0 config entries out of 142
+[2024-09-23 13:42:26.482] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-23 13:42:26.484] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-23 13:42:26.486] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-23 13:42:26.487] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-23 13:42:26.488] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 13:42:26.488] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 13:42:26.489] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-23 13:42:26.492] [info]  Script Loaded: js/util/wm.js
+[2024-09-23 13:42:26.495] [info]  UI Language: en_US
+[2024-09-23 13:42:26.495] [info]  [FLAG MODE] New
+[2024-09-23 13:42:26.733] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-23 13:42:27.037] [info]  Checking for update
+[2024-09-23 13:42:29.185] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-23 13:42:29.185] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-23 13:42:30.926] [info]  [Asset Validation Key] Key received...
+[2024-09-23 13:42:30.928] [info]  [Asset Validation Key] Key valid!
+[2024-09-23 13:42:32.694] [info]  Launching Game...
+[2024-09-23 13:42:33.374] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 13:42:33.427] [info]  Script Loaded: js/preload/game.js
+[2024-09-23 13:42:33.428] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 13:42:33.428] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 13:46:30.887] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 13:46:30.918] [info]  Changed 0 config entries out of 142
+[2024-09-23 13:46:30.929] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-23 13:46:30.932] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-23 13:46:30.936] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-23 13:46:30.940] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-23 13:46:30.941] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 13:46:30.941] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 13:46:30.941] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-23 13:46:30.944] [info]  Script Loaded: js/util/wm.js
+[2024-09-23 13:46:30.947] [info]  UI Language: en_US
+[2024-09-23 13:46:30.947] [info]  [FLAG MODE] New
+[2024-09-23 13:46:31.192] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-23 13:46:31.473] [info]  Checking for update
+[2024-09-23 13:46:33.229] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-23 13:46:33.230] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-23 13:46:34.925] [info]  [Asset Validation Key] Key received...
+[2024-09-23 13:46:34.925] [info]  [Asset Validation Key] Key valid!
+[2024-09-23 13:46:36.736] [info]  Launching Game...
+[2024-09-23 13:46:37.277] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 13:46:37.323] [info]  Script Loaded: js/preload/game.js
+[2024-09-23 13:46:37.324] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 13:46:37.324] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 14:45:39.821] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 14:45:39.852] [info]  Changed 0 config entries out of 142
+[2024-09-23 14:45:39.861] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-23 14:45:39.865] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-23 14:45:39.869] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-23 14:45:39.873] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-23 14:45:39.875] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 14:45:39.875] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 14:45:39.875] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-23 14:45:39.879] [info]  Script Loaded: js/util/wm.js
+[2024-09-23 14:45:39.882] [info]  UI Language: en_US
+[2024-09-23 14:45:39.882] [info]  [FLAG MODE] New
+[2024-09-23 14:45:40.146] [info]  [AXIOS] Error fetching taglist json!
+[2024-09-23 14:45:40.146] [info]  [AXIOS] Error fetching decorations json!
+[2024-09-23 14:45:40.147] [info]  [AXIOS] Error fetching badges json!
+[2024-09-23 14:45:40.147] [info]  [AXIOS] Error fetching clans json!
+[2024-09-23 14:45:40.149] [info]  [AXIOS] Error fetching userscriptInfoObj json!
+[2024-09-23 14:45:40.150] [info]  Error fetching badgesUpdater json!
+[2024-09-23 14:45:40.151] [info]  [AXIOS] Error fetching fakeNamesObj json!
+[2024-09-23 14:45:40.151] [info]  [AXIOS] Error fetching decorations json!
+[2024-09-23 14:45:40.152] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-23 14:45:40.414] [info]  Checking for update
+[2024-09-23 14:45:42.385] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-23 14:45:42.386] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-23 14:45:45.914] [info]  Launching Game...
+[2024-09-23 14:45:46.196] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 14:45:46.237] [info]  Script Loaded: js/preload/game.js
+[2024-09-23 14:45:46.238] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 14:45:46.238] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 18:50:44.265] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 18:50:44.295] [info]  Changed 0 config entries out of 142
+[2024-09-23 18:50:44.297] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-23 18:50:44.299] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-23 18:50:44.300] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-23 18:50:44.302] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-23 18:50:44.303] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 18:50:44.303] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 18:50:44.303] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-23 18:50:44.306] [info]  Script Loaded: js/util/wm.js
+[2024-09-23 18:50:44.309] [info]  UI Language: en_US
+[2024-09-23 18:50:44.309] [info]  [FLAG MODE] New
+[2024-09-23 18:50:44.650] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-23 18:50:44.942] [info]  Checking for update
+[2024-09-23 18:50:46.981] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-23 18:50:46.982] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-23 18:50:48.492] [info]  Launching Game...
+[2024-09-23 18:50:48.553] [info]  [Asset Validation Key] Key received...
+[2024-09-23 18:50:48.554] [info]  [Asset Validation Key] Key valid!
+[2024-09-23 18:50:49.121] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 18:50:49.172] [info]  Script Loaded: js/preload/game.js
+[2024-09-23 18:50:49.173] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 18:50:49.173] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 18:55:12.938] [info]  Script Loaded: js/util/settings.js
+[2024-09-23 18:55:12.969] [info]  Changed 0 config entries out of 142
+[2024-09-23 18:55:12.979] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-23 18:55:12.983] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-23 18:55:12.987] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-23 18:55:12.991] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-23 18:55:12.992] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-23 18:55:12.992] [info]  [USERSCRIPT] No Requires Found
+[2024-09-23 18:55:12.993] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-23 18:55:12.996] [info]  Script Loaded: js/util/wm.js
+[2024-09-23 18:55:12.999] [info]  UI Language: en_US
+[2024-09-23 18:55:13.000] [info]  [FLAG MODE] New
+[2024-09-23 18:55:13.225] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-23 18:55:13.488] [info]  Checking for update
+[2024-09-23 18:55:15.373] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-23 18:55:15.373] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-23 18:55:15.375] [error] Error: TypeError: Object has been destroyed
+    at AppImageUpdater.<anonymous> (evalmachine.<anonymous>:1:55711)
+    at AppImageUpdater.emit (events.js:310:20)
+    at AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-li0laYsB/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:343:18)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2024-09-23 18:55:15.375] [error] TypeError: Object has been destroyed
+    at AppImageUpdater.<anonymous> (evalmachine.<anonymous>:1:55711)
+    at AppImageUpdater.emit (events.js:310:20)
+    at AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-li0laYsB/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:343:18)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2024-09-24 21:46:49.024] [info]  Script Loaded: js/util/settings.js
+[2024-09-24 21:46:49.056] [info]  Changed 0 config entries out of 142
+[2024-09-24 21:46:49.057] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-24 21:46:49.059] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-24 21:46:49.061] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-24 21:46:49.062] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-24 21:46:49.063] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-24 21:46:49.063] [info]  [USERSCRIPT] No Requires Found
+[2024-09-24 21:46:49.064] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-24 21:46:49.066] [info]  Script Loaded: js/util/wm.js
+[2024-09-24 21:46:49.070] [info]  UI Language: en_US
+[2024-09-24 21:46:49.070] [info]  [FLAG MODE] New
+[2024-09-24 21:46:49.363] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-24 21:46:49.649] [info]  Checking for update
+[2024-09-24 21:46:51.270] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-24 21:46:51.270] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-24 21:46:52.781] [info]  Launching Game...
+[2024-09-24 21:46:52.847] [info]  [Asset Validation Key] Key received...
+[2024-09-24 21:46:52.848] [info]  [Asset Validation Key] Key valid!
+[2024-09-24 21:46:53.406] [info]  Script Loaded: js/util/settings.js
+[2024-09-24 21:46:53.457] [info]  Script Loaded: js/preload/game.js
+[2024-09-24 21:46:53.458] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-24 21:46:53.458] [info]  [USERSCRIPT] No Requires Found
+[2024-09-24 22:19:14.413] [info]  Script Loaded: js/util/settings.js
+[2024-09-24 22:19:14.443] [info]  Changed 0 config entries out of 142
+[2024-09-24 22:19:14.445] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-24 22:19:14.448] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-24 22:19:14.450] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-24 22:19:14.453] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-24 22:19:14.454] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-24 22:19:14.454] [info]  [USERSCRIPT] No Requires Found
+[2024-09-24 22:19:14.454] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-24 22:19:14.457] [info]  Script Loaded: js/util/wm.js
+[2024-09-24 22:19:14.460] [info]  UI Language: en_US
+[2024-09-24 22:19:14.460] [info]  [FLAG MODE] New
+[2024-09-24 22:19:14.694] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-24 22:19:14.974] [info]  Checking for update
+[2024-09-24 22:19:17.234] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-24 22:19:17.234] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-24 22:19:19.079] [info]  [Asset Validation Key] Key received...
+[2024-09-24 22:19:19.080] [info]  [Asset Validation Key] Key valid!
+[2024-09-24 22:19:20.741] [info]  Launching Game...
+[2024-09-24 22:19:21.320] [info]  Script Loaded: js/util/settings.js
+[2024-09-24 22:19:21.371] [info]  Script Loaded: js/preload/game.js
+[2024-09-24 22:19:21.372] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-24 22:19:21.372] [info]  [USERSCRIPT] No Requires Found
+[2024-09-25 15:02:27.945] [info]  Script Loaded: js/util/settings.js
+[2024-09-25 15:02:27.976] [info]  Changed 0 config entries out of 142
+[2024-09-25 15:02:27.978] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-09-25 15:02:27.979] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-09-25 15:02:27.981] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-09-25 15:02:27.983] [info]  Restored 12 sub setting entries in BindOptions
+[2024-09-25 15:02:27.984] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-25 15:02:27.984] [info]  [USERSCRIPT] No Requires Found
+[2024-09-25 15:02:27.984] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-09-25 15:02:27.987] [info]  Script Loaded: js/util/wm.js
+[2024-09-25 15:02:27.990] [info]  UI Language: en_US
+[2024-09-25 15:02:27.990] [info]  [FLAG MODE] New
+[2024-09-25 15:02:28.244] [info]  [AXIOS] Error fetching userscriptInfoObj json!
+[2024-09-25 15:02:28.244] [info]  [AXIOS] Error fetching clans json!
+[2024-09-25 15:02:28.246] [info]  [AXIOS] Error fetching decorations json!
+[2024-09-25 15:02:28.247] [info]  [AXIOS] Error fetching taglist json!
+[2024-09-25 15:02:28.247] [info]  [AXIOS] Error fetching fakeNamesObj json!
+[2024-09-25 15:02:28.247] [info]  [AXIOS] Error fetching decorations json!
+[2024-09-25 15:02:28.247] [info]  Error fetching badgesUpdater json!
+[2024-09-25 15:02:28.247] [info]  [AXIOS] Error fetching badges json!
+[2024-09-25 15:02:28.248] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-09-25 15:02:28.546] [info]  Checking for update
+[2024-09-25 15:02:30.286] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-09-25 15:02:30.286] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-09-25 15:02:33.810] [info]  Launching Game...
+[2024-09-25 15:02:34.147] [info]  Script Loaded: js/util/settings.js
+[2024-09-25 15:02:34.190] [info]  Script Loaded: js/preload/game.js
+[2024-09-25 15:02:34.191] [info]  [USERSCRIPT] Checking For Requires...
+[2024-09-25 15:02:34.191] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:48:34.505] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:48:34.536] [info]  Changed 0 config entries out of 142
+[2024-10-02 21:48:34.543] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-10-02 21:48:34.547] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-02 21:48:34.552] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-02 21:48:34.556] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-02 21:48:34.557] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:48:34.557] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:48:34.557] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-02 21:48:34.560] [info]  Script Loaded: js/util/wm.js
+[2024-10-02 21:48:34.563] [info]  UI Language: en_US
+[2024-10-02 21:48:34.563] [info]  [FLAG MODE] New
+[2024-10-02 21:48:34.916] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-02 21:48:35.199] [info]  Checking for update
+[2024-10-02 21:48:37.231] [info]  Update for version 9.4.0 is not available (latest version: 9.4.0, downgrade is disallowed).
+[2024-10-02 21:48:37.232] [info]  {
+  tag: 'v9.4.0',
+  version: '9.4.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+      sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+      size: 113484550,
+      blockMapSize: 119578
+    }
+  ],
+  path: 'pc7-linux-portable-9.4.0-x86_64.AppImage',
+  sha512: 'otH+7juVekSzwZzRSYRjsXq/PgJ8QbtU39DN0+EToRP2RJYJFFfl+P6Nf8RQK1HrOMkSjoR/T0kfvqYuYc2/Qg==',
+  releaseDate: '2024-09-18T20:30:54.194Z',
+  releaseName: '9.4.0',
+  releaseNotes: '<ul>\n<li>Misc Changes</li>\n</ul>'
+}
+[2024-10-02 21:48:38.743] [info]  Launching Game...
+[2024-10-02 21:48:38.820] [info]  [Asset Validation Key] Key received...
+[2024-10-02 21:48:38.822] [info]  [Asset Validation Key] Key valid!
+[2024-10-02 21:48:39.422] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:48:39.474] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:48:39.475] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:48:39.475] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:50:29.772] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:50:29.810] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:50:29.811] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:50:29.811] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:50:40.489] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:50:40.525] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:50:40.526] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:50:40.526] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:50:47.836] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:50:47.871] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:50:47.872] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:50:47.872] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:50:54.041] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:50:54.077] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:50:54.078] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:50:54.078] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:50:59.303] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:50:59.339] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:50:59.339] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:50:59.339] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:51:03.636] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:51:03.674] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:51:03.675] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:51:03.675] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:51:38.417] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:51:38.454] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:51:38.455] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:51:38.455] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:52:23.068] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:52:23.105] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:52:23.105] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:52:23.105] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:52:29.209] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:52:29.244] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:52:29.245] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:52:29.245] [info]  [USERSCRIPT] No Requires Found
+[2024-10-02 21:52:40.985] [info]  Script Loaded: js/util/settings.js
+[2024-10-02 21:52:41.029] [info]  Script Loaded: js/preload/game.js
+[2024-10-02 21:52:41.029] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-02 21:52:41.029] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 10:15:45.639] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 10:15:45.670] [info]  Changed 0 config entries out of 142
+[2024-10-04 10:15:45.672] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-10-04 10:15:45.674] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-04 10:15:45.675] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-04 10:15:45.677] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-04 10:15:45.678] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 10:15:45.678] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 10:15:45.678] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-04 10:15:45.681] [info]  Script Loaded: js/util/wm.js
+[2024-10-04 10:15:45.684] [info]  UI Language: en_US
+[2024-10-04 10:15:45.684] [info]  [FLAG MODE] New
+[2024-10-04 10:15:45.997] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-04 10:15:46.285] [info]  Checking for update
+[2024-10-04 10:15:48.223] [info]  Found version 9.5.0 (url: pc7-linux-portable-9.5.0-x86_64.AppImage)
+[2024-10-04 10:15:48.223] [info]  [UPDATE-AVAILABLE] Version Found: 9.5.0
+[2024-10-04 10:15:48.223] [info]  {
+  tag: 'v9.5.0',
+  version: '9.5.0',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.5.0-x86_64.AppImage',
+      sha512: '1KfB6rXpWHUkvu88RYHYjrbuWxILtHgZMNulXd03MNm0T4Oeqbm3cELdUIZOnWbw8zYiO11ToCPF0A5GrIayKg==',
+      size: 114062274,
+      blockMapSize: 119766
+    }
+  ],
+  path: 'pc7-linux-portable-9.5.0-x86_64.AppImage',
+  sha512: '1KfB6rXpWHUkvu88RYHYjrbuWxILtHgZMNulXd03MNm0T4Oeqbm3cELdUIZOnWbw8zYiO11ToCPF0A5GrIayKg==',
+  releaseDate: '2024-10-04T00:04:02.346Z',
+  releaseName: '9.5.0',
+  releaseNotes: '<p>V9.5.0</p>\n' +
+    '<ul>\n' +
+    '<li>Sky Color, Sky Image, Sky Video !!</li>\n' +
+    '<li>Removed Vulcan Renderer</li>\n' +
+    '</ul>\n' +
+    '<p>Sky Color &amp; Image is finally back!</p>\n' +
+    '<p>Here are some images we can provide that work well</p>\n' +
+    '<p><a href="https://i.ibb.co/3BrxMBV/Any-Conv-com-HDR-subdued-blue-nebulae.jpg" rel="nofollow">https://i.ibb.co/3BrxMBV/Any-Conv-com-HDR-subdued-blue-nebulae.jpg</a><br>\n' +
+    '<a href="https://i.ibb.co/XpMcx0w/Any-Conv-com-HDR-volcanic-asteroid-field.jpg" rel="nofollow">https://i.ibb.co/XpMcx0w/Any-Conv-com-HDR-volcanic-asteroid-field.jpg</a><br>\n' +
+    '<a href="https://i.ibb.co/947jgwx/sky-BW.png" rel="nofollow">https://i.ibb.co/947jgwx/sky-BW.png</a><br>\n' +
+    '<a href="https://i.ibb.co/HXvhSFL/sky-Blue.png" rel="nofollow">https://i.ibb.co/HXvhSFL/sky-Blue.png</a></p>'
+}
+[2024-10-04 10:15:48.224] [info]  Downloading update from pc7-linux-portable-9.5.0-x86_64.AppImage
+[2024-10-04 10:15:48.225] [debug] updater cache dir: /home/poseidon/.cache/pc7-updater
+[2024-10-04 10:15:49.140] [info]  File has 1270 changed blocks
+[2024-10-04 10:15:49.141] [debug] [
+  {
+    "kind": 0,
+    "start": 0,
+    "end": 159006
+  },
+  {
+    "kind": 1,
+    "start": 159006,
+    "end": 191774
+  },
+  {
+    "kind": 0,
+    "start": 191774,
+    "end": 70241600
+  },
+  {
+    "kind": 1,
+    "start": 70241600,
+    "end": 72449092
+  },
+  {
+    "kind": 0,
+    "start": 71867558,
+    "end": 73655532
+  },
+  {
+    "kind": 1,
+    "start": 74237066,
+    "end": 74534429
+  },
+  {
+    "kind": 0,
+    "start": 73952882,
+    "end": 83723755
+  },
+  {
+    "kind": 1,
+    "start": 84305302,
+    "end": 108115564
+  },
+  {
+    "kind": 0,
+    "start": 107536008,
+    "end": 113344972
+  },
+  {
+    "kind": 1,
+    "start": 113924528,
+    "end": 113942504
+  }
+]
+[2024-10-04 10:15:49.199] [info]  Full: 111,388.94 KB, To download: 25,747.91 KB (23%)
+[2024-10-04 10:15:49.201] [info]  Differential download: https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.0/pc7-linux-portable-9.5.0-x86_64.AppImage
+[2024-10-04 10:15:49.212] [debug] download range: bytes=159006-191773
+[2024-10-04 10:15:49.228] [info]  Redirect to https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.0/pc7-linux-portable-9.5.0-x86_64.AppImage
+[2024-10-04 10:15:49.243] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/606383179/eb62cb18-0f46-4c0a-a75b-e0c3140958a2
+[2024-10-04 10:15:50.485] [debug] download range: bytes=70241600-72449091
+[2024-10-04 10:15:51.179] [debug] download range: bytes=74237066-74534428
+[2024-10-04 10:15:51.661] [debug] download range: bytes=84305302-108115563
+[2024-10-04 10:15:53.312] [debug] download range: bytes=113924528-113942503
+[2024-10-04 10:15:53.662] [info]  New version 9.5.0 has been downloaded to /home/poseidon/.cache/pc7-updater/pending/pc7-linux-portable-9.5.0-x86_64.AppImage
+[2024-10-04 10:15:56.665] [info]  Install on explicit quitAndInstall
+[2024-10-04 10:15:56.666] [info]  Install: isSilent: true, isForceRunAfter: true
+[2024-10-04 10:15:56.667] [error] Error: Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:15:34)
+    at Timeout._onTimeout (evalmachine.<anonymous>:1:56695)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2024-10-04 10:15:56.667] [error] Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:15:34)
+    at Timeout._onTimeout (evalmachine.<anonymous>:1:56695)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2024-10-04 10:15:58.264] [info]  [Asset Validation Key] Key received...
+[2024-10-04 10:15:58.264] [info]  [Asset Validation Key] Key valid!
+[2024-10-04 10:16:00.172] [info]  Launching Game...
+[2024-10-04 10:16:00.818] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 10:16:00.869] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 10:16:00.870] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 10:16:00.870] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 10:17:38.194] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 10:17:38.230] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 10:17:38.230] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 10:17:38.231] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 10:17:42.607] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 10:17:42.643] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 10:17:42.643] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 10:17:42.643] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 10:18:32.537] [info]  [Asset Validation Key] Key received...
+[2024-10-04 10:18:32.537] [info]  [Asset Validation Key] Key valid!
+[2024-10-04 10:21:23.788] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 10:21:23.824] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 10:21:23.825] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 10:21:23.825] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 10:21:28.108] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 10:21:28.145] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 10:21:28.145] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 10:21:28.145] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 10:37:15.122] [info]  Auto install update on quit
+[2024-10-04 10:37:15.122] [info]  Install: isSilent: true, isForceRunAfter: false
+[2024-10-04 10:37:15.123] [error] Error: Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at /tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:85:18
+    at App.<anonymous> (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (events.js:417:26)
+    at App.emit (events.js:322:22)
+    at App.<anonymous> (electron/js2c/browser_init.js:185:3267)
+    at App.emit (events.js:310:20)
+[2024-10-04 10:37:15.123] [error] Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at /tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:85:18
+    at App.<anonymous> (/tmp/.mount_pc7-liYN7s6E/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (events.js:417:26)
+    at App.emit (events.js:322:22)
+    at App.<anonymous> (electron/js2c/browser_init.js:185:3267)
+    at App.emit (events.js:310:20)
+[2024-10-04 18:30:15.813] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:30:15.844] [info]  Changed 0 config entries out of 142
+[2024-10-04 18:30:15.853] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-10-04 18:30:15.856] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-04 18:30:15.860] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-04 18:30:15.864] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-04 18:30:15.865] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:30:15.865] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:30:15.866] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-04 18:30:15.868] [info]  Script Loaded: js/util/wm.js
+[2024-10-04 18:30:15.871] [info]  UI Language: en_US
+[2024-10-04 18:30:15.872] [info]  [FLAG MODE] New
+[2024-10-04 18:30:16.118] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-04 18:30:16.396] [info]  Checking for update
+[2024-10-04 18:30:18.263] [info]  Found version 9.5.1 (url: pc7-linux-portable-9.5.1-x86_64.AppImage)
+[2024-10-04 18:30:18.264] [info]  [UPDATE-AVAILABLE] Version Found: 9.5.1
+[2024-10-04 18:30:18.264] [info]  {
+  tag: 'v9.5.1',
+  version: '9.5.1',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.5.1-x86_64.AppImage',
+      sha512: 'eFRV58TEnXW5z6Y/JhBKglM/9iEtSK4SRhGLl81KPTbVH4K3fXSEP/c1kOw3M+EyqpmWgzbK6Goi1Uwt3752tg==',
+      size: 114062392,
+      blockMapSize: 119884
+    }
+  ],
+  path: 'pc7-linux-portable-9.5.1-x86_64.AppImage',
+  sha512: 'eFRV58TEnXW5z6Y/JhBKglM/9iEtSK4SRhGLl81KPTbVH4K3fXSEP/c1kOw3M+EyqpmWgzbK6Goi1Uwt3752tg==',
+  releaseDate: '2024-10-04T11:00:36.248Z',
+  releaseName: '9.5.1',
+  releaseNotes: '<ul>\n<li>Small bugfixes with sky colour feature</li>\n</ul>'
+}
+[2024-10-04 18:30:18.267] [info]  Downloading update from pc7-linux-portable-9.5.1-x86_64.AppImage
+[2024-10-04 18:30:18.267] [debug] updater cache dir: /home/poseidon/.cache/pc7-updater
+[2024-10-04 18:30:18.268] [info]  Cached update sha512 checksum doesn't match the latest available update. New update must be downloaded. Cached: 1KfB6rXpWHUkvu88RYHYjrbuWxILtHgZMNulXd03MNm0T4Oeqbm3cELdUIZOnWbw8zYiO11ToCPF0A5GrIayKg==, expected: eFRV58TEnXW5z6Y/JhBKglM/9iEtSK4SRhGLl81KPTbVH4K3fXSEP/c1kOw3M+EyqpmWgzbK6Goi1Uwt3752tg==. Directory for cached update will be cleaned
+[2024-10-04 18:30:19.259] [info]  File has 1272 changed blocks
+[2024-10-04 18:30:19.259] [debug] [
+  {
+    "kind": 0,
+    "start": 0,
+    "end": 159006
+  },
+  {
+    "kind": 1,
+    "start": 159006,
+    "end": 191774
+  },
+  {
+    "kind": 0,
+    "start": 191774,
+    "end": 70241600
+  },
+  {
+    "kind": 1,
+    "start": 70241600,
+    "end": 72448968
+  },
+  {
+    "kind": 0,
+    "start": 71867558,
+    "end": 73655532
+  },
+  {
+    "kind": 1,
+    "start": 74236942,
+    "end": 74534303
+  },
+  {
+    "kind": 0,
+    "start": 73952882,
+    "end": 83723755
+  },
+  {
+    "kind": 1,
+    "start": 84305176,
+    "end": 108115006
+  },
+  {
+    "kind": 0,
+    "start": 107536008,
+    "end": 113344972
+  },
+  {
+    "kind": 1,
+    "start": 113923970,
+    "end": 113942504
+  }
+]
+[2024-10-04 18:30:19.302] [info]  Full: 111,389.05 KB, To download: 25,747.91 KB (23%)
+[2024-10-04 18:30:19.302] [info]  Differential download: https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.1/pc7-linux-portable-9.5.1-x86_64.AppImage
+[2024-10-04 18:30:19.303] [debug] download range: bytes=159006-191773
+[2024-10-04 18:30:19.317] [info]  Redirect to https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.1/pc7-linux-portable-9.5.1-x86_64.AppImage
+[2024-10-04 18:30:19.329] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/606383179/b362f494-73e8-40f5-ad4f-1ef9627ba38b
+[2024-10-04 18:30:19.998] [debug] download range: bytes=70241600-72448967
+[2024-10-04 18:30:20.703] [debug] download range: bytes=74236942-74534302
+[2024-10-04 18:30:21.177] [debug] download range: bytes=84305176-108115005
+[2024-10-04 18:30:23.133] [debug] download range: bytes=113923970-113942503
+[2024-10-04 18:30:23.491] [info]  New version 9.5.1 has been downloaded to /home/poseidon/.cache/pc7-updater/pending/pc7-linux-portable-9.5.1-x86_64.AppImage
+[2024-10-04 18:30:26.495] [info]  Install on explicit quitAndInstall
+[2024-10-04 18:30:26.496] [info]  Install: isSilent: true, isForceRunAfter: true
+[2024-10-04 18:30:26.498] [error] Error: Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:15:34)
+    at Timeout._onTimeout (evalmachine.<anonymous>:1:56695)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2024-10-04 18:30:26.499] [error] Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:15:34)
+    at Timeout._onTimeout (evalmachine.<anonymous>:1:56695)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2024-10-04 18:30:28.295] [info]  [Asset Validation Key] Key received...
+[2024-10-04 18:30:28.295] [info]  [Asset Validation Key] Key valid!
+[2024-10-04 18:30:30.007] [info]  Launching Game...
+[2024-10-04 18:30:30.649] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:30:30.696] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:30:30.697] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:30:30.697] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:34:34.103] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:34:34.139] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:34:34.139] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:34:34.139] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:34:38.149] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:34:38.185] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:34:38.185] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:34:38.185] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:34:42.442] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:34:42.481] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:34:42.482] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:34:42.482] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:34:46.565] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:34:46.603] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:34:46.604] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:34:46.604] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:38:48.207] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:38:48.243] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:38:48.243] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:38:48.244] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:38:52.394] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:38:52.431] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:38:52.432] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:38:52.432] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:38:56.626] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:38:56.663] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:38:56.664] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:38:56.664] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:39:03.782] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:39:03.826] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:39:03.827] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:39:03.827] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:39:08.176] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:39:08.212] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:39:08.212] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:39:08.212] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:39:12.283] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:39:12.319] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:39:12.320] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:39:12.320] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:39:16.391] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:39:16.431] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:39:16.432] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:39:16.432] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:39:20.674] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:39:20.713] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:39:20.713] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:39:20.713] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:39:25.068] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:39:25.105] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:39:25.105] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:39:25.105] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:49:12.343] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:49:12.379] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:49:12.379] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:49:12.379] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:50:33.201] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:50:33.238] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:50:33.238] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:50:33.239] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:53:57.014] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:53:57.050] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:53:57.051] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:53:57.051] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:54:01.431] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:54:01.467] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:54:01.467] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:54:01.467] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:55:37.801] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:55:37.837] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:55:37.838] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:55:37.838] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:57:35.943] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:57:35.980] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:57:35.980] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:57:35.980] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 18:57:40.062] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 18:57:40.098] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 18:57:40.098] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 18:57:40.098] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 19:05:33.088] [info]  Auto install update on quit
+[2024-10-04 19:05:33.089] [info]  Install: isSilent: true, isForceRunAfter: false
+[2024-10-04 19:05:33.089] [error] Error: Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at /tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:85:18
+    at App.<anonymous> (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (events.js:417:26)
+    at App.emit (events.js:322:22)
+    at App.<anonymous> (electron/js2c/browser_init.js:185:3267)
+    at App.emit (events.js:310:20)
+[2024-10-04 19:05:33.089] [error] Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at /tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:85:18
+    at App.<anonymous> (/tmp/.mount_pc7-li76k3ZB/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (events.js:417:26)
+    at App.emit (events.js:322:22)
+    at App.<anonymous> (electron/js2c/browser_init.js:185:3267)
+    at App.emit (events.js:310:20)
+[2024-10-04 20:08:53.400] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:08:53.432] [info]  Changed 0 config entries out of 142
+[2024-10-04 20:08:53.442] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-10-04 20:08:53.446] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-04 20:08:53.450] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-04 20:08:53.454] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-04 20:08:53.456] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:08:53.456] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:08:53.456] [info]  PC7 v9.4.0
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-04 20:08:53.460] [info]  Script Loaded: js/util/wm.js
+[2024-10-04 20:08:53.463] [info]  UI Language: en_US
+[2024-10-04 20:08:53.463] [info]  [FLAG MODE] New
+[2024-10-04 20:08:53.674] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-04 20:08:53.950] [info]  Checking for update
+[2024-10-04 20:08:55.611] [info]  Found version 9.5.1 (url: pc7-linux-portable-9.5.1-x86_64.AppImage)
+[2024-10-04 20:08:55.611] [info]  [UPDATE-AVAILABLE] Version Found: 9.5.1
+[2024-10-04 20:08:55.611] [info]  {
+  tag: 'v9.5.1',
+  version: '9.5.1',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.5.1-x86_64.AppImage',
+      sha512: 'eFRV58TEnXW5z6Y/JhBKglM/9iEtSK4SRhGLl81KPTbVH4K3fXSEP/c1kOw3M+EyqpmWgzbK6Goi1Uwt3752tg==',
+      size: 114062392,
+      blockMapSize: 119884
+    }
+  ],
+  path: 'pc7-linux-portable-9.5.1-x86_64.AppImage',
+  sha512: 'eFRV58TEnXW5z6Y/JhBKglM/9iEtSK4SRhGLl81KPTbVH4K3fXSEP/c1kOw3M+EyqpmWgzbK6Goi1Uwt3752tg==',
+  releaseDate: '2024-10-04T11:00:36.248Z',
+  releaseName: '9.5.1',
+  releaseNotes: '<ul>\n<li>Small bugfixes with sky colour feature</li>\n</ul>'
+}
+[2024-10-04 20:08:55.613] [info]  Downloading update from pc7-linux-portable-9.5.1-x86_64.AppImage
+[2024-10-04 20:08:55.613] [debug] updater cache dir: /home/poseidon/.cache/pc7-updater
+[2024-10-04 20:08:56.000] [info]  Update has already been downloaded to /home/poseidon/.cache/pc7-updater/pending/pc7-linux-portable-9.5.1-x86_64.AppImage).
+[2024-10-04 20:08:59.000] [info]  Install on explicit quitAndInstall
+[2024-10-04 20:08:59.001] [info]  Install: isSilent: true, isForceRunAfter: true
+[2024-10-04 20:08:59.002] [error] Error: Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:15:34)
+    at Timeout._onTimeout (evalmachine.<anonymous>:1:56695)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2024-10-04 20:08:59.003] [error] Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:15:34)
+    at Timeout._onTimeout (evalmachine.<anonymous>:1:56695)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2024-10-04 20:09:00.546] [info]  [Asset Validation Key] Key received...
+[2024-10-04 20:09:00.546] [info]  [Asset Validation Key] Key valid!
+[2024-10-04 20:09:02.508] [info]  Launching Game...
+[2024-10-04 20:09:03.201] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:09:03.245] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:09:03.246] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:09:03.246] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:24:22.255] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:24:22.291] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:24:22.292] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:24:22.292] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:27:23.122] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:27:23.159] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:27:23.159] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:27:23.159] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:27:27.271] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:27:27.307] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:27:27.308] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:27:27.308] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:27:31.293] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:27:31.338] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:27:31.338] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:27:31.338] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:27:35.166] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:27:35.204] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:27:35.205] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:27:35.205] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:27:38.962] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:27:39.001] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:27:39.001] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:27:39.001] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:39:19.552] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:39:19.590] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:39:19.590] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:39:19.590] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:48:00.997] [info]  Auto install update on quit
+[2024-10-04 20:48:00.998] [info]  Install: isSilent: true, isForceRunAfter: false
+[2024-10-04 20:48:00.998] [error] Error: Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at /tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:85:18
+    at App.<anonymous> (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (events.js:417:26)
+    at App.emit (events.js:322:22)
+    at App.<anonymous> (electron/js2c/browser_init.js:185:3267)
+    at App.emit (events.js:310:20)
+[2024-10-04 20:48:00.998] [error] Error: EACCES: permission denied, unlink '/usr/bin/pc7-linux-portable-9.4.0-x86_64.AppImage'
+    at unlinkSync (fs.js:1057:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:76:29)
+    at AppImageUpdater.install (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:54:25)
+    at /tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:85:18
+    at App.<anonymous> (/tmp/.mount_pc7-liJXJt5I/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (events.js:417:26)
+    at App.emit (events.js:322:22)
+    at App.<anonymous> (electron/js2c/browser_init.js:185:3267)
+    at App.emit (events.js:310:20)
+[2024-10-04 20:57:14.221] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:57:14.241] [info]  Config missing 'customSkyMode', default: 'disabled'
+[2024-10-04 20:57:14.252] [info]  Config missing 'customSkyColor', default: '#000000'
+[2024-10-04 20:57:14.255] [info]  Config missing 'customSkySpinSpeed', default: '0'
+[2024-10-04 20:57:14.259] [info]  Config missing 'customSkyImageURL', default: ''
+[2024-10-04 20:57:14.264] [info]  Config missing 'customSkyVideoURL', default: ''
+[2024-10-04 20:57:14.292] [info]  Changed 5 config entries out of 147
+[2024-10-04 20:57:14.294] [info]  Restored 60 sub setting entries in matchmakerOptions
+[2024-10-04 20:57:14.295] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-04 20:57:14.297] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-04 20:57:14.298] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-04 20:57:14.299] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:57:14.299] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 20:57:14.300] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-04 20:57:14.303] [info]  Script Loaded: js/util/wm.js
+[2024-10-04 20:57:14.306] [info]  UI Language: en_US
+[2024-10-04 20:57:14.307] [info]  [FLAG MODE] New
+[2024-10-04 20:57:14.536] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-04 20:57:14.819] [info]  Checking for update
+[2024-10-04 20:57:16.236] [info]  Update for version 9.5.1 is not available (latest version: 9.5.1, downgrade is disallowed).
+[2024-10-04 20:57:16.237] [info]  {
+  tag: 'v9.5.1',
+  version: '9.5.1',
+  files: [
+    {
+      url: 'pc7-linux-portable-9.5.1-x86_64.AppImage',
+      sha512: 'eFRV58TEnXW5z6Y/JhBKglM/9iEtSK4SRhGLl81KPTbVH4K3fXSEP/c1kOw3M+EyqpmWgzbK6Goi1Uwt3752tg==',
+      size: 114062392,
+      blockMapSize: 119884
+    }
+  ],
+  path: 'pc7-linux-portable-9.5.1-x86_64.AppImage',
+  sha512: 'eFRV58TEnXW5z6Y/JhBKglM/9iEtSK4SRhGLl81KPTbVH4K3fXSEP/c1kOw3M+EyqpmWgzbK6Goi1Uwt3752tg==',
+  releaseDate: '2024-10-04T11:00:36.248Z',
+  releaseName: '9.5.1',
+  releaseNotes: '<ul>\n<li>Small bugfixes with sky colour feature</li>\n</ul>'
+}
+[2024-10-04 20:57:17.790] [info]  [Asset Validation Key] Key received...
+[2024-10-04 20:57:17.791] [info]  [Asset Validation Key] Key valid!
+[2024-10-04 20:57:19.743] [info]  Launching Game...
+[2024-10-04 20:57:20.363] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 20:57:20.411] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 20:57:20.411] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 20:57:20.411] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:05:32.561] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:05:32.599] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:05:32.600] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:05:32.600] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:08:20.909] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:08:20.947] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:08:20.947] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:08:20.947] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:08:24.946] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:08:24.984] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:08:24.984] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:08:24.984] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:08:48.818] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:08:48.856] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:08:48.857] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:08:48.857] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:08:56.405] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:08:56.443] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:08:56.444] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:08:56.444] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:09:01.210] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:09:01.247] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:09:01.248] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:09:01.248] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:09:41.441] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:09:41.480] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:09:41.480] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:09:41.480] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:09:49.970] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:09:50.008] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:09:50.008] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:09:50.008] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:09:55.780] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:09:55.818] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:09:55.819] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:09:55.819] [info]  [USERSCRIPT] No Requires Found
+[2024-10-04 21:10:13.376] [info]  Script Loaded: js/util/settings.js
+[2024-10-04 21:10:13.414] [info]  Script Loaded: js/preload/game.js
+[2024-10-04 21:10:13.414] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-04 21:10:13.414] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 10:51:31.070] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 10:51:31.102] [info]  Changed 0 config entries out of 147
+[2024-10-05 10:51:31.104] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-10-05 10:51:31.106] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-05 10:51:31.107] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-05 10:51:31.109] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-05 10:51:31.110] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 10:51:31.110] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 10:51:31.110] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-05 10:51:31.114] [info]  Script Loaded: js/util/wm.js
+[2024-10-05 10:51:31.117] [info]  UI Language: en_US
+[2024-10-05 10:51:31.117] [info]  [FLAG MODE] New
+[2024-10-05 10:51:31.387] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-05 10:51:31.668] [info]  Checking for update
+[2024-10-05 10:51:33.030] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 09:51:32 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "A7A6:8F710:409B53:4A84DC:67010C24"
+}
+    at createHttpError (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 10:51:33.030] [error] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 09:51:32 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "A7A6:8F710:409B53:4A84DC:67010C24"
+}
+    at createHttpError (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-lil2bD5U/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 10:51:34.669] [info]  [Asset Validation Key] Key received...
+[2024-10-05 10:51:34.669] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 10:51:36.535] [info]  Launching Game...
+[2024-10-05 10:51:37.180] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 10:51:37.233] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 10:51:37.233] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 10:51:37.233] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 13:06:31.592] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 13:06:31.625] [info]  Changed 0 config entries out of 147
+[2024-10-05 13:06:31.634] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-10-05 13:06:31.637] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-05 13:06:31.641] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-05 13:06:31.644] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-05 13:06:31.645] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 13:06:31.645] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 13:06:31.646] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-05 13:06:31.649] [info]  Script Loaded: js/util/wm.js
+[2024-10-05 13:06:31.652] [info]  UI Language: en_US
+[2024-10-05 13:06:31.653] [info]  [FLAG MODE] New
+[2024-10-05 13:06:31.923] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-05 13:06:32.214] [info]  Checking for update
+[2024-10-05 13:06:33.353] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 12:06:33 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "889E:A8D81:2CCC48:3429F0:67012BC9"
+}
+    at createHttpError (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 13:06:33.353] [error] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 12:06:33 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "889E:A8D81:2CCC48:3429F0:67012BC9"
+}
+    at createHttpError (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liyzcnzl/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 13:06:34.889] [info]  [Asset Validation Key] Key received...
+[2024-10-05 13:06:34.890] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 13:06:36.857] [info]  Launching Game...
+[2024-10-05 13:06:37.407] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 13:06:37.455] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 13:06:37.455] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 13:06:37.456] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 13:18:42.338] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 13:18:42.369] [info]  Changed 0 config entries out of 147
+[2024-10-05 13:18:42.380] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-10-05 13:18:42.384] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-05 13:18:42.389] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-05 13:18:42.392] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-05 13:18:42.394] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 13:18:42.394] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 13:18:42.394] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-05 13:18:42.399] [info]  Script Loaded: js/util/wm.js
+[2024-10-05 13:18:42.402] [info]  UI Language: en_US
+[2024-10-05 13:18:42.402] [info]  [FLAG MODE] New
+[2024-10-05 13:18:42.643] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-05 13:18:42.932] [info]  Checking for update
+[2024-10-05 13:18:43.434] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 12:18:43 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "C0F2:8C306:49A049:556B64:67012EA3"
+}
+    at createHttpError (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 13:18:43.435] [error] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 12:18:43 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "C0F2:8C306:49A049:556B64:67012EA3"
+}
+    at createHttpError (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liSpNqmn/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 13:18:45.193] [info]  [Asset Validation Key] Key received...
+[2024-10-05 13:18:45.193] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 13:18:46.942] [info]  Launching Game...
+[2024-10-05 13:18:47.539] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 13:18:47.587] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 13:18:47.588] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 13:18:47.588] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:00:20.700] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:00:20.732] [info]  Changed 0 config entries out of 147
+[2024-10-05 15:00:20.743] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-10-05 15:00:20.747] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-05 15:00:20.751] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-05 15:00:20.756] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-05 15:00:20.759] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:00:20.759] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:00:20.760] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-05 15:00:20.768] [info]  Script Loaded: js/util/wm.js
+[2024-10-05 15:00:20.772] [info]  UI Language: en_US
+[2024-10-05 15:00:20.773] [info]  [FLAG MODE] New
+[2024-10-05 15:00:20.980] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-05 15:00:21.248] [info]  Checking for update
+[2024-10-05 15:00:22.649] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 14:00:22 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "B39C:92144:572F1C:645373:67014676"
+}
+    at createHttpError (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 15:00:22.649] [error] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 14:00:22 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "B39C:92144:572F1C:645373:67014676"
+}
+    at createHttpError (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-li6UMw2m/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 15:00:24.287] [info]  [Asset Validation Key] Key received...
+[2024-10-05 15:00:24.288] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 15:00:26.153] [info]  Launching Game...
+[2024-10-05 15:00:26.725] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:00:26.774] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:00:26.775] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:00:26.775] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:22:04.572] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:22:04.610] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:22:04.610] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:22:04.610] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:22:08.637] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:22:08.675] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:22:08.676] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:22:08.676] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:22:12.551] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:22:12.589] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:22:12.589] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:22:12.590] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:22:16.452] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:22:16.493] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:22:16.493] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:22:16.494] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:22:20.858] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:22:20.900] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:22:20.900] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:22:20.900] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:29:35.118] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:29:35.157] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:29:35.157] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:29:35.157] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:36:58.917] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:36:58.954] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:36:58.954] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:36:58.954] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:37:21.410] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:37:21.453] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:37:21.453] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:37:21.453] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:38:24.354] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:38:24.393] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:38:24.393] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:38:24.393] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:38:40.497] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:38:40.536] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:38:40.536] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:38:40.536] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:38:52.760] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:38:52.798] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:38:52.798] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:38:52.798] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:38:57.201] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:38:57.238] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:38:57.239] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:38:57.239] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:42:09.793] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:42:09.831] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:42:09.831] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:42:09.832] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:42:13.703] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:42:13.742] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:42:13.743] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:42:13.743] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:42:19.032] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:42:19.073] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:42:19.074] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:42:19.074] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:45:52.908] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:45:52.940] [info]  Changed 0 config entries out of 147
+[2024-10-05 15:45:52.949] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-10-05 15:45:52.953] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-05 15:45:52.957] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-05 15:45:52.962] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-05 15:45:52.963] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:45:52.963] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 15:45:52.963] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-05 15:45:52.968] [info]  Script Loaded: js/util/wm.js
+[2024-10-05 15:45:52.971] [info]  UI Language: en_US
+[2024-10-05 15:45:52.971] [info]  [FLAG MODE] New
+[2024-10-05 15:45:53.235] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-05 15:45:53.500] [info]  Checking for update
+[2024-10-05 15:45:55.003] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 14:45:54 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "A25C:8C306:5748BE:64F9E1:67015122"
+}
+    at createHttpError (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 15:45:55.003] [error] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 14:45:54 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "A25C:8C306:5748BE:64F9E1:67015122"
+}
+    at createHttpError (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-limKD9wR/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 15:45:56.641] [info]  [Asset Validation Key] Key received...
+[2024-10-05 15:45:56.642] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 15:45:58.510] [info]  Launching Game...
+[2024-10-05 15:45:59.089] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 15:45:59.137] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 15:45:59.137] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 15:45:59.137] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:12:14.605] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:12:14.637] [info]  Changed 0 config entries out of 147
+[2024-10-05 16:12:14.648] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-10-05 16:12:14.652] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-05 16:12:14.656] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-05 16:12:14.660] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-05 16:12:14.661] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:12:14.661] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:12:14.662] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-05 16:12:14.667] [info]  Script Loaded: js/util/wm.js
+[2024-10-05 16:12:14.670] [info]  UI Language: en_US
+[2024-10-05 16:12:14.670] [info]  [FLAG MODE] New
+[2024-10-05 16:12:14.911] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-05 16:12:15.186] [info]  Checking for update
+[2024-10-05 16:12:16.298] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 15:12:16 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "A402:8F908:598AC0:6797FD:67015750"
+}
+    at createHttpError (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 16:12:16.299] [error] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 15:12:16 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "A402:8F908:598AC0:6797FD:67015750"
+}
+    at createHttpError (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liSvImGa/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 16:12:17.824] [info]  [Asset Validation Key] Key received...
+[2024-10-05 16:12:17.825] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 16:12:19.804] [info]  Launching Game...
+[2024-10-05 16:12:20.371] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:12:20.419] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:12:20.419] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:12:20.420] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:24:45.264] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:24:45.297] [info]  Changed 0 config entries out of 147
+[2024-10-05 16:24:45.307] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-10-05 16:24:45.312] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-10-05 16:24:45.316] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-10-05 16:24:45.320] [info]  Restored 12 sub setting entries in BindOptions
+[2024-10-05 16:24:45.322] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:24:45.322] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:24:45.322] [info]  PC7 v9.5.1
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-10-05 16:24:45.327] [info]  Script Loaded: js/util/wm.js
+[2024-10-05 16:24:45.330] [info]  UI Language: en_US
+[2024-10-05 16:24:45.330] [info]  [FLAG MODE] New
+[2024-10-05 16:24:45.544] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-10-05 16:24:45.812] [info]  Checking for update
+[2024-10-05 16:24:47.022] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 15:24:46 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "D6E6:7C9B9:30860BA:35D092D:67015A3E"
+}
+    at createHttpError (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 16:24:47.022] [error] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/AceSilentKill/PC7-Client/releases/download/v9.5.3/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/PC7-Client/PC7-Client/releases/download/v9.5.3/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 05 Oct 2024 15:24:46 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "D6E6:7C9B9:30860BA:35D092D:67015A3E"
+}
+    at createHttpError (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (events.js:310:20)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:101:6157)
+    at SimpleURLLoaderWrapper.emit (events.js:310:20)
+    at newError (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:63)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:325:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_pc7-liLSBcYs/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:339:24)
+[2024-10-05 16:24:48.597] [info]  [Asset Validation Key] Key received...
+[2024-10-05 16:24:48.598] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 16:24:50.527] [info]  Launching Game...
+[2024-10-05 16:24:51.085] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:24:51.134] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:24:51.135] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:24:51.135] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:28:43.123] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:28:43.160] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:28:43.161] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:28:43.161] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:28:47.310] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:28:47.348] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:28:47.349] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:28:47.349] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:28:51.338] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:28:51.379] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:28:51.380] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:28:51.380] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:28:55.526] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:28:55.563] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:28:55.564] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:28:55.564] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:34:58.131] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:34:58.168] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:34:58.169] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:34:58.169] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:39:56.038] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:39:56.077] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 16:39:56.077] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:39:56.077] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:46:18.838] [info]  [Asset Validation Key] Key received...
+[2024-10-05 16:46:18.838] [info]  [Asset Validation Key] Key valid!
+[2024-10-05 16:47:54.521] [info]  https://krunker.io/social.html?p=itemsales&i=5923
+[2024-10-05 16:47:54.637] [info]  Script Loaded: js/preload/newSocialTabs.js
+[2024-10-05 16:47:54.729] [info]  Hold Up!
+[2024-10-05 16:47:54.729] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-10-05 16:47:54.732] [info]  Navigating -> https://krunker.io/social.html?p=itemsales&i=5923
+[2024-10-05 16:47:55.209] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 16:47:55.237] [info]  Script Loaded: js/preload/social.js
+[2024-10-05 16:47:55.237] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 16:47:55.238] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 16:47:56.363] [info]  Hold Up!
+[2024-10-05 16:47:56.363] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-10-05 17:21:27.398] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 17:21:27.437] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 17:21:27.437] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 17:21:27.437] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 17:21:49.436] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 17:21:49.476] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 17:21:49.476] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 17:21:49.477] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 17:21:53.396] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 17:21:53.433] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 17:21:53.434] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 17:21:53.434] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 17:21:58.133] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 17:21:58.173] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 17:21:58.174] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 17:21:58.174] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 17:29:10.445] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 17:29:10.483] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 17:29:10.484] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 17:29:10.484] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 17:29:14.546] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 17:29:14.583] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 17:29:14.583] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 17:29:14.583] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 17:36:12.228] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 17:36:12.266] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 17:36:12.267] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 17:36:12.267] [info]  [USERSCRIPT] No Requires Found
+[2024-10-05 18:33:36.936] [info]  Script Loaded: js/util/settings.js
+[2024-10-05 18:33:36.975] [info]  Script Loaded: js/preload/game.js
+[2024-10-05 18:33:36.975] [info]  [USERSCRIPT] Checking For Requires...
+[2024-10-05 18:33:36.975] [info]  [USERSCRIPT] No Requires Found

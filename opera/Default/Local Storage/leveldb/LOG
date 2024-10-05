@@ -1,0 +1,45 @@
+2024/10/05-19:44:17.972 4 Reusing MANIFEST /home/poseidon/.config/opera/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/05-19:44:17.976 4 Recovering log #1799
+2024/10/05-19:44:17.976 4 Reusing old log /home/poseidon/.config/opera/Default/Local Storage/leveldb/001799.log 
+2024/10/05-19:44:17.976 4 Delete type=2 #1801
+2024/10/05-19:44:17.977 4 Compacting 5@0 + 2@1 files
+2024/10/05-19:44:17.982 4 Generated table #1802@0: 595 keys, 2272612 bytes
+2024/10/05-19:44:17.996 4 Generated table #1803@0: 13180 keys, 2105619 bytes
+2024/10/05-19:44:17.997 4 Generated table #1804@0: 81 keys, 30399 bytes
+2024/10/05-19:44:17.997 4 Compacted 5@0 + 2@1 files => 4408630 bytes
+2024/10/05-19:44:17.999 4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/10/05-19:44:17.999 4 Delete type=2 #1792
+2024/10/05-19:44:17.999 4 Delete type=2 #1798
+2024/10/05-19:44:17.999 4 Delete type=2 #1794
+2024/10/05-19:44:17.999 4 Delete type=2 #1789
+2024/10/05-19:44:17.999 4 Delete type=2 #1796
+2024/10/05-19:44:17.999 4 Delete type=2 #1800
+2024/10/05-19:44:17.999 4 Delete type=2 #1790
+2024/10/05-19:44:25.704 5 Level-0 table #1806: started
+2024/10/05-19:44:25.714 5 Level-0 table #1806: 53508 bytes OK
+2024/10/05-19:44:25.721 5 Delete type=0 #1799
+2024/10/05-19:44:27.313 5 Level-0 table #1808: started
+2024/10/05-19:44:27.323 5 Level-0 table #1808: 51349 bytes OK
+2024/10/05-19:44:27.328 5 Delete type=0 #1805
+2024/10/05-19:45:18.471 5 Level-0 table #1810: started
+2024/10/05-19:45:18.481 5 Level-0 table #1810: 1815441 bytes OK
+2024/10/05-19:45:18.483 5 Delete type=0 #1807
+2024/10/05-19:46:30.345 5 Level-0 table #1812: started
+2024/10/05-19:46:30.349 5 Level-0 table #1812: 53180 bytes OK
+2024/10/05-19:46:30.352 5 Delete type=0 #1809
+2024/10/05-19:46:30.353 5 Compacting 4@0 + 3@1 files
+2024/10/05-19:46:30.367 5 Generated table #1813@0: 427 keys, 2440673 bytes
+2024/10/05-19:46:30.384 5 Generated table #1814@0: 5808 keys, 2102064 bytes
+2024/10/05-19:46:30.390 5 Generated table #1815@0: 7621 keys, 815171 bytes
+2024/10/05-19:46:30.390 5 Compacted 4@0 + 3@1 files => 5357908 bytes
+2024/10/05-19:46:30.391 5 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/10/05-19:46:30.391 5 Delete type=2 #1806
+2024/10/05-19:46:30.391 5 Delete type=2 #1802
+2024/10/05-19:46:30.391 5 Delete type=2 #1803
+2024/10/05-19:46:30.391 5 Delete type=2 #1808
+2024/10/05-19:46:30.391 5 Delete type=2 #1812
+2024/10/05-19:46:30.391 5 Delete type=2 #1810
+2024/10/05-19:46:30.391 5 Delete type=2 #1804
+2024/10/05-19:49:30.345 4 Level-0 table #1817: started
+2024/10/05-19:49:30.357 4 Level-0 table #1817: 15812 bytes OK
+2024/10/05-19:49:30.364 4 Delete type=0 #1811

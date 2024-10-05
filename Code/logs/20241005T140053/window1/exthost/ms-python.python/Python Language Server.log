@@ -1,0 +1,24 @@
+2024-10-05 14:00:54.813 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.16.0)
+2024-10-05 14:00:55.067 [info] [Info  - 2:00:55 PM] (469286) Server root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 14:00:55.068 [info] [Info  - 2:00:55 PM] (469286) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-05 14:00:55.077 [info] [Info  - 2:00:55 PM] (469286) Starting service instance "<default>"
+2024-10-05 14:00:55.083 [info] [Info  - 2:00:55 PM] (469286) Setting environmentName for service "<default>": "3.12.6 (global)"
+2024-10-05 14:00:55.084 [info] [Info  - 2:00:55 PM] (469286) Setting pythonPath for service "<default>": "/bin/python"
+2024-10-05 14:00:55.084 [info] [Info  - 2:00:55 PM] (469286) No include entries specified; assuming /<default workspace root>
+2024-10-05 14:00:55.084 [info] [Info  - 2:00:55 PM] (469286) Auto-excluding **/node_modules
+2024-10-05 14:00:55.084 [info] [Info  - 2:00:55 PM] (469286) Auto-excluding **/__pycache__
+2024-10-05 14:00:55.084 [info] [Info  - 2:00:55 PM] (469286) Auto-excluding **/.*
+2024-10-05 14:00:55.104 [info] [Info  - 2:00:55 PM] (469286) Assuming Python version 3.12.6.final.0
+2024-10-05 14:00:55.127 [info] [Error - 2:00:55 PM] (469286) File or directory "/<default workspace root>" does not exist.
+2024-10-05 14:00:55.127 [info] [Info  - 2:00:55 PM] (469286) No source files found.
+2024-10-05 14:00:55.147 [info] [Info  - 2:00:55 PM] (469286) Setting environmentName for service "<default>": "3.12.6 (global)"
+2024-10-05 14:00:55.147 [info] [Info  - 2:00:55 PM] (469286) Setting pythonPath for service "<default>": "/bin/python"
+2024-10-05 14:00:55.148 [info] [Info  - 2:00:55 PM] (469286) No include entries specified; assuming /<default workspace root>
+2024-10-05 14:00:55.148 [info] [Info  - 2:00:55 PM] (469286) Auto-excluding **/node_modules
+2024-10-05 14:00:55.148 [info] [Info  - 2:00:55 PM] (469286) Auto-excluding **/__pycache__
+2024-10-05 14:00:55.148 [info] [Info  - 2:00:55 PM] (469286) Auto-excluding **/.*
+2024-10-05 14:00:55.160 [info] [Info  - 2:00:55 PM] (469286) Assuming Python version 3.12.6.final.0
+2024-10-05 14:00:55.181 [info] [Error - 2:00:55 PM] (469286) File or directory "/<default workspace root>" does not exist.
+2024-10-05 14:00:55.182 [info] [Info  - 2:00:55 PM] (469286) No source files found.
+2024-10-05 14:00:55.303 [info] [Info  - 2:00:55 PM] (469286) Background analysis(1) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 14:00:55.304 [info] [Info  - 2:00:55 PM] (469286) Background analysis(1) started

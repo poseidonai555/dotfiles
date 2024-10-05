@@ -1,0 +1,25 @@
+2024-10-05 13:07:09.208 [error] Cannot read properties of undefined (reading 'activate'): TypeError: Cannot read properties of undefined (reading 'activate')
+    at XVe.centerLayout (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:779:55660)
+    at VTs.centerMainEditorLayout (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3070:58611)
+    at NQ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3070:38453)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:733)
+    at x.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:803)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:1020)
+    at XVe.rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:779:56684)
+    at XVe.qc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:779:56413)
+    at XVe.pc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:779:55953)
+    at XVe.oc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:779:55779)
+    at XVe.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:779:53685)
+    at XVe.create (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:667:67667)
+    at VTs.rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3070:82687)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3070:79917
+    at dlt.invokeFunction (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1355:673)
+    at VTs.startup (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3070:79635)
+    at _Ms.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3072:98026)
+    at async $ (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.js:3:764)
+2024-10-05 13:07:09.293 [info] Started local extension host with pid 409659.
+2024-10-05 13:07:09.390 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-10-05 13:07:11.937 [info] [perf] Render performance baseline is 10ms
+2024-10-05 13:48:16.748 [info] Started local extension host with pid 454001.
+2024-10-05 13:48:16.834 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-10-05 13:48:22.189 [info] [perf] Render performance baseline is 13ms

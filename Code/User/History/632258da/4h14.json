@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 1,
+    "editor.wordWrap": "on",
+    "editor.lineNumbers": "off",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "workbench.colorTheme": "Midnight Synth",
+    "extensions.ignoreRecommendations": true,
+    "[latex]": {},
+    "security.workspace.trust.untrustedFiles": "open",
+    "ltex.language": "fr"
+}

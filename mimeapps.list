@@ -1,0 +1,31 @@
+[Added Associations]
+text/plain=gvim.desktop;code.desktop;
+video/x-matroska=vlc-2.desktop;
+
+[Default Applications]
+text/html=google-chrome.desktop
+text/plain=gvim.desktop;
+video/x-matroska=vlc-2.desktop;
+x-scheme-handler/\x04ú¿J$÷ÿÿ\xe4Á\xea\x0bıÿÿÿ66588588082=\x04\xfa\xbfJ$\xf7\xff\xff\xe4\xc1\xea\x0b\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/*\x05Uiû\xdcÿÿj\x151\xd9üÿÿÿ66588588082=*\x05Ui\xfb\xdc\xff\xffj\x151\xd9\xfc\xff\xff\xff66588588082.desktop
+x-scheme-handler/6I#Ä³\xc7ÿÿ\xd6\x1a™Tıÿÿÿ66588588082=6I#Ä³\xc7\xff\xff\xd6\x1a\x99T\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/8Ç¹Z¾\xceÿÿøS\xdaìüÿÿÿ66588588082=8Ç¹Z\xbe\xce\xff\xff\xf8S\xda\xec\xfc\xff\xff\xff66588588082.desktop
+x-scheme-handler/C\xe8\xa1%\xc7ÿÿ\x03›5=\xfd\xff\xff\xff66588588082=C\xe8\xa1%\x9e\xc7\xff\xff\x03\x9b5=\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/iõœ“\x0c\xc4ÿÿ\xc9ğ\xd3=i\xf5\x9c\x93\x0c\xc4\xff\xff\xc9\xf0\xd3.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/wWz\xf0z\xceÿÿw\x10Púüÿÿÿ66588588082=wWz\xf0z\xce\xff\xffw\x10P\xfa\xfc\xff\xff\xff66588588082.desktop
+x-scheme-handler/ˆ‘\x14LüÿÿA‹\xda*ıÿÿÿ66588588082=\x81\x88\x91\x14L\xfc\xff\xffA\x8b\xda*\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/…­F\x17U\xc7ÿÿ¥\x1e•Gıÿÿÿ66588588082=\x85\xadF\x17U\xc7\xff\xff\xa5\x1e\x95G\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/—n\x0bG\x08\xe7ÿÿwÀ\xcfQıÿÿÿ66588588082=\x97n\x0bG\x08\xe7\xff\xffw\xc0\xcfQ\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/—*\x18d\xf2ÿÿ—8Fıÿÿÿ66588588082=\x97\x8d*\x18d\xf2\xff\xff\x978\x9eF\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/¥\x17¥U\xc7Àÿÿ¥\xceG\x19ıÿÿÿ66588588082=\xa5\x17\xa5U\xc7\xc0\xff\xff\xa5\xceG\x19\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/\xf2+Í\xccÛÿÿr$\xe8ëüÿÿÿ66588588082=\xf2+Í\xcc\xdb\xff\xffr$\xe8\xeb\xfc\xff\xff\xff66588588082.desktop
+x-scheme-handler/\xf4NÔ½O\xc4ÿÿ\xf4ç\xe1\x0cıÿÿÿ66588588082=\xf4NÔ½O\xc4\xff\xff\xf4\xe7\xe1\x0c\xfd\xff\xff\xff66588588082.desktop
+x-scheme-handler/Ó.å5òÿÿS°Tıÿÿÿ66588588082=Ó.å5òÿÿS°Tıÿÿÿ66588588082.desktop
+x-scheme-handler/w-ÂÎÿÿ7.=%ıÿÿÿ66588588082=w-ÂÎÿÿ7.=%ıÿÿÿ66588588082.desktop
+x-scheme-handler/¼²¿.¡ìÿÿ¼ «Qıÿÿÿ66588588082=¼²¿.¡ìÿÿ¼ «Qıÿÿÿ66588588082.desktop
+x-scheme-handler/¶8±IxÖÿÿVnã6ıÿÿÿ66588588082=¶8±IxÖÿÿVnã6ıÿÿÿ66588588082.desktop
+x-scheme-handler/ÉËBùòÿÿi«»ùüÿÿÿ66588588082=ÉËBùòÿÿi«»ùüÿÿÿ66588588082.desktop

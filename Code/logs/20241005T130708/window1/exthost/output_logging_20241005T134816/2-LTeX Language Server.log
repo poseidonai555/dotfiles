@@ -1,0 +1,19 @@
+[Info  - 1:48:17 PM] Starting ltex-ls...
+Oct 05, 2024 1:48:18 PM org.bsplines.ltexls.server.LtexLanguageServer initialize
+INFO: ltex-ls 15.2.0 - initializing...
+Oct 05, 2024 1:48:18 PM org.bsplines.ltexls.tools.I18n setLocale
+INFO: Setting locale to 'en'
+Oct 05, 2024 1:48:18 PM org.bsplines.ltexls.settings.SettingsManager$Companion logDifferentSettings
+FINE: Reinitializing LanguageTool due to different settings for language 'en-GB': setting 'settings', old 'null', new 'non-null'
+Oct 05, 2024 1:48:18 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: ""
+Oct 05, 2024 1:48:18 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Oct 05, 2024 1:48:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 05, 2024 1:48:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 05, 2024 1:48:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 05, 2024 1:48:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

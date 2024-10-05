@@ -1,0 +1,4 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMarinette has no idea how to react, so she apologises\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QChat Noir realizes that it is not safe for her here, and suggests that she should move somewhere else, or stay with them, claiming that what is the use of secret identities if one or both of them are dead\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMarinette says that he should consider it her returning the favour and reminds him how many times she has had to witness his death\\E$"}
+{"rule":"DAMAGE_OF_TO","sentence":"^\\Q- Chat Noir responds that he is sorry for her and that he does have a lot to lose after consideration of the people who have been affected by the damage of the akuma attack.\\E$"}

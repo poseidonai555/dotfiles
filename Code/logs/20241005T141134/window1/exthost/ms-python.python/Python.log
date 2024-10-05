@@ -1,0 +1,7 @@
+2024-10-05 14:11:34.945 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-05 14:11:34.945 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-05 14:11:34.945 [info] Experiment 'pythonTestAdapter' is active
+2024-10-05 14:11:34.965 [info] Python interpreter path: /bin/python
+2024-10-05 14:11:35.000 [info] > pixi --version
+2024-10-05 14:11:35.943 [info] Starting Pylance language server.
+2024-10-05 14:11:36.437 [info] CreateEnv Trigger - Workspace not found for /home/poseidon/.local/bin/mediaplayer.py

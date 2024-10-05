@@ -1,0 +1,77 @@
+    OpenRGB v0.9
+    Commit: b5f46e3f1de03595656c682fc2f068b66e735e63 from 2023-07-09 22:51:47 -0500
+    Launched: 20240925_145749
+====================================================================================================
+
+0     |Info:    Found file: Purple.orp attempting to validate header
+0     |Info:    Valid v4 profile found for Purple
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    |               Start device detection               |
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    Initializing HID interfaces: Success
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    |             Detecting I2C interfaces               |
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    Registering I2C interface: /dev/i2c-3 Device 0000:0000 Subsystem: 0000:0000
+1008  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:2684 Subsystem: 1462:5100
+1008  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2684 Subsystem: 1462:5100
+1008  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:7A23 Subsystem: 1043:8882
+1008  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2684 Subsystem: 1462:5100
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    |               Detecting I2C devices                |
+1008  |Info:    ------------------------------------------------------
+1290  |Info:    ------------------------------------------------------
+1290  |Info:    |               Detecting I2C PCI devices            |
+1290  |Info:    ------------------------------------------------------
+1291  |Info:    ------------------------------------------------------
+1291  |Info:    |               Detecting HID devices                |
+1291  |Info:    ------------------------------------------------------
+1477  |Info:    [Corsair Commander Core] Registering RGB controller
+1558  |Info:    [ASUS ROG STRIX Z790-F GAMING WIFI] Registering RGB controller
+1558  |Info:    ------------------------------------------------------
+1558  |Info:    |            Detecting libusb HID devices            |
+1558  |Info:    ------------------------------------------------------
+1576  |Info:    ------------------------------------------------------
+1576  |Info:    |              Detecting other devices               |
+1576  |Info:    ------------------------------------------------------
+1579  |Info:    ------------------------------------------------------
+1579  |Info:    |                Detection completed                 |
+1579  |Info:    ------------------------------------------------------
+1579  |Dialog:  <h2>WARNING:</h2><p>One or more I2C/SMBus interfaces failed to initialize.</p><p>RGB DRAM modules and some motherboards' onboard RGB lighting will not be available without I2C/SMBus.</p><p>On Linux, this is usually because the i2c-dev module is not loaded.  You must load the i2c-dev module along with the correct i2c driver for your motherboard.  This is usually i2c-piix4 for AMD systems and i2c-i801 for Intel systems.</p><p>See <a href='https://help.openrgb.org/'>help.openrgb.org</a> for additional troubleshooting steps if you keep seeing this message.<br></p>
+34513 |Info:    ------------------------------------------------------
+34513 |Info:    |               Start device detection               |
+34513 |Info:    ------------------------------------------------------
+34513 |Info:    Initializing HID interfaces: Success
+34521 |Info:    ------------------------------------------------------
+34521 |Info:    |             Detecting I2C interfaces               |
+34521 |Info:    ------------------------------------------------------
+34521 |Info:    Registering I2C interface: /dev/i2c-3 Device 0000:0000 Subsystem: 0000:0000
+34521 |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:2684 Subsystem: 1462:5100
+34521 |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2684 Subsystem: 1462:5100
+34521 |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:7A23 Subsystem: 1043:8882
+34521 |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2684 Subsystem: 1462:5100
+34521 |Info:    ------------------------------------------------------
+34521 |Info:    |               Detecting I2C devices                |
+34521 |Info:    ------------------------------------------------------
+34811 |Info:    ------------------------------------------------------
+34811 |Info:    |               Detecting I2C PCI devices            |
+34811 |Info:    ------------------------------------------------------
+34815 |Info:    ------------------------------------------------------
+34815 |Info:    |               Detecting HID devices                |
+34815 |Info:    ------------------------------------------------------
+34953 |Info:    [Corsair Commander Core] Registering RGB controller
+35037 |Info:    [ASUS ROG STRIX Z790-F GAMING WIFI] Registering RGB controller
+35037 |Info:    ------------------------------------------------------
+35037 |Info:    |            Detecting libusb HID devices            |
+35037 |Info:    ------------------------------------------------------
+35042 |Info:    ------------------------------------------------------
+35042 |Info:    |              Detecting other devices               |
+35042 |Info:    ------------------------------------------------------
+35043 |Info:    ------------------------------------------------------
+35043 |Info:    |                Detection completed                 |
+35043 |Info:    ------------------------------------------------------
+35044 |Dialog:  <h2>WARNING:</h2><p>One or more I2C/SMBus interfaces failed to initialize.</p><p>RGB DRAM modules and some motherboards' onboard RGB lighting will not be available without I2C/SMBus.</p><p>On Linux, this is usually because the i2c-dev module is not loaded.  You must load the i2c-dev module along with the correct i2c driver for your motherboard.  This is usually i2c-piix4 for AMD systems and i2c-i801 for Intel systems.</p><p>See <a href='https://help.openrgb.org/'>help.openrgb.org</a> for additional troubleshooting steps if you keep seeing this message.<br></p>
+62404 |Info:    Found file: purple.orp attempting to validate header
+62404 |Info:    Valid v4 profile found for purple
+64505 |Info:    Found file: purple.orp attempting to validate header
+64505 |Info:    Valid v4 profile found for purple

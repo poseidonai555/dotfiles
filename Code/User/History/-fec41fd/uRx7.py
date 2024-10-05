@@ -1,0 +1,5 @@
+x = int(input("Please enter a number: "))
+
+for i in range(x):
+    for j in range(i):
+        

@@ -1,0 +1,12 @@
+2024/10/05-16:11:53.870 5cf17 Reusing MANIFEST /home/poseidon/.config/opera/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/05-16:11:53.870 5cf17 Recovering log #117
+2024/10/05-16:11:53.871 5cf17 Reusing old log /home/poseidon/.config/opera/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/000117.log 
+2024/10/05-18:53:23.224 5cf16 Level-0 table #122: started
+2024/10/05-18:53:23.241 5cf16 Level-0 table #122: 1601909 bytes OK
+2024/10/05-18:53:23.246 5cf16 Delete type=0 #117
+2024/10/05-19:14:54.834 5cf17 Compacting 1@1 + 1@2 files
+2024/10/05-19:14:54.863 5cf17 Generated table #123@1: 8691 keys, 995688 bytes
+2024/10/05-19:14:54.863 5cf17 Compacted 1@1 + 1@2 files => 995688 bytes
+2024/10/05-19:14:54.867 5cf17 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/05-19:14:54.868 5cf17 Delete type=2 #122
+2024/10/05-19:14:54.868 5cf17 Delete type=2 #119

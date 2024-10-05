@@ -1,0 +1,15 @@
+2024/09/08-13:26:01.546 178e3 Reusing MANIFEST /home/poseidon/.config/opera/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/08-13:26:01.546 178e3 Recovering log #4
+2024/09/08-13:26:01.547 178e3 Reusing old log /home/poseidon/.config/opera/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
+2024/09/08-13:53:26.182 178e0 Level-0 table #8: started
+2024/09/08-13:53:26.208 178e0 Level-0 table #8: 1617622 bytes OK
+2024/09/08-13:53:26.213 178e0 Delete type=0 #4
+2024/09/08-13:53:26.214 178e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/08-13:53:26.215 178e0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x00c\x005\x00a\x00e\x001\x008\x00c\x00f\x00e\x00a\x004\x000\x00f\x002\x009\x003\x00a\x009\x008\x00f\x009\x008\x00d\x009\x00d\x002\x00b\x006\x000\x00b\x007\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 2591 : 1
+2024/09/08-13:53:26.215 178e0 Compacting 1@1 + 1@2 files
+2024/09/08-13:53:26.223 178e0 Generated table #9@1: 119 keys, 223112 bytes
+2024/09/08-13:53:26.223 178e0 Compacted 1@1 + 1@2 files => 223112 bytes
+2024/09/08-13:53:26.224 178e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/08-13:53:26.225 178e0 Delete type=2 #5
+2024/09/08-13:53:26.225 178e0 Delete type=2 #8
+2024/09/08-13:53:26.226 178e0 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x00c\x005\x00a\x00e\x001\x008\x00c\x00f\x00e\x00a\x004\x000\x00f\x002\x009\x003\x00a\x009\x008\x00f\x009\x008\x00d\x009\x00d\x002\x00b\x006\x000\x00b\x007\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 2591 : 1 .. (end); will stop at (end)

@@ -1,0 +1,21 @@
+2024/09/20-10:36:48.260 52eb Reusing MANIFEST /home/poseidon/.config/opera/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/20-10:36:48.260 52eb Recovering log #45
+2024/09/20-10:36:48.261 52eb Reusing old log /home/poseidon/.config/opera/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000045.log 
+2024/09/20-10:36:49.845 52eb Compacting 1@1 + 1@2 files
+2024/09/20-10:36:49.849 52eb Generated table #48@1: 157 keys, 446572 bytes
+2024/09/20-10:36:49.849 52eb Compacted 1@1 + 1@2 files => 446572 bytes
+2024/09/20-10:36:49.852 52eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/20-10:36:49.852 52eb Delete type=2 #46
+2024/09/20-10:36:49.852 52eb Delete type=2 #43
+2024/09/20-10:37:31.619 52eb Level-0 table #50: started
+2024/09/20-10:37:31.634 52eb Level-0 table #50: 1848124 bytes OK
+2024/09/20-10:37:31.640 52eb Delete type=0 #45
+2024/09/20-10:37:31.641 52eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/20-10:37:31.641 52eb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 25194 : 0
+2024/09/20-10:37:31.641 52eb Compacting 1@1 + 1@2 files
+2024/09/20-10:37:31.651 52eb Generated table #51@1: 173 keys, 543682 bytes
+2024/09/20-10:37:31.651 52eb Compacted 1@1 + 1@2 files => 543682 bytes
+2024/09/20-10:37:31.655 52eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/20-10:37:31.655 52eb Delete type=2 #48
+2024/09/20-10:37:31.655 52eb Delete type=2 #50
+2024/09/20-10:37:31.656 52eb Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 25194 : 0 .. (end); will stop at (end)

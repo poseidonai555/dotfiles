@@ -1,0 +1,23 @@
+# Network security threats
+
+## What is malicious software
+
+- A term used to describe any software that has been written with intent to cause damage
+
+## How does a virus work?
+
+- It attaches itself to a host program
+
+- This file must be opened
+
+- They usually become a resident in the memory once run
+
+- They copy themselves and infect other non-infected files by doing so
+
+- Can be found on attached to spreadsheets and word processing files as macros
+
+- Often spread due to the user's ignorance
+
+## How does a worm work
+
+- 
