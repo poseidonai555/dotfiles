@@ -1,7 +1,0 @@
-2024/09/21-21:00:29.975 12d2 Reusing MANIFEST /home/poseidon/.config/opera/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/21-21:00:29.975 12d2 Recovering log #3
-2024/09/21-21:00:29.980 12d2 Reusing old log /home/poseidon/.config/opera/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000003.log 
-2024/09/21-21:01:12.224 12d2 Level-0 table #5: started
-2024/09/21-21:01:12.233 12d2 Level-0 table #5: 429684 bytes OK
-2024/09/21-21:01:12.234 12d2 Delete type=0 #3
-2024/09/21-21:01:12.235 12d2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

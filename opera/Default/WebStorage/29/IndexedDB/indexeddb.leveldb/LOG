@@ -1,6 +1,0 @@
-2024/09/01-21:53:30.857 4439d Creating DB /home/poseidon/.config/opera/Default/WebStorage/29/IndexedDB/indexeddb.leveldb since it was missing.
-2024/09/01-21:53:30.859 4439d Reusing MANIFEST /home/poseidon/.config/opera/Default/WebStorage/29/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/09/01-21:53:33.822 44393 Level-0 table #5: started
-2024/09/01-21:53:33.826 44393 Level-0 table #5: 6030 bytes OK
-2024/09/01-21:53:33.830 44393 Delete type=0 #3
-2024/09/01-21:53:33.830 44393 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

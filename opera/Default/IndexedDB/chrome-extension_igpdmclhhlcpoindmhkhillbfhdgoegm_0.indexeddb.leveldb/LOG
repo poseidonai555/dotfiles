@@ -1,7 +1,0 @@
-2024/10/05-19:44:18.235 d7d79 Reusing MANIFEST /home/poseidon/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/05-19:44:18.235 d7d79 Recovering log #890
-2024/10/05-19:44:18.235 d7d79 Reusing old log /home/poseidon/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000890.log 
-2024/10/05-19:44:18.239 d7d79 Level-0 table #896: started
-2024/10/05-19:44:18.240 d7d79 Level-0 table #896: 14600 bytes OK
-2024/10/05-19:44:18.241 d7d79 Delete type=0 #890
-2024/10/05-19:44:18.241 d7d75 Manual compaction at level-0 from '\x00\xe6\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xe7\x00\x00\x00' @ 0 : 0; will stop at (end)
