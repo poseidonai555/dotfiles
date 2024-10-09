@@ -33,7 +33,6 @@
 	    "status-icons": {
 		"paused": "▶"
 	    },
-	    "artist-len": 0,
 	    "album-len": 0
 	},
 
@@ -243,7 +242,7 @@
             "format": "{}",
             "rotate": 0,
             "on-click": "hyprctl dispatch exec 'systemupdate.sh up'",
-            "interval": 86400, // once every day
+            "interval": 1800, // once every day
             "tooltip": true,
             "signal": 20,
         },
