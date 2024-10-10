@@ -28,6 +28,6 @@ ring-clear-color=9ccfd8
 line-clear-color=1f1d2e
 line-wrong-color=1f1d2e
 bs-hl-color=eb6f92
-datestr=%a, %B%e
+datestr=%a, %B %e
 timestr=%H:%M:%S
 ignore-empty-password
