@@ -18,7 +18,7 @@ framerate = 170
 
 # Manual sensitivity in %. If autosens is enabled, this will only be the initial value.
 # 200 means double height. Accepts only non-negative values.
-sensitivity = 75
+; sensitivity = 100
 
 # The number of bars (0-512). 0 sets it to auto (fill up console).
 # Bars' width and space between bars in number of characters.
@@ -32,7 +32,7 @@ sensitivity = 75
 ; bar_width = 20
 ; bar_spacing = 5
 
-# sdl_glsl have these default values, they are only used to calculate max number of bars.
+# sdl_glsl have these default values, they are only used to calulate max number of bars.
 ; bar_width = 1
 ; bar_spacing = 0
 
@@ -144,12 +144,10 @@ sensitivity = 75
 # use one of the predefined ones.
 ; method = noncurses
 
-# Orientation of the visualization. Can be 'bottom', 'top', 'left', 'right' or
-# 'horizontal'. Default is 'bottom'. 'left and 'right' are only supported on sdl
-# and ncruses output. 'horizontal' (bars go up and down from center) is only supported
-# on noncurses output.
-# Note: many fonts have weird or missing glyphs for characters used in orientations
-# other than 'bottom', which can make output not look right.
+# Orientation of the visualization. Can be 'bottom', 'top', 'left' or 'right'.
+# Default is 'bottom'. Other orientations are only supported on sdl and ncruses
+# output. Note: many fonts have weird glyphs for 'top' and 'right' characters,
+# which can make ncurses not look right.
 ; orientation = bottom
 
 # Visual channels. Can be 'stereo' or 'mono'.
@@ -189,11 +187,11 @@ sensitivity = 75
 # 'frequency' displays the lower cut off frequency of the bar above.
 # Only supported on ncurses and noncurses output.
 ; xaxis = none
- 
-# enable synchronized sync. 1 = on, 0 = off
+
+# enable alacritty synchronized updates. 1 = on, 0 = off
 # removes flickering in alacritty terminal emulator.
 # defaults to off since the behaviour in other terminal emulators is unknown
-; synchronized_sync = 0
+; alacritty_sync = 0
 
 # Shaders for sdl_glsl, located in $HOME/.config/cava/shaders
 ; vertex_shader = pass_through.vert
@@ -238,8 +236,6 @@ gradient_color_5 = '#f1bee7'  ; Light Pink
 gradient_color_6 = '#f5b7b1'  ; Soft Pink
 gradient_color_7 = '#f1948a'  ; Light Coral
 gradient_color_8 = '#f1948a'  ; Coral
-
-
 
 
 
