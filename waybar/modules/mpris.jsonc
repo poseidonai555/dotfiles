@@ -9,5 +9,7 @@
             "status-icons": {
                 "paused": "▶"
             },
-            "album-len": 0
+            "album-len": 0,
+            "title-len": 45,
+            "artist-len": 20
         },
