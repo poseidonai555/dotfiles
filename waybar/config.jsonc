@@ -21,7 +21,7 @@
     
     
     // sourced from modules based on config.ctl //
-
+	
 	"mpris": {
 	    "interval": 1,
       	    "format": "{player_icon} {dynamic}",
@@ -226,7 +226,7 @@
     },
     
     "pulseaudio#microphone": {
-        "format": "{format_source}",
+        "format": "{format_source} {source_volume}",
         "rotate": 0,
         "format-source": "",
         "format-source-muted": "",
