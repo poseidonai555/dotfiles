@@ -79,11 +79,11 @@ framerate = 170
 # For jack 'source' will be the name of the JACK server to connect to, e.g. 'foobar'. Default: 'default'.
 # README.md contains further information on how to setup CAVA for JACK.
 #
-; method = pulse
-; source = auto
-
-method = pipewire
+method = pulse
 source = auto
+
+; method = pipewire
+; source = auto
 
 ; method = alsa
 ; source = hw:Loopback,1
@@ -227,17 +227,15 @@ source = auto
 # Gradient mode, only hex defined colors are supported,
 # background must also be defined in hex or remain commented out. 1 = on, 0 = off.
 # You can define as many as 8 different colors. They range from bottom to top of screen
-gradient = 1
-gradient_color_1 = '#800080'  ; Purple
-gradient_color_2 = '#9b59b6'  ; Light Purple
-gradient_color_3 = '#c39bd3'  ; Lavender
-gradient_color_4 = '#d7bde2'  ; Very Light Lavender
-gradient_color_5 = '#f1bee7'  ; Light Pink
-gradient_color_6 = '#f5b7b1'  ; Soft Pink
-gradient_color_7 = '#f1948a'  ; Light Coral
-gradient_color_8 = '#f1948a'  ; Coral
-
-
+gradient = 1 
+gradient_color_1 = '#9A0CDE'  ; 
+gradient_color_2 = '#a01eda'  ; 
+gradient_color_3 = '#a733d7'  ; 
+gradient_color_4 = '#ab4fd3'  ; 
+gradient_color_5 = '#b06bcf'  ; 
+gradient_color_6 = '#b88fcb'  ; 
+gradient_color_7 = '#c3a3c7'  ; 
+gradient_color_8 = '#d3b7e0'  ; 
 
 [smoothing]
 
