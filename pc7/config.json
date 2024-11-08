@@ -1770,15 +1770,18 @@
 	"isMaximized": false,
 	"Fullscreen": false,
 	"window": {
-		"width": 2560,
-		"height": 1440,
-		"x": 0,
-		"y": 0
+		"width": 2542,
+		"height": 1389,
+		"x": 9,
+		"y": 42
 	},
 	"isUserLive": false,
-	"customSkyMode": "disabled",
-	"customSkyColor": "#000000",
+	"customSkyMode": "color",
+	"customSkyColor": "#9a0cde",
 	"customSkySpinSpeed": 0,
 	"customSkyImageURL": "",
-	"customSkyVideoURL": ""
+	"customSkyVideoURL": "",
+	"customSkyImagePath": "",
+	"customSkyVideoPath": "",
+	"customSkyDisableForComp": true
 }

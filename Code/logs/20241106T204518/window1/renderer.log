@@ -1,0 +1,12 @@
+2024-11-06 20:45:18.472 [info] Started local extension host with pid 784359.
+2024-11-06 20:45:18.548 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-06 20:45:21.040 [info] [perf] Render performance baseline is 19ms
+2024-11-06 20:45:22.549 [info] Started local extension host with pid 784891.
+2024-11-06 20:45:22.625 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-06 20:45:24.553 [info] Started local extension host with pid 785043.
+2024-11-06 20:45:24.630 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-06 20:45:25.588 [info] Started local extension host with pid 785201.
+2024-11-06 20:45:25.657 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-06 20:45:28.192 [info] Started local extension host with pid 785641.
+2024-11-06 20:45:28.247 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-06 20:45:34.382 [info] [perf] Render performance baseline is 18ms

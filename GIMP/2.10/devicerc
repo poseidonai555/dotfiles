@@ -3,9 +3,11 @@
 (GimpDeviceInfo "Core Pointer"
     (icon-name "gimp-cursor")
     (name "Core Pointer")
-    (tool-options "GimpFilterOptions"
-        (tool "gimp-operation-tool"))
-    (use-fg-bg yes)
+    (tool-options "GimpRectangleSelectOptions"
+        (aspect-denominator 249)
+        (aspect-numerator 249)
+        (tool "gimp-ellipse-select-tool"))
+    (use-fg-bg no)
     (use-opacity-paint-mode no)
     (use-brush no)
     (use-dynamics no)

@@ -1,0 +1,36 @@
+2024/10/10-08:35:48.453 1e9c3 Reusing MANIFEST /home/poseidon/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/10-08:35:48.453 1e9c3 Recovering log #48
+2024/10/10-08:35:48.453 1e9c3 Reusing old log /home/poseidon/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000048.log 
+2024/10/10-08:35:48.453 1e9c3 Delete type=2 #46
+2024/10/10-08:35:48.469 1e9c3 Level-0 table #53: started
+2024/10/10-08:35:48.473 1e9c3 Level-0 table #53: 528 bytes OK
+2024/10/10-08:35:48.477 1e9c3 Delete type=0 #48
+2024/10/10-08:35:48.477 1e897 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 413 : 1
+2024/10/10-08:35:48.477 1e897 Compacting 1@0 + 1@1 files
+2024/10/10-08:35:48.479 1e897 Generated table #54@0: 114 keys, 7708 bytes
+2024/10/10-08:35:48.479 1e897 Compacted 1@0 + 1@1 files => 7708 bytes
+2024/10/10-08:35:48.483 1e897 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/10-08:35:48.483 1e897 Delete type=2 #53
+2024/10/10-08:35:48.484 1e897 Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 413 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/10-08:35:49.015 1e9c3 Level-0 table #56: started
+2024/10/10-08:35:49.019 1e9c3 Level-0 table #56: 598 bytes OK
+2024/10/10-08:35:49.024 1e9c3 Delete type=0 #52
+2024/10/10-08:35:49.024 1e9c3 Delete type=2 #50
+2024/10/10-08:35:49.024 1e897 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 435 : 1
+2024/10/10-08:35:49.024 1e897 Compacting 1@0 + 1@1 files
+2024/10/10-08:35:49.027 1e897 Generated table #57@0: 116 keys, 7736 bytes
+2024/10/10-08:35:49.027 1e897 Compacted 1@0 + 1@1 files => 7736 bytes
+2024/10/10-08:35:49.032 1e897 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/10-08:35:49.032 1e897 Delete type=2 #56
+2024/10/10-08:35:49.032 1e897 Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 435 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/10-08:35:49.032 1e9c3 Level-0 table #59: started
+2024/10/10-08:35:49.034 1e9c3 Level-0 table #59: 481 bytes OK
+2024/10/10-08:35:49.038 1e9c3 Delete type=2 #54
+2024/10/10-08:35:49.038 1e9c3 Delete type=0 #55
+2024/10/10-08:35:49.038 1e9c3 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 461 : 0
+2024/10/10-08:35:49.038 1e9c3 Compacting 1@0 + 1@1 files
+2024/10/10-08:35:49.040 1e9c3 Generated table #60@0: 114 keys, 7714 bytes
+2024/10/10-08:35:49.040 1e9c3 Compacted 1@0 + 1@1 files => 7714 bytes
+2024/10/10-08:35:49.045 1e9c3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/10-08:35:49.045 1e9c3 Delete type=2 #59
+2024/10/10-08:35:49.045 1e899 Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 461 : 0 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)

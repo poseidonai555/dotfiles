@@ -1,5 +1,6 @@
 [ExtractDialog]
 2560x1440 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/
 
 [General]
 LockSidebar=true

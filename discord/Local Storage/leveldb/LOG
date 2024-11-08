@@ -1,0 +1,5 @@
+2024/11/03-00:50:32.754 5531 Reusing MANIFEST /home/poseidon/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/03-00:50:32.767 5531 Recovering log #21
+2024/11/03-00:50:32.767 5531 Reusing old log /home/poseidon/.config/discord/Local Storage/leveldb/000021.log 
+2024/11/03-00:51:52.772 5532 Level-0 table #25: started
+2024/11/03-00:51:52.779 5532 Level-0 table #25: 833252 bytes OK

@@ -1,0 +1,1 @@
+Hey, I j wanted some second opinion on a fic I'm making, and I thought you'd be the best person to help me 😀. In the fanfic I'm writing, where Marinette is unable to cast her cure and has to deal with the consequences of this, some of which are personal. 

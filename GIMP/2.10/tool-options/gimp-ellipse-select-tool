@@ -1,4 +1,6 @@
 # GIMP gimp-ellipse-select-tool options
 
+(aspect-denominator 249)
+(aspect-numerator 249)
 
 # end of gimp-ellipse-select-tool options

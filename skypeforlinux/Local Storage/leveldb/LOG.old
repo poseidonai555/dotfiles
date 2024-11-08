@@ -1,0 +1,5 @@
+2024/10/11-19:52:37.650 d5702 Creating DB /home/poseidon/.config/skypeforlinux/Local Storage/leveldb since it was missing.
+2024/10/11-19:52:37.652 d5702 Reusing MANIFEST /home/poseidon/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2024/10/11-19:53:38.010 d5774 Level-0 table #5: started
+2024/10/11-19:53:38.023 d5774 Level-0 table #5: 119739 bytes OK
+2024/10/11-19:53:38.028 d5774 Delete type=0 #3

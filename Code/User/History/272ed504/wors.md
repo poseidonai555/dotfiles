@@ -1,0 +1,1 @@
+Hey, I j wanted a second opinion on a fic I'm making, and I thought you'd be the best person to help me since you're a huge fan of the show (smile emoji). Can I send you the details / plan file?

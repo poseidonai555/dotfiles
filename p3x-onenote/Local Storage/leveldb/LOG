@@ -1,0 +1,5 @@
+2024/10/10-08:17:45.614 17d20 Creating DB /home/poseidon/.config/p3x-onenote/Local Storage/leveldb since it was missing.
+2024/10/10-08:17:45.622 17d20 Reusing MANIFEST /home/poseidon/.config/p3x-onenote/Local Storage/leveldb/MANIFEST-000001
+2024/10/10-08:18:56.528 17d21 Level-0 table #5: started
+2024/10/10-08:18:56.539 17d21 Level-0 table #5: 33517 bytes OK
+2024/10/10-08:18:56.544 17d21 Delete type=0 #3

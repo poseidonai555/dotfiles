@@ -1,0 +1,23 @@
+2024/11/02-18:30:48.081 24dc0 Reusing MANIFEST /home/poseidon/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/02-18:30:48.084 24dc0 Recovering log #11
+2024/11/02-18:30:48.091 24dc0 Level-0 table #13: started
+2024/11/02-18:30:48.100 24dc0 Level-0 table #13: 839785 bytes OK
+2024/11/02-18:30:48.102 24dc0 Delete type=0 #11
+2024/11/02-18:32:48.789 24dc0 Level-0 table #16: started
+2024/11/02-18:32:48.812 24dc0 Level-0 table #16: 2440267 bytes OK
+2024/11/02-18:32:48.819 24dc0 Delete type=0 #14
+2024/11/02-18:32:48.820 24dc0 Compacting 4@0 + 0@1 files
+2024/11/02-18:32:48.832 24dc0 Generated table #17@0: 12 keys, 2427485 bytes
+2024/11/02-18:32:48.840 24dc0 Generated table #18@0: 92 keys, 842627 bytes
+2024/11/02-18:32:48.841 24dc0 Compacted 4@0 + 0@1 files => 3270112 bytes
+2024/11/02-18:32:48.842 24dc0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/11/02-18:32:48.842 24dc0 Delete type=2 #16
+2024/11/02-18:32:48.842 24dc0 Delete type=2 #13
+2024/11/02-18:32:48.842 24dc0 Delete type=2 #7
+2024/11/02-18:32:48.842 24dc0 Delete type=2 #10
+2024/11/02-19:01:25.034 24dc0 Level-0 table #20: started
+2024/11/02-19:01:25.044 24dc0 Level-0 table #20: 21014 bytes OK
+2024/11/02-19:01:25.049 24dc0 Delete type=0 #15
+2024/11/02-22:35:22.455 24dc0 Level-0 table #22: started
+2024/11/02-22:35:22.466 24dc0 Level-0 table #22: 2449885 bytes OK
+2024/11/02-22:35:22.469 24dc0 Delete type=0 #19

@@ -1,0 +1,1 @@
+Hey, I j wanted a second opinion on a fic I'm making, and I thought you'd be the best person to help me since you're a huge fan of the show (smile emoji). Essentially Marinette is unable to cast her miraculous ladybug after a battle, and she has to try and fix the permanent consequences of it, some of which are personal. 

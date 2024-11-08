@@ -1,0 +1,20 @@
+{
+	"config" : 
+	[
+		"/home/poseidon/.local/share/Steam/config"
+	],
+	"external_drivers" : 
+	[
+		"/usr/lib/steamvr/alvr/"
+	],
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"/home/poseidon/.local/share/Steam/logs"
+	],
+	"runtime" : 
+	[
+		"/home/poseidon/.local/share/Steam/steamapps/common/SteamVR"
+	],
+	"version" : 1
+}

@@ -1,0 +1,14 @@
+2024/11/06-21:57:41.837 bc28 Reusing MANIFEST /home/poseidon/.config/Prospect Mail/Local Storage/leveldb/MANIFEST-000001
+2024/11/06-21:57:41.837 bc28 Recovering log #44
+2024/11/06-21:57:41.839 bc28 Level-0 table #47: started
+2024/11/06-21:57:41.840 bc28 Level-0 table #47: 25905 bytes OK
+2024/11/06-21:57:41.842 bc28 Delete type=0 #44
+2024/11/06-21:57:41.842 bc28 Compacting 4@0 + 1@1 files
+2024/11/06-21:57:41.845 bc28 Generated table #49@0: 36 keys, 23854 bytes
+2024/11/06-21:57:41.845 bc28 Compacted 4@0 + 1@1 files => 23854 bytes
+2024/11/06-21:57:41.847 bc28 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/06-21:57:41.847 bc28 Delete type=2 #37
+2024/11/06-21:57:41.847 bc28 Delete type=2 #42
+2024/11/06-21:57:41.847 bc28 Delete type=2 #39
+2024/11/06-21:57:41.847 bc28 Delete type=2 #45
+2024/11/06-21:57:41.847 bc28 Delete type=2 #47

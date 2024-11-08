@@ -1,0 +1,13 @@
+[Info  - 7:10:35 PM] Starting ltex-ls...
+Nov 05, 2024 7:10:36 PM org.bsplines.ltexls.server.LtexLanguageServer initialize
+INFO: ltex-ls 15.2.0 - initializing...
+Nov 05, 2024 7:10:36 PM org.bsplines.ltexls.tools.I18n setLocale
+INFO: Setting locale to 'en'
+Nov 05, 2024 7:10:36 PM org.bsplines.ltexls.settings.SettingsManager$Companion logDifferentSettings
+FINE: Reinitializing LanguageTool due to different settings for language 'en-GB': setting 'settings', old 'null', new 'non-null'
+Nov 05, 2024 7:10:36 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "The structure of IP addresses\n\nIPv4\n\n32 bits used\n\nRange from 000.000.000.000 \u2014 255.255.255.255\n\nAro"... (truncated to 100 characters)
+Nov 05, 2024 7:10:37 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 5 rule matches
+Nov 05, 2024 7:10:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

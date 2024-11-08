@@ -1,0 +1,1787 @@
+{
+	"clientBindSettings": true,
+	"smartTrading": true,
+	"lang": "en_US",
+	"autoPlay": true,
+	"enableResourceSwapper": true,
+	"enableChangelogs": true,
+	"enableSocialHubTabs": true,
+	"enableAltMng": true,
+	"autoScreenshot": "disable",
+	"blockSpins": false,
+	"customUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36",
+	"enableRPC": true,
+	"shareMapInfo": true,
+	"shareModeInfo": true,
+	"shareClassInfo": true,
+	"shareTimerInfo": true,
+	"flagMode": "newMode",
+	"unlimitedFPS": false,
+	"angleType": "default",
+	"s_useInProcessGPU": true,
+	"webgl2Context": true,
+	"acceleratedCanvas": true,
+	"colorProfile": "default",
+	"s_removeUselessFeatures": true,
+	"s_helpfulFlags": true,
+	"s_gpuRasterization": true,
+	"e_increaseLimits": false,
+	"e_lowLatency": false,
+	"e_experimental": false,
+	"e_disableDirectComposition": false,
+	"e_disableThreadedScrolling": false,
+	"e_disableOffMainThreadCSSPaint": false,
+	"e_macExperimental": false,
+	"easyCSSMode": "disable",
+	"userCSSPath": "",
+	"easyCSSMode_Social": "disable",
+	"userCSSPath_Social": "",
+	"easyCSS_FaceFixer": false,
+	"easyCSS_StretchedRes": false,
+	"loadingScreenBackground": "off",
+	"loadingScreenBackground_Color": "#000",
+	"loadingScreenBackground_Source": "",
+	"loadingScreenImage": "off",
+	"loadingScreenImage_Source": "",
+	"endUIBackground": "off",
+	"endUIBackground_Color": "#000",
+	"endUIBackground_Source": "",
+	"lostConnectionBackground": "off",
+	"lostConnectionBackground_Color": "#000",
+	"lostConnectionBackground_Source": "",
+	"fixChatWidth": true,
+	"enableSelectableChat": false,
+	"enableAutoSpect": false,
+	"enablePingFix": false,
+	"showAltMenuPing": true,
+	"showSpecUtil": true,
+	"kpdPhoneFix": true,
+	"disableCSSAnimations": false,
+	"enableTimer": true,
+	"useOldWatermark": false,
+	"showExitBtn": "bottom",
+	"streamContainerMode": "off",
+	"altManagerUIMode": "V2",
+	"replaceEsportsMode": "altmanager",
+	"hidetlInfHold": false,
+	"hideNewsHolder": false,
+	"hideMerchHolder": false,
+	"hideHeaderRightSocial": false,
+	"hideHomeStoreAd": false,
+	"enableClanColor": true,
+	"enableBadges": true,
+	"showPC7Users": true,
+	"enableClearSpect": false,
+	"enablePlaceboFPS": false,
+	"placeboFPSAmount": 0,
+	"enableSufferMode": false,
+	"enableUnobTextMode": false,
+	"raveMode": "off",
+	"enableGrayscaleMode": false,
+	"enableResourceFilter": true,
+	"enableResourceFilter_EXP": true,
+	"enableResourceFilterKRPopup": false,
+	"enableResourceFilterBundlePopup": false,
+	"enableResourceFilterGiftPopup": false,
+	"enableResourceFilterSocialHub": true,
+	"enableChatLogs": true,
+	"chatTweaksMode": "off",
+	"showNukeCounter": false,
+	"enableNukeCounterGoal": false,
+	"nukeCounterGoalNumber": 0,
+	"showNukeCounterBackground": true,
+	"nukeCounterScale": "5",
+	"nukeCounterLeftOffsetP": "940",
+	"nukeCounterTopOffsetP": "500",
+	"enableConnectionCheckerInterval": false,
+	"connectionCheckerInterval": 30,
+	"connectionCheckerMode": "onlyEmpty_2",
+	"matchmakerSettings": "",
+	"searchOtherRegionsOnEmpty": true,
+	"joinMatchCustom": false,
+	"joinMatchOCustom": false,
+	"ignoreEmptyGames": true,
+	"joinRandomGameWhenNoneFound": true,
+	"minimumTimeLeft": "60",
+	"maxPlayerCount": "6",
+	"matchmakerOutputMode": "hideGameLink",
+	"enableKeystrokesOverlay": false,
+	"keysLeftOffsetP": "196",
+	"keysTopOffsetP": "924",
+	"keysScale": "9",
+	"keysAuxKeybind1": "Q",
+	"keysAuxKeybind2": "R",
+	"keyBackgroundColor": "#262626",
+	"keyForegroundColor": "#eeeeee",
+	"enableRGBKeys": false,
+	"invertKeys": false,
+	"blockBanlogsTab": false,
+	"copySuspectInfo": "disabled",
+	"betterSuspectInfo": false,
+	"openCallMenuAfterAction": false,
+	"autoSpawnInCalls": true,
+	"enableInboxNotificationUtil": true,
+	"InboxNotificationUtilSettings": "",
+	"enableLinkCmd": false,
+	"enableClientCmd": true,
+	"enableProfileCmd": false,
+	"enableNukesCmd": false,
+	"enableModCmd": false,
+	"showTwitchChat": false,
+	"twitchChatHeight": 250,
+	"twitchChat_Color": "#FF0000",
+	"showTwitchChatBox": false,
+	"disableTwitchChatScroll": false,
+	"restrictTwitchTrolling": false,
+	"notifyOnTwitchFollow": true,
+	"notifyOnTwitchSub": true,
+	"notifyOnTwitchRaid": true,
+	"twitchChannelPointsUtil": true,
+	"matchmakerOptions": {
+		"Modes": {
+			"bhffa": {
+				"title": "BHFFA",
+				"type": "checkbox",
+				"val": false
+			},
+			"bhop": {
+				"title": "BHOP",
+				"type": "checkbox",
+				"val": false
+			},
+			"blitz": {
+				"title": "BLITZ",
+				"type": "checkbox",
+				"val": false
+			},
+			"boss": {
+				"title": "BOSS",
+				"type": "checkbox",
+				"val": false
+			},
+			"chs": {
+				"title": "CHS",
+				"type": "checkbox",
+				"val": false
+			},
+			"class": {
+				"title": "CLASS",
+				"type": "checkbox",
+				"val": false
+			},
+			"ctf": {
+				"title": "CTF",
+				"type": "checkbox",
+				"val": false
+			},
+			"def": {
+				"title": "DEF",
+				"type": "checkbox",
+				"val": false
+			},
+			"depo": {
+				"title": "DEPO",
+				"type": "checkbox",
+				"val": false
+			},
+			"depoffa": {
+				"title": "DEPOFFA",
+				"type": "checkbox",
+				"val": false
+			},
+			"dom": {
+				"title": "DOM",
+				"type": "checkbox",
+				"val": false
+			},
+			"ffa": {
+				"title": "FFA",
+				"type": "checkbox",
+				"val": true
+			},
+			"gdepo": {
+				"title": "GDEPO",
+				"type": "checkbox",
+				"val": false
+			},
+			"gun": {
+				"title": "GUN",
+				"type": "checkbox",
+				"val": false
+			},
+			"hide": {
+				"title": "HIDE",
+				"type": "checkbox",
+				"val": false
+			},
+			"infect": {
+				"title": "INFECT",
+				"type": "checkbox",
+				"val": false
+			},
+			"kc": {
+				"title": "KC",
+				"type": "checkbox",
+				"val": false
+			},
+			"king": {
+				"title": "KING",
+				"type": "checkbox",
+				"val": false
+			},
+			"krank": {
+				"title": "KRANK",
+				"type": "checkbox",
+				"val": true
+			},
+			"lms": {
+				"title": "LMS",
+				"type": "checkbox",
+				"val": false
+			},
+			"oitc": {
+				"title": "OITC",
+				"type": "checkbox",
+				"val": false
+			},
+			"point": {
+				"title": "POINT",
+				"type": "checkbox",
+				"val": false
+			},
+			"race": {
+				"title": "RACE",
+				"type": "checkbox",
+				"val": false
+			},
+			"raid": {
+				"title": "RAID",
+				"type": "checkbox",
+				"val": false
+			},
+			"sdm": {
+				"title": "SDM",
+				"type": "checkbox",
+				"val": false
+			},
+			"sharp": {
+				"title": "SHARP",
+				"type": "checkbox",
+				"val": false
+			},
+			"simon": {
+				"title": "SIMON",
+				"type": "checkbox",
+				"val": false
+			},
+			"stalk": {
+				"title": "STALK",
+				"type": "checkbox",
+				"val": false
+			},
+			"tdm": {
+				"title": "TDM",
+				"type": "checkbox",
+				"val": false
+			},
+			"prop": {
+				"title": "PROP",
+				"type": "checkbox",
+				"val": false
+			},
+			"trade": {
+				"title": "TRADE",
+				"type": "checkbox",
+				"val": false
+			},
+			"trai": {
+				"title": "TRAI",
+				"type": "checkbox",
+				"val": false
+			},
+			"tdf": {
+				"title": "TDF",
+				"type": "checkbox",
+				"val": false
+			},
+			"zomb": {
+				"title": "ZOMB",
+				"type": "checkbox",
+				"val": false
+			}
+		},
+		"Regions": {
+			"nl-ams": {
+				"title": "Amsterdam",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-ga": {
+				"title": "Atlanta",
+				"type": "checkbox",
+				"val": false
+			},
+			"brz": {
+				"title": "Brazil",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-il": {
+				"title": "Chicago",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-tx": {
+				"title": "Dallas",
+				"type": "checkbox",
+				"val": false
+			},
+			"de-fra": {
+				"title": "Frankfurt",
+				"type": "checkbox",
+				"val": true
+			},
+			"us-hi": {
+				"title": "Hawaii",
+				"type": "checkbox",
+				"val": false
+			},
+			"blr": {
+				"title": "India",
+				"type": "checkbox",
+				"val": false
+			},
+			"gb-lon": {
+				"title": "London",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-ca-la": {
+				"title": "Los Angeles",
+				"type": "checkbox",
+				"val": false
+			},
+			"mx-cmx": {
+				"title": "Mexico",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-fl": {
+				"title": "Miami",
+				"type": "checkbox",
+				"val": false
+			},
+			"me-bhn": {
+				"title": "Middle East",
+				"type": "checkbox",
+				"val": false
+			},
+			"as-mb": {
+				"title": "Mumbai",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-nj": {
+				"title": "New York",
+				"type": "checkbox",
+				"val": false
+			},
+			"fr-par": {
+				"title": "Paris",
+				"type": "checkbox",
+				"val": false
+			},
+			"pol": {
+				"title": "Poland",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-wa": {
+				"title": "Seattle",
+				"type": "checkbox",
+				"val": false
+			},
+			"us-ca-sv": {
+				"title": "Silicon Valley",
+				"type": "checkbox",
+				"val": false
+			},
+			"sgp": {
+				"title": "Singapore",
+				"type": "checkbox",
+				"val": false
+			},
+			"af-ct": {
+				"title": "South Africa",
+				"type": "checkbox",
+				"val": false
+			},
+			"as-seoul": {
+				"title": "South Korea",
+				"type": "checkbox",
+				"val": false
+			},
+			"eu-stm": {
+				"title": "Sweden",
+				"type": "checkbox",
+				"val": false
+			},
+			"au-syd": {
+				"title": "Sydney",
+				"type": "checkbox",
+				"val": false
+			},
+			"jb-hnd": {
+				"title": "Tokyo",
+				"type": "checkbox",
+				"val": false
+			},
+			"tor": {
+				"title": "Toronto",
+				"type": "checkbox",
+				"val": false
+			},
+			"sss": {
+				"title": "Super Secret Servers",
+				"type": "checkbox",
+				"val": true
+			},
+			"iow": {
+				"title": "Iowa",
+				"type": "checkbox",
+				"val": true
+			}
+		}
+	},
+	"InboxNotificationUtilOptions": {
+		"Notifications": {
+			"follower": {
+				"title": "Followers",
+				"type": "checkbox",
+				"val": true
+			},
+			"hubComment": {
+				"title": "Hub Comments",
+				"type": "checkbox",
+				"val": true
+			},
+			"gift": {
+				"title": "Gift Notifcations",
+				"type": "checkbox",
+				"val": true
+			},
+			"crafting": {
+				"title": "Crafting Notifications",
+				"type": "checkbox",
+				"val": true
+			},
+			"other": {
+				"title": "Other Notifications",
+				"type": "checkbox",
+				"val": true
+			}
+		}
+	},
+	"twitchChannelPointsOptions": {
+		"Channel_Rewards": {
+			"Confetti_assign": {
+				"title": "Confetti - Reward",
+				"desc": "Command: !pc7 confetti | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Cheer_Sound_assign": {
+				"title": "Cheer Sound - Reward",
+				"desc": "Command: !pc7 cheer | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Siren_Sound_assign": {
+				"title": "Siren Sound - Reward",
+				"desc": "Command: !pc7 siren | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"UwU_Sound_assign": {
+				"title": "UwU Sound - Reward",
+				"desc": "Command: !pc7 uwu | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"OwO_Sound_assign": {
+				"title": "OwO Sound - Reward",
+				"desc": "Command: !pc7 owo | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Sus_Sound_assign": {
+				"title": "Sus Sound - Reward",
+				"desc": "Command: !pc7 sus | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Knocking_Sound_assign": {
+				"title": "Knocking Sound - Reward",
+				"desc": "Command: !pc7 knock | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"RickRoll_Sound_assign": {
+				"title": "Rick Roll Sound - Reward",
+				"desc": "Command: !pc7 rickroll | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"WTF_assign": {
+				"title": "WTF - Reward",
+				"desc": "Command: !pc7 wtf | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Schizo_assign": {
+				"title": "Schizo - Reward",
+				"desc": "Command: !pc7 schizo | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Bee_assign": {
+				"title": "Bee - Reward",
+				"desc": "Command: !pc7 bee | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"RGB_assign": {
+				"title": "RGB Mode Toggle - Reward",
+				"desc": "Command: !pc7 rgb | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"RGB_Start_assign": {
+				"title": "RGB Mode Start - Reward",
+				"desc": "Command: !pc7 rgb on | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"RGB_Stop_assign": {
+				"title": "RGB Mode Stop - Reward",
+				"desc": "Command: !pc7 rgb off | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Rave_assign": {
+				"title": "Rave Mode Toggle - Reward",
+				"desc": "Command: !pc7 rave | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Rave_Start_assign": {
+				"title": "Rave Mode Start - Reward",
+				"desc": "Command: !pc7 rave on | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Rave_Stop_assign": {
+				"title": "Rave Mode Stop - Reward",
+				"desc": "Command: !pc7 rave off | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Rave2_assign": {
+				"title": "Rave Mode 2 Toggle - Reward",
+				"desc": "Command: !pc7 rave2 | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Rave2_Start_assign": {
+				"title": "Rave Mode 2 Start - Reward",
+				"desc": "Command: !pc7 rave2 on | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Rave2_Stop_assign": {
+				"title": "Rave Mode 2 Stop - Reward",
+				"desc": "Command: !pc7 rave2 off | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Deepfry_assign": {
+				"title": "Deepfry Mode Toggle - Reward",
+				"desc": "Command: !pc7 deepfry | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Deepfry_Start_assign": {
+				"title": "Deepfry Mode Start - Reward",
+				"desc": "Command: !pc7 deepfry start | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Deepfry_Stop_assign": {
+				"title": "Deepfry Mode Stop - Reward",
+				"desc": "Command: !pc7 deepfry stop | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Bleak_assign": {
+				"title": "Bleak Mode Toggle - Reward",
+				"desc": "Command: !pc7 bleak | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Bleak_Start_assign": {
+				"title": "Bleak Mode Start - Reward",
+				"desc": "Command: !pc7 bleak start | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Bleak_Stop_assign": {
+				"title": "Bleak Mode Stop - Reward",
+				"desc": "Command: !pc7 bleak stop | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Boo_assign": {
+				"title": "Boo - Reward",
+				"desc": "Command: !pc7 boo | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Openhub_assign": {
+				"title": "Open Hub - Reward",
+				"desc": "Command: !pc7 openhub | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Checktrades_assign": {
+				"title": "Check Trades - Reward",
+				"desc": "Command: !pc7 checktrades | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Logout_assign": {
+				"title": "Logout - Reward",
+				"desc": "Command: !pc7 logout | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Undefined_assign": {
+				"title": "Undefined Game - Reward",
+				"desc": "Command: !pc7 undefined | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Newgame_assign": {
+				"title": "New Game - Reward",
+				"desc": "Command: !pc7 newgame | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			},
+			"Link_assign": {
+				"title": "Get Link - Reward",
+				"desc": "Command: !link | ID: unset",
+				"type": "button_assign",
+				"refresh": true,
+				"val": "unset",
+				"onclick": "window.gt.captureEventID(this)"
+			}
+		},
+		"Viewer_Commands": {
+			"Confetti_toggle": {
+				"title": "Confetti",
+				"desc": "Command: !pc7 confetti",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Cheer_Sound_toggle": {
+				"title": "Cheer Sound",
+				"desc": "Command: !pc7 cheer",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Siren_Sound_toggle": {
+				"title": "Siren Sound",
+				"desc": "Command: !pc7 siren",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"UwU_Sound_toggle": {
+				"title": "UwU Sound",
+				"desc": "Command: !pc7 uwu",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"OwO_Sound_toggle": {
+				"title": "OwO Sound",
+				"desc": "Command: !pc7 owo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Sus_Sound_toggle": {
+				"title": "Sus Sound",
+				"desc": "Command: !pc7 sus",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Knocking_Sound_toggle": {
+				"title": "Knocking Sound",
+				"desc": "Command: !pc7 knock",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RickRoll_Sound_toggle": {
+				"title": "Rick Roll Sound",
+				"desc": "Command: !pc7 rickroll",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"WTF_toggle": {
+				"title": "WTF",
+				"desc": "Command: !pc7 wtf",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Schizo_toggle": {
+				"title": "Schizo",
+				"desc": "Command: !pc7 schizo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bee_toggle": {
+				"title": "Bee",
+				"desc": "Command: !pc7 bee",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_toggle": {
+				"title": "RGB Mode Toggle",
+				"desc": "Command: !pc7 rgb",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Start_toggle": {
+				"title": "RGB Mode Start",
+				"desc": "Command: !pc7 rgb on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Stop_toggle": {
+				"title": "RGB Mode Stop",
+				"desc": "Command: !pc7 rgb off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_toggle": {
+				"title": "Rave Mode Toggle",
+				"desc": "Command: !pc7 rave",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Start_toggle": {
+				"title": "Rave Mode Start",
+				"desc": "Command: !pc7 rave on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Stop_toggle": {
+				"title": "Rave Mode Stop",
+				"desc": "Command: !pc7 rave off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_toggle": {
+				"title": "Rave Mode 2 Toggle",
+				"desc": "Command: !pc7 rave2",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Start_toggle": {
+				"title": "Rave Mode 2 Start",
+				"desc": "Command: !pc7 rave2 on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Stop_toggle": {
+				"title": "Rave Mode 2 Stop",
+				"desc": "Command: !pc7 rave2 off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_toggle": {
+				"title": "Deepfry Mode Toggle",
+				"desc": "Command: !pc7 deepfry",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Start_toggle": {
+				"title": "Deepfry Mode Start",
+				"desc": "Command: !pc7 deepfry start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Stop_toggle": {
+				"title": "Deepfry Mode Stop",
+				"desc": "Command: !pc7 deepfry stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_toggle": {
+				"title": "Bleak Mode Toggle",
+				"desc": "Command: !pc7 bleak",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Start_toggle": {
+				"title": "Bleak Mode Start",
+				"desc": "Command: !pc7 bleak start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Stop_toggle": {
+				"title": "Bleak Mode Stop",
+				"desc": "Command: !pc7 bleak stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Boo_toggle": {
+				"title": "Boo",
+				"desc": "Command: !pc7 boo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Openhub_toggle": {
+				"title": "Open Hub",
+				"desc": "Command: !pc7 openhub",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Checktrades_toggle": {
+				"title": "Check Trades",
+				"desc": "Command: !pc7 checktrades",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Logout_toggle": {
+				"title": "Logout",
+				"desc": "Command: !pc7 logout",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Undefined_toggle": {
+				"title": "Undefined Game",
+				"desc": "Command: !pc7 undefined",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Newgame_toggle": {
+				"title": "New Game",
+				"desc": "Command: !pc7 newgame",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Link_toggle": {
+				"title": "Get Link",
+				"desc": "Command: !link",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			}
+		},
+		"Sub_Commands": {
+			"Confetti_toggle": {
+				"title": "Confetti",
+				"desc": "Command: !pc7 confetti",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Cheer_Sound_toggle": {
+				"title": "Cheer Sound",
+				"desc": "Command: !pc7 cheer",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Siren_Sound_toggle": {
+				"title": "Siren Sound",
+				"desc": "Command: !pc7 siren",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"UwU_Sound_toggle": {
+				"title": "UwU Sound",
+				"desc": "Command: !pc7 uwu",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"OwO_Sound_toggle": {
+				"title": "OwO Sound",
+				"desc": "Command: !pc7 owo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Sus_Sound_toggle": {
+				"title": "Sus Sound",
+				"desc": "Command: !pc7 sus",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Knocking_Sound_toggle": {
+				"title": "Knocking Sound",
+				"desc": "Command: !pc7 knock",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RickRoll_Sound_toggle": {
+				"title": "Rick Roll Sound",
+				"desc": "Command: !pc7 rickroll",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"WTF_toggle": {
+				"title": "WTF",
+				"desc": "Command: !pc7 wtf",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Schizo_toggle": {
+				"title": "Schizo",
+				"desc": "Command: !pc7 schizo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bee_toggle": {
+				"title": "Bee",
+				"desc": "Command: !pc7 bee",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_toggle": {
+				"title": "RGB Mode Toggle",
+				"desc": "Command: !pc7 rgb",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Start_toggle": {
+				"title": "RGB Mode Start",
+				"desc": "Command: !pc7 rgb on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Stop_toggle": {
+				"title": "RGB Mode Stop",
+				"desc": "Command: !pc7 rgb off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_toggle": {
+				"title": "Rave Mode Toggle",
+				"desc": "Command: !pc7 rave",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Start_toggle": {
+				"title": "Rave Mode Start",
+				"desc": "Command: !pc7 rave on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Stop_toggle": {
+				"title": "Rave Mode Stop",
+				"desc": "Command: !pc7 rave off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_toggle": {
+				"title": "Rave Mode 2 Toggle",
+				"desc": "Command: !pc7 rave2",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Start_toggle": {
+				"title": "Rave Mode 2 Start",
+				"desc": "Command: !pc7 rave2 on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Stop_toggle": {
+				"title": "Rave Mode 2 Stop",
+				"desc": "Command: !pc7 rave2 off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_toggle": {
+				"title": "Deepfry Mode Toggle",
+				"desc": "Command: !pc7 deepfry",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Start_toggle": {
+				"title": "Deepfry Mode Start",
+				"desc": "Command: !pc7 deepfry start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Stop_toggle": {
+				"title": "Deepfry Mode Stop",
+				"desc": "Command: !pc7 deepfry stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_toggle": {
+				"title": "Bleak Mode Toggle",
+				"desc": "Command: !pc7 bleak",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Start_toggle": {
+				"title": "Bleak Mode Start",
+				"desc": "Command: !pc7 bleak start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Stop_toggle": {
+				"title": "Bleak Mode Stop",
+				"desc": "Command: !pc7 bleak stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Boo_toggle": {
+				"title": "Boo",
+				"desc": "Command: !pc7 boo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Openhub_toggle": {
+				"title": "Open Hub",
+				"desc": "Command: !pc7 openhub",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Checktrades_toggle": {
+				"title": "Check Trades",
+				"desc": "Command: !pc7 checktrades",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Logout_toggle": {
+				"title": "Logout",
+				"desc": "Command: !pc7 logout",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Undefined_toggle": {
+				"title": "Undefined Game",
+				"desc": "Command: !pc7 undefined",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Newgame_toggle": {
+				"title": "New Game",
+				"desc": "Command: !pc7 newgame",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Link_toggle": {
+				"title": "Get Link",
+				"desc": "Command: !link",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			}
+		},
+		"VIP_Commands": {
+			"Confetti_toggle": {
+				"title": "Confetti",
+				"desc": "Command: !pc7 confetti",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Cheer_Sound_toggle": {
+				"title": "Cheer Sound",
+				"desc": "Command: !pc7 cheer",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Siren_Sound_toggle": {
+				"title": "Siren Sound",
+				"desc": "Command: !pc7 siren",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"UwU_Sound_toggle": {
+				"title": "UwU Sound",
+				"desc": "Command: !pc7 uwu",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"OwO_Sound_toggle": {
+				"title": "OwO Sound",
+				"desc": "Command: !pc7 owo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Sus_Sound_toggle": {
+				"title": "Sus Sound",
+				"desc": "Command: !pc7 sus",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Knocking_Sound_toggle": {
+				"title": "Knocking Sound",
+				"desc": "Command: !pc7 knock",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RickRoll_Sound_toggle": {
+				"title": "Rick Roll Sound",
+				"desc": "Command: !pc7 rickroll",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"WTF_toggle": {
+				"title": "WTF",
+				"desc": "Command: !pc7 wtf",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Schizo_toggle": {
+				"title": "Schizo",
+				"desc": "Command: !pc7 schizo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bee_toggle": {
+				"title": "Bee",
+				"desc": "Command: !pc7 bee",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_toggle": {
+				"title": "RGB Mode Toggle",
+				"desc": "Command: !pc7 rgb",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Start_toggle": {
+				"title": "RGB Mode Start",
+				"desc": "Command: !pc7 rgb on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Stop_toggle": {
+				"title": "RGB Mode Stop",
+				"desc": "Command: !pc7 rgb off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_toggle": {
+				"title": "Rave Mode Toggle",
+				"desc": "Command: !pc7 rave",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Start_toggle": {
+				"title": "Rave Mode Start",
+				"desc": "Command: !pc7 rave on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Stop_toggle": {
+				"title": "Rave Mode Stop",
+				"desc": "Command: !pc7 rave off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_toggle": {
+				"title": "Rave Mode 2 Toggle",
+				"desc": "Command: !pc7 rave2",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Start_toggle": {
+				"title": "Rave Mode 2 Start",
+				"desc": "Command: !pc7 rave2 on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Stop_toggle": {
+				"title": "Rave Mode 2 Stop",
+				"desc": "Command: !pc7 rave2 off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_toggle": {
+				"title": "Deepfry Mode Toggle",
+				"desc": "Command: !pc7 deepfry",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Start_toggle": {
+				"title": "Deepfry Mode Start",
+				"desc": "Command: !pc7 deepfry start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Stop_toggle": {
+				"title": "Deepfry Mode Stop",
+				"desc": "Command: !pc7 deepfry stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_toggle": {
+				"title": "Bleak Mode Toggle",
+				"desc": "Command: !pc7 bleak",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Start_toggle": {
+				"title": "Bleak Mode Start",
+				"desc": "Command: !pc7 bleak start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Stop_toggle": {
+				"title": "Bleak Mode Stop",
+				"desc": "Command: !pc7 bleak stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Boo_toggle": {
+				"title": "Boo",
+				"desc": "Command: !pc7 boo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Openhub_toggle": {
+				"title": "Open Hub",
+				"desc": "Command: !pc7 openhub",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Checktrades_toggle": {
+				"title": "Check Trades",
+				"desc": "Command: !pc7 checktrades",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Logout_toggle": {
+				"title": "Logout",
+				"desc": "Command: !pc7 logout",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Undefined_toggle": {
+				"title": "Undefined Game",
+				"desc": "Command: !pc7 undefined",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Newgame_toggle": {
+				"title": "New Game",
+				"desc": "Command: !pc7 newgame",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Link_toggle": {
+				"title": "Get Link",
+				"desc": "Command: !link",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			}
+		},
+		"Moderator_Commands": {
+			"Confetti_toggle": {
+				"title": "Confetti",
+				"desc": "Command: !pc7 confetti",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Cheer_Sound_toggle": {
+				"title": "Cheer Sound",
+				"desc": "Command: !pc7 cheer",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Siren_Sound_toggle": {
+				"title": "Siren Sound",
+				"desc": "Command: !pc7 siren",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"UwU_Sound_toggle": {
+				"title": "UwU Sound",
+				"desc": "Command: !pc7 uwu",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"OwO_Sound_toggle": {
+				"title": "OwO Sound",
+				"desc": "Command: !pc7 owo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Sus_Sound_toggle": {
+				"title": "Sus Sound",
+				"desc": "Command: !pc7 sus",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Knocking_Sound_toggle": {
+				"title": "Knocking Sound",
+				"desc": "Command: !pc7 knock",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RickRoll_Sound_toggle": {
+				"title": "Rick Roll Sound",
+				"desc": "Command: !pc7 rickroll",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"WTF_toggle": {
+				"title": "WTF",
+				"desc": "Command: !pc7 wtf",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Schizo_toggle": {
+				"title": "Schizo",
+				"desc": "Command: !pc7 schizo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bee_toggle": {
+				"title": "Bee",
+				"desc": "Command: !pc7 bee",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_toggle": {
+				"title": "RGB Mode Toggle",
+				"desc": "Command: !pc7 rgb",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Start_toggle": {
+				"title": "RGB Mode Start",
+				"desc": "Command: !pc7 rgb on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"RGB_Stop_toggle": {
+				"title": "RGB Mode Stop",
+				"desc": "Command: !pc7 rgb off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_toggle": {
+				"title": "Rave Mode Toggle",
+				"desc": "Command: !pc7 rave",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Start_toggle": {
+				"title": "Rave Mode Start",
+				"desc": "Command: !pc7 rave on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave_Stop_toggle": {
+				"title": "Rave Mode Stop",
+				"desc": "Command: !pc7 rave off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_toggle": {
+				"title": "Rave Mode 2 Toggle",
+				"desc": "Command: !pc7 rave2",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Start_toggle": {
+				"title": "Rave Mode 2 Start",
+				"desc": "Command: !pc7 rave2 on",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Rave2_Stop_toggle": {
+				"title": "Rave Mode 2 Stop",
+				"desc": "Command: !pc7 rave2 off",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_toggle": {
+				"title": "Deepfry Mode Toggle",
+				"desc": "Command: !pc7 deepfry",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Start_toggle": {
+				"title": "Deepfry Mode Start",
+				"desc": "Command: !pc7 deepfry start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Deepfry_Stop_toggle": {
+				"title": "Deepfry Mode Stop",
+				"desc": "Command: !pc7 deepfry stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_toggle": {
+				"title": "Bleak Mode Toggle",
+				"desc": "Command: !pc7 bleak",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Start_toggle": {
+				"title": "Bleak Mode Start",
+				"desc": "Command: !pc7 bleak start",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Bleak_Stop_toggle": {
+				"title": "Bleak Mode Stop",
+				"desc": "Command: !pc7 bleak stop",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Boo_toggle": {
+				"title": "Boo",
+				"desc": "Command: !pc7 boo",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Openhub_toggle": {
+				"title": "Open Hub",
+				"desc": "Command: !pc7 openhub",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Checktrades_toggle": {
+				"title": "Check Trades",
+				"desc": "Command: !pc7 checktrades",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Logout_toggle": {
+				"title": "Logout",
+				"desc": "Command: !pc7 logout",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Undefined_toggle": {
+				"title": "Undefined Game",
+				"desc": "Command: !pc7 undefined",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Newgame_toggle": {
+				"title": "New Game",
+				"desc": "Command: !pc7 newgame",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			},
+			"Link_toggle": {
+				"title": "Get Link",
+				"desc": "Command: !link",
+				"type": "checkbox",
+				"refresh": true,
+				"val": false
+			}
+		}
+	},
+	"BindOptions": {
+		"Client_Keybinds:_Game": {
+			"OpenChatlogs": {
+				"title": "Open Chatlogs",
+				"type": "keybind2",
+				"val": "F1",
+				"restart": true
+			},
+			"SuspectCommand": {
+				"title": "Suspect Command",
+				"type": "keybind2",
+				"val": "F2",
+				"restart": true
+			},
+			"CheckConnectionCommand": {
+				"title": "Connection Check Command",
+				"type": "keybind2",
+				"val": "F3",
+				"restart": true
+			},
+			"HyperQuickJoin": {
+				"title": "HyperQuickJoin",
+				"type": "keybind2",
+				"val": "F4",
+				"restart": true
+			},
+			"RandomGame": {
+				"title": "Random New Game",
+				"type": "keybind2",
+				"val": "F6",
+				"restart": true
+			},
+			"CopyGameURL": {
+				"title": "Copy Game URL",
+				"type": "keybind2",
+				"val": "F7",
+				"restart": true
+			},
+			"JoinGameURL": {
+				"title": "Join Game URL",
+				"type": "keybind2",
+				"val": "F8",
+				"restart": true
+			},
+			"OpenAltManager": {
+				"title": "Open Alt Manager",
+				"type": "keybind2",
+				"val": "Shift + F1",
+				"restart": true
+			},
+			"TakeScreenshot": {
+				"title": "Take Screenshot",
+				"type": "keybind2",
+				"val": "Shift + F2",
+				"restart": true
+			},
+			"RestartClient": {
+				"title": "Restart Client",
+				"type": "keybind2",
+				"val": "CommandOrControl + Shift + F1",
+				"restart": true
+			},
+			"TempRemoveCSS": {
+				"title": "Temp Remove CSS",
+				"type": "keybind2",
+				"val": "CommandOrControl + Shift + F9",
+				"restart": true
+			},
+			"TempRemoveMod": {
+				"title": "Temp Remove Mod",
+				"type": "keybind2",
+				"val": "CommandOrControl + Shift + F10",
+				"restart": true
+			}
+		}
+	},
+	"agreement_TermsOfService": true,
+	"agreement_PrivacyPolicy": true,
+	"_fixes": {
+		"fixHub": false,
+		"joinMatchWarning": false,
+		"serverBrowserWarning": false,
+		"genToken": false,
+		"mmPatch": false
+	},
+	"isMaximized": false,
+	"Fullscreen": false,
+	"window": {
+		"width": 2560,
+		"height": 1440,
+		"x": 0,
+		"y": 0
+	},
+	"isUserLive": false,
+	"customSkyMode": "color",
+	"customSkyColor": "#9a0cde",
+	"customSkySpinSpeed": 0,
+	"customSkyImageURL": "",
+	"customSkyVideoURL": "",
+	"customSkyImagePath": "",
+	"customSkyVideoPath": "",
+	"customSkyDisableForComp": true
+}

@@ -1,0 +1,75 @@
+[Info  - 8:46:27 PM] Starting ltex-ls...
+Nov 06, 2024 8:46:27 PM org.bsplines.ltexls.server.LtexLanguageServer initialize
+INFO: ltex-ls 15.2.0 - initializing...
+Nov 06, 2024 8:46:27 PM org.bsplines.ltexls.tools.I18n setLocale
+INFO: Setting locale to 'en'
+Nov 06, 2024 8:46:27 PM org.bsplines.ltexls.settings.SettingsManager$Companion logDifferentSettings
+FINE: Reinitializing LanguageTool due to different settings for language 'fr': setting 'settings', old 'null', new 'non-null'
+Nov 06, 2024 8:46:28 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: ""
+Nov 06, 2024 8:46:28 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:46:45 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: ""
+Nov 06, 2024 8:46:45 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:46:48 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: ""
+Nov 06, 2024 8:46:48 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:46:52 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: ""
+Nov 06, 2024 8:46:52 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:46:54 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les"
+Nov 06, 2024 8:46:54 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:46:55 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouv"
+Nov 06, 2024 8:46:55 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 06, 2024 8:46:56 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoi"
+Nov 06, 2024 8:46:56 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 06, 2024 8:46:56 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs"
+Nov 06, 2024 8:46:56 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:46:58 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoi"
+Nov 06, 2024 8:46:58 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 06, 2024 8:47:00 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des"
+Nov 06, 2024 8:47:00 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:47:01 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des syndica"
+Nov 06, 2024 8:47:01 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 06, 2024 8:47:01 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des syndicat"
+Nov 06, 2024 8:47:01 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 06, 2024 8:47:01 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des syndicats"
+Nov 06, 2024 8:47:01 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:47:02 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des syndicats"
+Nov 06, 2024 8:47:02 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:47:02 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des syndicats\n\n"
+Nov 06, 2024 8:47:02 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:47:05 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des syndicats\n\n"
+Nov 06, 2024 8:47:05 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 06, 2024 8:47:06 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'fr' via LanguageTool: "Les pouvoirs des syndicats\n\n"
+Nov 06, 2024 8:47:06 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches

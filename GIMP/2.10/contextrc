@@ -1,8 +1,7 @@
 # GIMP user context
 
-(tool "gimp-operation-tool")
+(tool "gimp-ellipse-select-tool")
 (paint-info "gimp-paintbrush")
-(paint-mode erase)
 (brush "2. Hardness 050")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")

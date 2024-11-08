@@ -1,0 +1,25 @@
+2024-11-06T20:46:26.887Z Info: Setting LTeX UI language to 'en-us'.
+2024-11-06T20:46:26.887Z Info: Loading i18n messages...
+2024-11-06T20:46:26.888Z Info: Loading default i18n messages...
+2024-11-06T20:46:26.888Z Info: 
+2024-11-06T20:46:26.889Z Info: ltex.ltex-ls.path not set.
+2024-11-06T20:46:26.889Z Info: Searching for ltex-ls in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib'...
+2024-11-06T20:46:26.889Z Info: ltex-ls found in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-06T20:46:26.889Z Info: 
+2024-11-06T20:46:26.889Z Info: Using ltex-ls from '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-06T20:46:26.889Z Info: Using Java bundled with ltex-ls as ltex.java.path is not set.
+2024-11-06T20:46:26.889Z Info: Testing ltex-ls...
+2024-11-06T20:46:26.889Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-06T20:46:26.889Z Info:   Arguments: ["--version"]
+2024-11-06T20:46:26.889Z Info:   env['JAVA_HOME']: undefined
+2024-11-06T20:46:26.889Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-06T20:46:27.071Z Info: Test successful!
+2024-11-06T20:46:27.071Z Info: 
+2024-11-06T20:46:27.074Z Info: Starting ltex-ls...
+2024-11-06T20:46:27.074Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-06T20:46:27.074Z Info:   Arguments: []
+2024-11-06T20:46:27.074Z Info:   env['JAVA_HOME']: undefined
+2024-11-06T20:46:27.074Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-06T20:46:27.074Z Info: 
+2024-11-06T20:46:27.988Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/French/.vscode/ltex.dictionary.en-GB.txt'.
+2024-11-06T20:46:27.990Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/French/.vscode/ltex.disabledRules.fr.txt'.

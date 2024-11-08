@@ -1,0 +1,38 @@
+2024-11-07T07:20:08.590Z Info: Setting LTeX UI language to 'en-us'.
+2024-11-07T07:20:08.591Z Info: Loading i18n messages...
+2024-11-07T07:20:08.591Z Info: Loading default i18n messages...
+2024-11-07T07:20:08.592Z Info: 
+2024-11-07T07:20:08.592Z Info: ltex.ltex-ls.path not set.
+2024-11-07T07:20:08.592Z Info: Searching for ltex-ls in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib'...
+2024-11-07T07:20:08.592Z Info: ltex-ls found in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-07T07:20:08.592Z Info: 
+2024-11-07T07:20:08.592Z Info: Using ltex-ls from '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-07T07:20:08.592Z Info: Using Java bundled with ltex-ls as ltex.java.path is not set.
+2024-11-07T07:20:08.593Z Info: Testing ltex-ls...
+2024-11-07T07:20:08.593Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-07T07:20:08.593Z Info:   Arguments: ["--version"]
+2024-11-07T07:20:08.593Z Info:   env['JAVA_HOME']: undefined
+2024-11-07T07:20:08.593Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-07T07:20:08.845Z Info: Test successful!
+2024-11-07T07:20:08.845Z Info: 
+2024-11-07T07:20:08.848Z Info: Starting ltex-ls...
+2024-11-07T07:20:08.848Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-07T07:20:08.848Z Info:   Arguments: []
+2024-11-07T07:20:08.848Z Info:   env['JAVA_HOME']: undefined
+2024-11-07T07:20:08.848Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-07T07:20:08.848Z Info: 
+2024-11-07T07:20:09.795Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.dictionary.fr.txt'.
+2024-11-07T07:39:32.899Z Info: Created external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt' as it didn't exist.
+2024-11-07T07:39:32.899Z Info: Read external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt'.
+2024-11-07T07:39:32.899Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt'.
+2024-11-07T07:39:32.914Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt'.
+2024-11-07T08:05:19.858Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt'.
+2024-11-07T08:05:19.859Z Info: External setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt' changed, re-reading.
+2024-11-07T08:30:23.162Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.dictionary.fr.txt'.
+2024-11-07T08:30:23.162Z Info: External setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.dictionary.fr.txt' changed, re-reading.
+2024-11-07T08:30:43.105Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.dictionary.fr.txt'.
+2024-11-07T08:30:43.106Z Info: External setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.dictionary.fr.txt' changed, re-reading.
+2024-11-07T08:30:51.914Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt'.
+2024-11-07T08:30:51.914Z Info: External setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt' changed, re-reading.
+2024-11-07T08:32:04.399Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt'.
+2024-11-07T08:32:04.399Z Info: External setting file '/home/poseidon/Desktop/Documents/French/mindmaps/.vscode/ltex.hiddenFalsePositives.fr.txt' changed, re-reading.

@@ -1,0 +1,3 @@
+Hey, I j wanted a second opinion on a fic I'm making, and I thought you'd be the best person to help me since you're a huge fan of the show (smile emoji). Essentially Marinette is unable to cast her miraculous ladybug after a battle, and she has to try and fix the permanent consequences of it, some of which are personal.
+
+Hey, I j wanted some second opinion on a fic I'm making, and I thought you'd be the best person to help me 😀. In the fanfic I'm writing, I've got Marinette to start drop-shipping, but do you think this fits w her character? Like I think she's the type to get out of situations herself, but then again, this isn't the way she would do it no?

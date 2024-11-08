@@ -1,0 +1,1 @@
+Hey, I j wanted a second opinion on a fic I'm making, and I thought you'd be the best person to help me (smile emoji) considering you're a miraculous superfan. 

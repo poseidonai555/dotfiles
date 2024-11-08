@@ -1,0 +1,13 @@
+{
+	"lang": "en-US",
+	"darkThemeInvert": false,
+	"disable-hide": true,
+	"option-to-hide-menu": false,
+	"option-to-disable-internal-external-popup": false,
+	"allow-multiple": false,
+	"visible": true,
+	"webview-onenote": {
+		"url": "https://charterhouse2.sharepoint.com/sites/Section_CH-2024-28123/_layouts/15/Doc.aspx?sourcedoc={15e2888e-a8ca-47f9-a4bd-a82edfa5905d}&action=view&wd=target%28Cyprus%20Egloff-Curran%20%28V%5C%29%2FIRP.one%7C757af263-02a2-4db8-95e9-1347da513192%2FIRP%20sources%20and%20headings%7Ce99c46fd-b511-4881-b061-020635209725%2F%29&wdorigin=NavigationUrl",
+		"proxy": ""
+	}
+}

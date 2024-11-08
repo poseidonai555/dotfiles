@@ -1,3 +1,4 @@
 [EmbedSettings]
+embed-image/png=false
 embed-text/plain=false
 embed-video/x-matroska=false
