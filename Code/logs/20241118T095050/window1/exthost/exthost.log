@@ -1,0 +1,42 @@
+2024-11-18 09:50:51.561 [info] Extension host with pid 114781 started
+2024-11-18 09:50:51.561 [info] Skipping acquiring lock for /home/poseidon/.config/Code/User/workspaceStorage/5c1dea26bacb1b890601b15a0c155542.
+2024-11-18 09:50:51.668 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-18 09:50:51.676 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-18 09:50:51.683 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-18 09:50:51.722 [info] ExtensionService#_doActivateExtension valentjn.vscode-ltex, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-18 09:50:52.037 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-18 09:50:52.039 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-18 09:50:52.066 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-18 09:50:52.099 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:50:52.099 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:50:52.104 [info] Eager extensions activated
+2024-11-18 09:50:52.141 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:50:52.142 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:50:52.150 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-11-18 09:50:52.167 [warning] [vscode.markdown-math] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'markdown.math.macros', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:51:09.345 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-18 09:51:09.352 [info] Extension host with pid 114781 exiting with code 0
+2024-11-18 09:51:09.787 [info] Extension host with pid 115280 started
+2024-11-18 09:51:09.787 [info] Skipping acquiring lock for /home/poseidon/.config/Code/User/workspaceStorage/9bc4d3a89cf71ba5d17c647b76d8a01c.
+2024-11-18 09:51:09.807 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-18 09:51:09.816 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-11-18 09:51:09.958 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-18 09:51:09.958 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-18 09:51:09.960 [warning] [ms-python.python] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'python.terminal.shellIntegration.enabled', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:51:09.961 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-18 09:51:09.982 [warning] [ms-python.python] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'python.envFile', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:51:09.990 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-18 09:51:09.990 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-18 09:51:09.991 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-18 09:51:10.000 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-11-18 09:51:10.026 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-11-18 09:51:10.174 [warning] [ms-python.debugpy] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'debugpy.showPythonInlineValues', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:51:10.202 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-18 09:51:10.204 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-18 09:51:10.232 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-18 09:51:10.265 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:51:10.265 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-11-18 09:51:10.269 [info] Eager extensions activated
+2024-11-18 09:51:10.280 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:51:10.281 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:51:10.542 [warning] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'files.watcherExclude', provide the URI of a resource or 'null' for any resource.

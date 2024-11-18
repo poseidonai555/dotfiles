@@ -1,0 +1,43 @@
+[Info  - 8:01:32 PM] Starting ltex-ls...
+Nov 14, 2024 8:01:33 PM org.bsplines.ltexls.server.LtexLanguageServer initialize
+INFO: ltex-ls 15.2.0 - initializing...
+Nov 14, 2024 8:01:33 PM org.bsplines.ltexls.tools.I18n setLocale
+INFO: Setting locale to 'en'
+Nov 14, 2024 8:01:33 PM org.bsplines.ltexls.settings.SettingsManager$Companion logDifferentSettings
+FINE: Reinitializing LanguageTool due to different settings for language 'en-GB': setting 'settings', old 'null', new 'non-null'
+Nov 14, 2024 8:01:33 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Unicode accent codes\n\nCharacter Code\n\n\u00E0 00E0\n\u00E2 00E2\n\u00E6 00E6\n\u00E7 00E7\n\u00E9 00E9\n\u00EA 00EA\n\u00E8 00E8\n\u00EB 00EB\n\u00EE 00EE"... (truncated to 100 characters)
+Nov 14, 2024 8:01:34 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 14, 2024 8:50:22 PM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Unicode accent codes\n\nCharacter Code\n\n\u00E0 00E0\n\u00E2 00E2\n\u00E6 00E6\n\u00E7 00E7\n\u00E9 00E9\n\u00EA 00EA\n\u00E8 00E8\n\u00EB 00EB\n\u00EE 00EE"... (truncated to 100 characters)
+Nov 14, 2024 8:50:22 PM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 14, 2024 8:50:22 PM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'UNIT_SPACE' and sentence 'à 00E0
+â 00E2
+æ 00E6
+ç 00E7
+é 00E9
+ê 00EA
+è 00E8
+ë 00EB
+î 00EE
+ï 00EF
+Ï 00CF
+ô 00F4
+œ 0153
+ù 00F9
+û 00FB
+ÿ 00FF
+É 00C9
+È 00C8
+À 00C0
+Â 00C2
+Ç 00C7
+Ê 00CA
+Î 00CE
+Ô 00D4
+Ù 00D9'
+Nov 14, 2024 8:50:22 PM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive

@@ -73,111 +73,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/French/mindmaps/comment%20sauvegarder.md",
-                                        "path": "/home/poseidon/Desktop/Documents/French/mindmaps/comment sauvegarder.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2024/%23%20What%20is%20Big%20Data.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 24/# What is Big Data.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/French/mindmaps/comment sauvegarder.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 24/# What is Big Data.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/French/mindmaps/qui%20%C3%A9coute.md",
-                                        "path": "/home/poseidon/Desktop/Documents/French/mindmaps/qui écoute.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2024/%23%20Big%20data%20and%20functional%20programming.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 24/# Big data and functional programming.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/French/mindmaps/qui écoute.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 24/# Big data and functional programming.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/French/mindmaps/La%20diversit%C3%A9%20de%20la%20musique.md",
-                                        "path": "/home/poseidon/Desktop/Documents/French/mindmaps/La diversité de la musique.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20Representing%20Big%20Data.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# Representing Big Data.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/French/mindmaps/La diversité de la musique.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# Representing Big Data.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/French/mindmaps/Les%20attitudes%20diff%C3%A9rentes%20envers%20ces%20t.md",
-                                        "path": "/home/poseidon/Desktop/Documents/French/mindmaps/Les attitudes différentes envers ces t.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20Thin%20client%20and%20thick%20client%20computing.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# Thin client and thick client computing.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/French/mindmaps/Les attitudes différentes envers ces t.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# Thin client and thick client computing.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/French/mindmaps/manifestations%20et%20gr%C3%A8ves.md",
-                                        "path": "/home/poseidon/Desktop/Documents/French/mindmaps/manifestations et grèves.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20JSON%20and%20XML.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# JSON and XML.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/French/mindmaps/manifestations et grèves.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# JSON and XML.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/French/Les%20pouvoirs%20des%20syndicats.md",
-                                        "path": "/home/poseidon/Desktop/Documents/French/Les pouvoirs des syndicats.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20Web%20CRUD%20and%20applications%20at%20REST.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# Web CRUD and applications at REST.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/French/Les pouvoirs des syndicats.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# Web CRUD and applications at REST.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/French/%23%20Unicode%20accent%20codes.md",
-                                        "path": "/home/poseidon/Desktop/Documents/French/# Unicode accent codes.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20The%20web%20socket%20protocol.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# The web socket protocol.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/French/# Unicode accent codes.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# The web socket protocol.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2021/%23%20The%20structure%20of%20IP%20addresses.md",
-                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 21/# The structure of IP addresses.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20The%20client%20server%20model.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# The client server model.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 21/# The structure of IP addresses.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# The client server model.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2021/%23%20Web%20servers%20and%20web%20browsers.md",
-                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 21/# Web servers and web browsers.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20NAT%20and%20port%20forwarding.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# NAT and port forwarding.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 21/# Web servers and web browsers.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# NAT and port forwarding.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2021/%23%20Email%20servers.md",
-                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 21/# Email servers.md",
+                                        "external": "file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20DHCP.md",
+                                        "path": "/home/poseidon/Desktop/Documents/Computer science/AQA notes/SLR 22/# DHCP.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 21/# Email servers.md"
+                                    "label": "~/Desktop/Documents/Computer science/AQA notes/SLR 22/# DHCP.md"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -821,6 +821,10 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -853,7 +857,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -862,7 +867,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -931,54 +937,45 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Group &&3",
-                                    "enabled": false
+                                    "label": "Group &&3"
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Group &&4",
-                                    "enabled": false
+                                    "label": "Group &&4"
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Group &&5",
-                                    "enabled": false
+                                    "label": "Group &&5"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Next Group",
-                                    "enabled": false
+                                    "label": "&&Next Group"
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Previous Group",
-                                    "enabled": false
+                                    "label": "&&Previous Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Group &&Left",
-                                    "enabled": false
+                                    "label": "Group &&Left"
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Group &&Right",
-                                    "enabled": false
+                                    "label": "Group &&Right"
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Group &&Above",
-                                    "enabled": false
+                                    "label": "Group &&Above"
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Group &&Below",
-                                    "enabled": false
+                                    "label": "Group &&Below"
                                 }
                             ]
                         }
@@ -1789,19 +1786,8 @@
         }
     },
     "windowsState": {
-        "lastActiveWindow": {
-            "folder": "file:///home/poseidon/Desktop/Documents/French/mindmaps",
-            "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 0,
-                "width": 1280,
-                "height": 1407,
-                "zoomLevel": 2
-            }
-        },
         "lastPluginDevelopmentHostWindow": {
-            "folder": "file:///home/poseidon/Desktop/Documents/French/mindmaps",
+            "folder": "file:///home/poseidon/Desktop/Code/CharacterCloneAI",
             "uiState": {
                 "mode": 0,
                 "x": 0,

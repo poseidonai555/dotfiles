@@ -1,0 +1,27 @@
+2024-11-15 10:53:04.471 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-15 10:53:04.471 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-15 10:53:04.471 [info] Experiment 'pythonTestAdapter' is active
+2024-11-15 10:53:04.471 [warning] Dir "/home/poseidon/Desktop/Code/CharacterCloneAI/.pixi/envs" is not watchable (directory does not exist)
+2024-11-15 10:53:04.471 [info] Python interpreter path: ./.venv/bin/python
+2024-11-15 10:53:04.478 [info] > pyenv which python
+2024-11-15 10:53:04.478 [info] cwd: .
+2024-11-15 10:53:04.625 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-15 10:53:04.625 [info] shell: bash
+2024-11-15 10:53:04.651 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-15 10:53:04.651 [info] shell: bash
+2024-11-15 10:53:04.664 [info] Setting environment variable VIRTUAL_ENV in collection to /home/poseidon/Desktop/Code/CharacterCloneAI/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-15 10:53:04.664 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-15 10:53:04.664 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-15 10:53:04.664 [info] Prepending environment variable PATH in collection with /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-15 10:53:04.665 [info] Send text to terminal: /bin/python /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-15 10:53:14.647 [info] Starting Pylance language server.
+2024-11-15 10:57:15.811 [info] CreateEnv Trigger - Skipping for /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py
+2024-11-15 10:59:18.846 [info] Discover tests for workspace name: CharacterCloneAI - uri: /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py
+2024-11-15 10:59:24.630 [info] Send text to terminal: /home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin/python /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py
+2024-11-15 11:01:41.736 [info] Discover tests for workspace name: CharacterCloneAI - uri: /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py
+2024-11-15 11:03:46.865 [info] Discover tests for workspace name: CharacterCloneAI - uri: /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py
+2024-11-15 11:04:07.431 [info] Send text to terminal: /home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin/python /home/poseidon/Desktop/Code/CharacterCloneAI/character_creation.py
+2024-11-15 11:04:20.025 [info] Send text to terminal: /home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin/python /home/poseidon/Desktop/Code/CharacterCloneAI/character_creation.py
+2024-11-15 11:05:09.490 [info] Discover tests for workspace name: CharacterCloneAI - uri: /home/poseidon/Desktop/Code/CharacterCloneAI/character_creation.py
+2024-11-15 11:05:12.420 [info] Send text to terminal: /home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin/python /home/poseidon/Desktop/Code/CharacterCloneAI/character_creation.py
+2024-11-15 11:09:50.951 [info] Send text to terminal: /home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin/python /home/poseidon/Desktop/Code/CharacterCloneAI/character_creation.py

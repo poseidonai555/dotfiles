@@ -1,0 +1,49 @@
+2024-11-17 18:36:54.181 [info] Extension host with pid 6955 started
+2024-11-17 18:36:54.181 [info] Skipping acquiring lock for /home/poseidon/.config/Code/User/workspaceStorage/5ccd3978d0d21f3d063f30f65405c88b.
+2024-11-17 18:36:54.208 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-17 18:36:54.218 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-11-17 18:36:54.364 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 18:36:54.365 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 18:36:54.366 [warning] [ms-python.python] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'python.terminal.shellIntegration.enabled', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:36:54.367 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 18:36:54.381 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-11-17 18:36:54.405 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-11-17 18:36:54.549 [warning] [ms-python.debugpy] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'debugpy.showPythonInlineValues', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:36:54.558 [warning] [ms-python.python] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'python.envFile', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:36:54.564 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 18:36:54.565 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 18:36:54.565 [warning] [ms-python.python] Accessing a window scoped configuration for a resource is not expected. To associate 'python.languageServer' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 18:36:54.584 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-17 18:36:54.587 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-17 18:36:54.615 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-17 18:36:54.647 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:36:54.647 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:36:54.651 [info] Eager extensions activated
+2024-11-17 18:36:54.660 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 18:36:54.662 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 18:36:54.924 [warning] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'files.watcherExclude', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:38:23.709 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-17 18:38:23.717 [info] Extension host with pid 6955 exiting with code 0
+2024-11-17 18:38:24.080 [info] Extension host with pid 10078 started
+2024-11-17 18:38:24.080 [info] Skipping acquiring lock for /home/poseidon/.config/Code/User/workspaceStorage/5c1dea26bacb1b890601b15a0c155542.
+2024-11-17 18:38:24.086 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-17 18:38:24.089 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-17 18:38:24.117 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-17 18:38:24.152 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:38:24.152 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:38:24.158 [info] Eager extensions activated
+2024-11-17 18:38:24.164 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 18:38:24.165 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 18:42:20.225 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-17 18:42:22.756 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-17 18:42:22.762 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-17 18:42:22.801 [info] ExtensionService#_doActivateExtension valentjn.vscode-ltex, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-17 18:42:23.246 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-11-17 18:42:23.255 [warning] [vscode.markdown-math] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'markdown.math.macros', provide the URI of a resource or 'null' for any resource.
+2024-11-17 18:50:12.762 [warning] [vscode.markdown-language-features] Accessing a window scoped configuration for a resource is not expected. To associate 'markdown.updateLinksOnFileMove.enabled' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 19:40:03.760 [warning] vscode.markdown-language-features created a webview without a content security policy: https://aka.ms/vscode-webview-missing-csp
+2024-11-17 19:40:53.930 [warning] vscode.markdown-language-features created a webview without a content security policy: https://aka.ms/vscode-webview-missing-csp
+2024-11-17 20:03:19.671 [warning] vscode.markdown-language-features created a webview without a content security policy: https://aka.ms/vscode-webview-missing-csp
+2024-11-17 20:21:27.928 [warning] [vscode.markdown-language-features] Accessing a window scoped configuration for a resource is not expected. To associate 'markdown.updateLinksOnFileMove.enabled' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-11-17 20:47:38.990 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-17 20:47:39.010 [info] Extension host with pid 10078 exiting with code 0

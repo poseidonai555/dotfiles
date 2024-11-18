@@ -1,0 +1,45 @@
+2024-11-14 12:24:33.511 [info] [Info  - 12:24:33 PM] (90775) Server root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-14 12:24:33.511 [info] [Info  - 12:24:33 PM] (90775) Pylance language server 2024.11.1 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-14 12:24:33.511 [info] [Info  - 12:24:33 PM] (90775) Starting service instance "CharacterCloneAI"
+2024-11-14 12:24:33.529 [info] [Info  - 12:24:33 PM] (90775) Setting environmentName for service "CharacterCloneAI": "3.12.6 (.venv venv)"
+2024-11-14 12:24:33.529 [info] [Info  - 12:24:33 PM] (90775) Setting pythonPath for service "CharacterCloneAI": "/home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin/python"
+2024-11-14 12:24:33.529 [info] [Info  - 12:24:33 PM] (90775) No include entries specified; assuming /home/poseidon/Desktop/Code/CharacterCloneAI
+2024-11-14 12:24:33.530 [info] [Info  - 12:24:33 PM] (90775) Auto-excluding **/node_modules
+2024-11-14 12:24:33.530 [info] [Info  - 12:24:33 PM] (90775) Auto-excluding **/__pycache__
+2024-11-14 12:24:33.530 [info] [Info  - 12:24:33 PM] (90775) Auto-excluding **/.*
+2024-11-14 12:24:33.546 [info] [Info  - 12:24:33 PM] (90775) Assuming Python version 3.12.7.final.0
+2024-11-14 12:24:33.584 [info] [Info  - 12:24:33 PM] (90775) Found 2 source files
+2024-11-14 12:24:33.795 [info] [Info  - 12:24:33 PM] (90775) Background analysis(1) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-14 12:24:33.796 [info] [Info  - 12:24:33 PM] (90775) Background analysis(1) started
+2024-11-14 12:24:33.949 [info] [Info  - 12:24:33 PM] (90775) Indexer background runner(2) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.1/dist (index)
+2024-11-14 12:24:33.949 [info] [Info  - 12:24:33 PM] (90775) Indexing(2) started
+2024-11-14 12:24:34.004 [info] [Info  - 12:24:34 PM] (90775) scanned(2) 19 files over 1 exec env
+2024-11-14 12:24:34.061 [info] [Info  - 12:24:34 PM] (90775) indexed(2) 19 files over 1 exec env
+2024-11-14 12:24:34.066 [info] [Info  - 12:24:34 PM] (90775) Indexing finished(2).
+2024-11-14 12:24:43.342 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-11-14 12:24:43.342 [info] (Client) Pylance async client (2024.11.1) started with python extension (2024.20.0)
+2024-11-14 12:24:47.553 [info] [Info  - 12:24:47 PM] (91280) Server root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-14 12:24:47.553 [info] [Info  - 12:24:47 PM] (91280) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-14 12:24:47.553 [info] [Info  - 12:24:47 PM] (91280) Starting service instance "Skeleton code"
+2024-11-14 12:24:47.569 [info] [Info  - 12:24:47 PM] (91280) Setting environmentName for service "Skeleton code": "3.12.7 (global)"
+2024-11-14 12:24:47.570 [info] [Info  - 12:24:47 PM] (91280) Setting pythonPath for service "Skeleton code": "/bin/python"
+2024-11-14 12:24:47.570 [info] [Info  - 12:24:47 PM] (91280) No include entries specified; assuming /home/poseidon/Desktop/Code/Python_code/Skeleton code
+2024-11-14 12:24:47.570 [info] [Info  - 12:24:47 PM] (91280) Auto-excluding **/node_modules
+2024-11-14 12:24:47.570 [info] [Info  - 12:24:47 PM] (91280) Auto-excluding **/__pycache__
+2024-11-14 12:24:47.570 [info] [Info  - 12:24:47 PM] (91280) Auto-excluding **/.*
+2024-11-14 12:24:47.591 [info] [Info  - 12:24:47 PM] (91280) Assuming Python version 3.12.7.final.0
+2024-11-14 12:24:47.618 [info] [Info  - 12:24:47 PM] (91280) Found 1 source file
+2024-11-14 12:24:47.834 [info] [Info  - 12:24:47 PM] (91280) Background analysis(1) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-14 12:24:47.835 [info] [Info  - 12:24:47 PM] (91280) Background analysis(1) started
+2024-11-14 12:24:47.934 [info] [Info  - 12:24:47 PM] (91280) Indexer background runner(2) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-14 12:24:47.935 [info] [Info  - 12:24:47 PM] (91280) Indexing(2) started
+2024-11-14 12:24:48.026 [info] [Info  - 12:24:48 PM] (91280) scanned(2) 91 files over 1 exec env
+2024-11-14 12:24:48.423 [info] [Info  - 12:24:48 PM] (91280) indexed(2) 91 files over 1 exec env
+2024-11-14 12:24:48.438 [info] [Info  - 12:24:48 PM] (91280) Indexing finished(2).
+2024-11-14 12:24:57.432 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-11-14 12:24:57.432 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)
+2024-11-14 12:31:18.770 [info] [Info  - 12:31:18 PM] (91280) Indexer background runner(3) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist (refresh)
+2024-11-14 12:31:18.770 [info] [Info  - 12:31:18 PM] (91280) Indexing(3) started
+2024-11-14 12:31:18.860 [info] [Info  - 12:31:18 PM] (91280) scanned(3) 91 files over 1 exec env
+2024-11-14 12:31:18.955 [info] [Info  - 12:31:18 PM] (91280) indexed(3) 91 files over 1 exec env
+2024-11-14 12:31:18.964 [info] [Info  - 12:31:18 PM] (91280) Indexing finished(3).

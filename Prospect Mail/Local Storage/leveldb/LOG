@@ -1,6 +1,15 @@
-2024/11/07-10:21:48.588 3097e Reusing MANIFEST /home/poseidon/.config/Prospect Mail/Local Storage/leveldb/MANIFEST-000001
-2024/11/07-10:21:48.588 3097e Recovering log #48
-2024/11/07-10:21:48.590 3097e Reusing old log /home/poseidon/.config/Prospect Mail/Local Storage/leveldb/000048.log 
-2024/11/07-10:23:48.661 3097e Level-0 table #52: started
-2024/11/07-10:23:48.664 3097e Level-0 table #52: 33462 bytes OK
-2024/11/07-10:23:48.666 3097e Delete type=0 #48
+2024/11/18-08:54:33.262 ab58 Reusing MANIFEST /home/poseidon/.config/Prospect Mail/Local Storage/leveldb/MANIFEST-000001
+2024/11/18-08:54:33.263 ab58 Recovering log #70
+2024/11/18-08:54:33.263 ab58 Reusing old log /home/poseidon/.config/Prospect Mail/Local Storage/leveldb/000070.log 
+2024/11/18-09:48:07.528 ab58 Level-0 table #74: started
+2024/11/18-09:48:07.541 ab58 Level-0 table #74: 30319 bytes OK
+2024/11/18-09:48:07.546 ab58 Delete type=0 #70
+2024/11/18-09:48:07.547 ab58 Compacting 4@0 + 1@1 files
+2024/11/18-09:48:07.551 ab58 Generated table #75@0: 39 keys, 31184 bytes
+2024/11/18-09:48:07.551 ab58 Compacted 4@0 + 1@1 files => 31184 bytes
+2024/11/18-09:48:07.555 ab58 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/18-09:48:07.555 ab58 Delete type=2 #62
+2024/11/18-09:48:07.555 ab58 Delete type=2 #71
+2024/11/18-09:48:07.555 ab58 Delete type=2 #68
+2024/11/18-09:48:07.555 ab58 Delete type=2 #65
+2024/11/18-09:48:07.555 ab58 Delete type=2 #74

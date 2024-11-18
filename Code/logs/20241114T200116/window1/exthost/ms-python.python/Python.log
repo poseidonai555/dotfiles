@@ -1,0 +1,8 @@
+2024-11-14 20:01:17.708 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-14 20:01:17.708 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-14 20:01:17.708 [info] Experiment 'pythonTestAdapter' is active
+2024-11-14 20:01:17.708 [warning] Dir "/home/poseidon/Desktop/Code/Python_code/Skeleton code/.pixi/envs" is not watchable (directory does not exist)
+2024-11-14 20:01:17.708 [info] Python interpreter path: /bin/python
+2024-11-14 20:01:17.719 [info] > pyenv which python
+2024-11-14 20:01:17.719 [info] cwd: ~/Desktop/Code/Python_code/Skeleton code
+2024-11-14 20:01:28.034 [info] Starting Pylance language server.

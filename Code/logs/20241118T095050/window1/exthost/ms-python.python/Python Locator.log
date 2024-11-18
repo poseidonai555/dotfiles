@@ -1,0 +1,33 @@
+2024-11-18 09:51:09.977 [info] Starting Python Locator /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python-env-tools/bin/pet server
+2024-11-18 09:51:09.992 [info] Discovered env: /home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin/python
+2024-11-18 09:51:10.203 [info] Discovered env: /bin/python
+2024-11-18 09:51:10.204 [info] Discovered env: /usr/bin/python
+2024-11-18 09:51:10.278 [info] Discovered manager: (Conda) /home/poseidon/text-generation-webui/installer_files/conda/bin/conda
+2024-11-18 09:51:10.295 [info] Discovered env: /home/poseidon/text-generation-webui/installer_files/conda/bin/python
+2024-11-18 09:51:10.319 [info] Discovered env: /home/poseidon/text-generation-webui/installer_files/env/bin/python
+2024-11-18 09:51:10.329 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.12.6.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-11-18 09:51:10.329 [info] Discovered env: /usr/sbin/python
+2024-11-18 09:51:10.329 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.12.6.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2024-11-18 09:51:10.329 [info] Discovered env: /sbin/python
+2024-11-18 09:51:10.330 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.12.6.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-11-18 09:51:10.330 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.12.6.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2024-11-18 09:51:10.330 [info] Discovered env: /sbin/python3
+2024-11-18 09:51:10.330 [info] Discovered env: /usr/sbin/python3
+2024-11-18 09:51:10.330 [info] Env ("/usr/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.12", prefix: "/usr", version: "3.12.6.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-11-18 09:51:10.330 [info] Discovered env: /usr/sbin/python3.12
+2024-11-18 09:51:10.330 [info] Env ("/sbin/python3.12") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.12", prefix: "/usr", version: "3.12.6.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.12"]) } and reported as Some(GlobalPaths)
+2024-11-18 09:51:10.330 [info] Discovered env: /sbin/python3.12
+2024-11-18 09:51:10.337 [info] Locator Conda took 104.232258ms
+2024-11-18 09:51:10.337 [info] Locator Homebrew took 83.741µs
+2024-11-18 09:51:10.337 [info] Locator LinuxGlobal took 96.097109ms
+2024-11-18 09:51:10.337 [info] Locator PipEnv took 15.327µs
+2024-11-18 09:51:10.337 [info] Locator Poetry took 537.041µs
+2024-11-18 09:51:10.337 [info] Locator PyEnv took 586.199µs
+2024-11-18 09:51:10.337 [info] Locator Venv took 23.824µs
+2024-11-18 09:51:10.345 [info] Locator VirtualEnv took 13.069µs
+2024-11-18 09:51:10.349 [info] Locator VirtualEnvWrapper took 90.875µs
+2024-11-18 09:51:10.352 [info] Locator GlobalVirtualEnvs took 92.647µs
+2024-11-18 09:51:10.361 [info] Locator Locators took 104.402456ms
+2024-11-18 09:51:10.364 [info] Locator Path took 209.823087ms
+2024-11-18 09:51:10.364 [info] Locator Workspaces took 37.430888ms
+2024-11-18 09:51:10.364 [info] Refresh completed in 210ms

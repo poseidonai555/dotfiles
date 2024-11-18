@@ -9246,3 +9246,1840 @@ Headers: {
 [2024-11-05 22:10:06.927] [info]  Script Loaded: js/preload/game.js
 [2024-11-05 22:10:06.928] [info]  [USERSCRIPT] Checking For Requires...
 [2024-11-05 22:10:06.928] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:39:53.148] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:39:53.181] [info]  Changed 0 config entries out of 150
+[2024-11-08 19:39:53.183] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-08 19:39:53.185] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-08 19:39:53.187] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-08 19:39:53.188] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-08 19:39:53.189] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:39:53.189] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:39:53.190] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-08 19:39:53.193] [info]  Script Loaded: js/util/wm.js
+[2024-11-08 19:39:53.197] [info]  UI Language: en_US
+[2024-11-08 19:39:53.197] [info]  [FLAG MODE] New
+[2024-11-08 19:39:53.313] [warn]  ERROR IN USERSCRIPTS DIRECTORY ACCESS
+[2024-11-08 19:39:53.313] [warn]  null
+[2024-11-08 19:39:53.313] [warn]  ERROR IN PC7 SCREENSHOTS DIRECTORY ACCESS
+[2024-11-08 19:39:53.313] [warn]  null
+[2024-11-08 19:39:53.313] [warn]  ERROR IN CUSTOM SKY DIRECTORY ACCESS
+[2024-11-08 19:39:53.313] [warn]  null
+[2024-11-08 19:39:53.438] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-08 19:39:54.076] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-08 19:39:55.579] [info]  Launching Game...
+[2024-11-08 19:39:55.650] [info]  [Asset Validation Key] Key received...
+[2024-11-08 19:39:55.650] [info]  [Asset Validation Key] Key valid!
+[2024-11-08 19:39:56.233] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:39:56.294] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:39:56.295] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:39:56.295] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:41:05.890] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:41:05.923] [info]  Changed 0 config entries out of 150
+[2024-11-08 19:41:05.934] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-08 19:41:05.937] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-08 19:41:05.942] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-08 19:41:05.945] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-08 19:41:05.947] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:41:05.947] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:41:05.947] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-08 19:41:05.952] [info]  Script Loaded: js/util/wm.js
+[2024-11-08 19:41:05.955] [info]  UI Language: en_US
+[2024-11-08 19:41:05.955] [info]  [FLAG MODE] New
+[2024-11-08 19:41:06.204] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-08 19:41:06.986] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-08 19:41:08.486] [info]  [Asset Validation Key] Key received...
+[2024-11-08 19:41:08.486] [info]  [Asset Validation Key] Key valid!
+[2024-11-08 19:41:10.490] [info]  Launching Game...
+[2024-11-08 19:41:11.070] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:41:11.125] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:41:11.126] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:41:11.126] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:43:24.404] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:43:24.437] [info]  Changed 0 config entries out of 150
+[2024-11-08 19:43:24.439] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-08 19:43:24.440] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-08 19:43:24.442] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-08 19:43:24.443] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-08 19:43:24.444] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:43:24.444] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:43:24.445] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-08 19:43:24.448] [info]  Script Loaded: js/util/wm.js
+[2024-11-08 19:43:24.451] [info]  UI Language: en_US
+[2024-11-08 19:43:24.452] [info]  [FLAG MODE] New
+[2024-11-08 19:43:24.661] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-08 19:43:25.328] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-08 19:43:27.069] [info]  [Asset Validation Key] Key received...
+[2024-11-08 19:43:27.069] [info]  [Asset Validation Key] Key valid!
+[2024-11-08 19:43:28.832] [info]  Launching Game...
+[2024-11-08 19:43:29.422] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:43:29.477] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:43:29.478] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:43:29.478] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:45:31.180] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:45:31.213] [info]  Changed 0 config entries out of 150
+[2024-11-08 19:45:31.222] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-08 19:45:31.225] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-08 19:45:31.229] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-08 19:45:31.232] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-08 19:45:31.234] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:45:31.234] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:45:31.234] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-08 19:45:31.238] [info]  Script Loaded: js/util/wm.js
+[2024-11-08 19:45:31.241] [info]  UI Language: en_US
+[2024-11-08 19:45:31.241] [info]  [FLAG MODE] New
+[2024-11-08 19:45:31.496] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-08 19:45:32.202] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-08 19:45:33.704] [info]  Launching Game...
+[2024-11-08 19:45:33.890] [info]  [Asset Validation Key] Key received...
+[2024-11-08 19:45:33.891] [info]  [Asset Validation Key] Key valid!
+[2024-11-08 19:45:34.351] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:45:34.405] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:45:34.406] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:45:34.406] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:49:48.136] [info]  https://krunker.io/social.html?p=profile&q=pumpkilll
+[2024-11-08 19:49:48.256] [info]  Script Loaded: js/preload/newSocialTabs.js
+[2024-11-08 19:49:48.363] [info]  Hold Up!
+[2024-11-08 19:49:48.363] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-11-08 19:49:48.366] [info]  Navigating -> https://krunker.io/social.html?p=profile&q=pumpkilll
+[2024-11-08 19:49:48.899] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:49:48.927] [info]  Script Loaded: js/preload/social.js
+[2024-11-08 19:49:48.927] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:49:48.927] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:49:50.144] [info]  Hold Up!
+[2024-11-08 19:49:50.145] [info]  Some scammers might attempt to make you edit things in here! Do not paste or run code in here, or edit elements while attempting to trade! If somebody told you to do these, it is likely that you are being scammed.
+[2024-11-08 19:50:36.998] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:50:37.040] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:50:37.041] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:50:37.041] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:53:13.192] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:53:13.236] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:53:13.236] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:53:13.236] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:53:19.061] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:53:19.104] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:53:19.105] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:53:19.105] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:53:28.522] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:53:28.566] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:53:28.567] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:53:28.567] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:55:50.880] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:55:50.923] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:55:50.923] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:55:50.923] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:55:55.229] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:55:55.272] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:55:55.273] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:55:55.273] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:55:59.314] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:55:59.362] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:55:59.363] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:55:59.363] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:56:03.465] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:56:03.513] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:56:03.513] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:56:03.514] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:56:07.489] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:56:07.541] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:56:07.542] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:56:07.542] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 19:56:11.276] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 19:56:11.325] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 19:56:11.325] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 19:56:11.325] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:00:01.904] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:00:01.946] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:00:01.947] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:00:01.947] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:00:40.548] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:00:40.599] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:00:40.599] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:00:40.599] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:08:18.420] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:08:18.462] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:08:18.463] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:08:18.463] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:27:34.819] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:27:34.862] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:27:34.863] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:27:34.863] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:28.520] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:28.564] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:28.565] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:28.565] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:32.628] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:32.671] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:32.671] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:32.671] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:36.800] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:36.849] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:36.849] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:36.849] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:40.899] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:40.948] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:40.948] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:40.949] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:44.879] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:44.929] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:44.929] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:44.929] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:48.906] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:48.955] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:48.955] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:48.955] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:52.669] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:52.718] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:52.719] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:52.719] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 20:29:56.674] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 20:29:56.723] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 20:29:56.723] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 20:29:56.723] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 21:40:47.991] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 21:40:48.024] [info]  Changed 0 config entries out of 150
+[2024-11-08 21:40:48.035] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-08 21:40:48.038] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-08 21:40:48.042] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-08 21:40:48.046] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-08 21:40:48.047] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 21:40:48.047] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 21:40:48.048] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-08 21:40:48.052] [info]  Script Loaded: js/util/wm.js
+[2024-11-08 21:40:48.055] [info]  UI Language: en_US
+[2024-11-08 21:40:48.056] [info]  [FLAG MODE] New
+[2024-11-08 21:40:48.293] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-08 21:40:49.282] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-08 21:40:50.785] [info]  Launching Game...
+[2024-11-08 21:40:50.930] [info]  [Asset Validation Key] Key received...
+[2024-11-08 21:40:50.930] [info]  [Asset Validation Key] Key valid!
+[2024-11-08 21:40:51.422] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 21:40:51.478] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 21:40:51.478] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 21:40:51.479] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 21:49:13.603] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 21:49:13.647] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 21:49:13.647] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 21:49:13.647] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 21:49:31.005] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 21:49:31.056] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 21:49:31.057] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 21:49:31.057] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 21:49:56.700] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 21:49:56.743] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 21:49:56.743] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 21:49:56.743] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 21:50:00.598] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 21:50:00.641] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 21:50:00.642] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 21:50:00.642] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 21:50:05.207] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 21:50:05.256] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 21:50:05.256] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 21:50:05.257] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 22:01:27.087] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 22:01:27.130] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 22:01:27.130] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 22:01:27.130] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 22:01:31.297] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 22:01:31.341] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 22:01:31.341] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 22:01:31.341] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 22:02:52.795] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 22:02:52.838] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 22:02:52.838] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 22:02:52.839] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 22:10:09.123] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 22:10:09.167] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 22:10:09.167] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 22:10:09.168] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 22:10:12.947] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 22:10:12.990] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 22:10:12.991] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 22:10:12.991] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 22:13:31.784] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 22:13:31.827] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 22:13:31.827] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 22:13:31.828] [info]  [USERSCRIPT] No Requires Found
+[2024-11-08 22:13:37.009] [info]  Script Loaded: js/util/settings.js
+[2024-11-08 22:13:37.053] [info]  Script Loaded: js/preload/game.js
+[2024-11-08 22:13:37.053] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-08 22:13:37.053] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:41:36.182] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:41:36.215] [info]  Changed 0 config entries out of 150
+[2024-11-09 07:41:36.217] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 07:41:36.219] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 07:41:36.221] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 07:41:36.223] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 07:41:36.224] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:41:36.224] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:41:36.224] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 07:41:36.228] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 07:41:36.231] [info]  UI Language: en_US
+[2024-11-09 07:41:36.231] [info]  [FLAG MODE] New
+[2024-11-09 07:41:36.528] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 07:41:37.359] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 07:41:39.095] [info]  [Asset Validation Key] Key received...
+[2024-11-09 07:41:39.095] [info]  [Asset Validation Key] Key valid!
+[2024-11-09 07:41:40.863] [info]  Launching Game...
+[2024-11-09 07:41:41.447] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:41:41.510] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:41:41.511] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:41:41.511] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:45:46.368] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:45:46.410] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:45:46.410] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:45:46.411] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:46:16.153] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:46:16.209] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:46:16.210] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:46:16.210] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:49:20.365] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:49:20.407] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:49:20.408] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:49:20.408] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:49:24.708] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:49:24.750] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:49:24.750] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:49:24.750] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:49:28.691] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:49:28.740] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:49:28.740] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:49:28.740] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:49:58.779] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:49:58.821] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:49:58.822] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:49:58.822] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 07:50:06.438] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 07:50:06.485] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 07:50:06.485] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 07:50:06.486] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 08:02:43.938] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 08:02:43.986] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 08:02:43.987] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 08:02:43.987] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 12:16:47.701] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 12:16:47.734] [info]  Changed 0 config entries out of 150
+[2024-11-09 12:16:47.744] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 12:16:47.748] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 12:16:47.752] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 12:16:47.756] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 12:16:47.757] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 12:16:47.757] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 12:16:47.758] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 12:16:47.762] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 12:16:47.766] [info]  UI Language: en_US
+[2024-11-09 12:16:47.766] [info]  [FLAG MODE] New
+[2024-11-09 12:16:48.030] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-09 12:16:48.030] [info]  [AXIOS] Error fetching clans json!
+[2024-11-09 12:16:48.033] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-09 12:16:48.033] [info]  [AXIOS] Error fetching badges json!
+[2024-11-09 12:16:48.033] [info]  [AXIOS] Error fetching userscriptInfoObj json!
+[2024-11-09 12:16:48.034] [info]  [AXIOS] Error fetching fakeNamesObj json!
+[2024-11-09 12:16:48.035] [info]  Error fetching badgesUpdater json!
+[2024-11-09 12:16:48.035] [info]  [AXIOS] Error fetching taglist json!
+[2024-11-09 12:16:48.035] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 12:16:48.771] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 12:16:50.273] [info]  Launching Game...
+[2024-11-09 12:16:50.556] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 12:16:50.613] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 12:16:50.613] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 12:16:50.613] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 12:27:03.788] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 12:27:03.822] [info]  Changed 0 config entries out of 150
+[2024-11-09 12:27:03.832] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 12:27:03.835] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 12:27:03.839] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 12:27:03.843] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 12:27:03.845] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 12:27:03.845] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 12:27:03.845] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 12:27:03.849] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 12:27:03.852] [info]  UI Language: en_US
+[2024-11-09 12:27:03.853] [info]  [FLAG MODE] New
+[2024-11-09 12:27:04.103] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 12:27:04.139] [info]  [AXIOS] Error fetching userscriptInfoObj json!
+[2024-11-09 12:27:04.141] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-09 12:27:04.141] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-09 12:27:04.142] [info]  [AXIOS] Error fetching taglist json!
+[2024-11-09 12:27:04.142] [info]  [AXIOS] Error fetching fakeNamesObj json!
+[2024-11-09 12:27:04.142] [info]  [AXIOS] Error fetching clans json!
+[2024-11-09 12:27:04.145] [info]  Error fetching badgesUpdater json!
+[2024-11-09 12:27:04.145] [info]  [AXIOS] Error fetching badges json!
+[2024-11-09 12:27:04.814] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 12:27:08.319] [info]  Launching Game...
+[2024-11-09 12:27:08.574] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 12:27:08.630] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 12:27:08.631] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 12:27:08.631] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 12:54:28.637] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 12:54:28.669] [info]  Changed 0 config entries out of 150
+[2024-11-09 12:54:28.679] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 12:54:28.684] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 12:54:28.688] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 12:54:28.691] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 12:54:28.693] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 12:54:28.693] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 12:54:28.693] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 12:54:28.698] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 12:54:28.701] [info]  UI Language: en_US
+[2024-11-09 12:54:28.702] [info]  [FLAG MODE] New
+[2024-11-09 12:54:28.960] [info]  [AXIOS] Error fetching userscriptInfoObj json!
+[2024-11-09 12:54:28.960] [info]  [AXIOS] Error fetching fakeNamesObj json!
+[2024-11-09 12:54:28.960] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-09 12:54:28.961] [info]  [AXIOS] Error fetching badges json!
+[2024-11-09 12:54:28.961] [info]  [AXIOS] Error fetching clans json!
+[2024-11-09 12:54:28.963] [info]  [AXIOS] Error fetching taglist json!
+[2024-11-09 12:54:28.963] [info]  Error fetching badgesUpdater json!
+[2024-11-09 12:54:28.963] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-09 12:54:28.964] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 12:54:29.676] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 12:54:31.178] [info]  Launching Game...
+[2024-11-09 12:54:31.445] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 12:54:31.500] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 12:54:31.501] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 12:54:31.501] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:01:05.123] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:01:05.156] [info]  Changed 0 config entries out of 150
+[2024-11-09 13:01:05.167] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 13:01:05.170] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 13:01:05.174] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 13:01:05.178] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 13:01:05.179] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:01:05.179] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:01:05.180] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 13:01:05.184] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 13:01:05.187] [info]  UI Language: en_US
+[2024-11-09 13:01:05.187] [info]  [FLAG MODE] New
+[2024-11-09 13:01:05.391] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 13:01:06.070] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 13:01:07.573] [info]  Launching Game...
+[2024-11-09 13:01:07.763] [info]  [Asset Validation Key] Key received...
+[2024-11-09 13:01:07.764] [info]  [Asset Validation Key] Key valid!
+[2024-11-09 13:01:08.102] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:01:08.155] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:01:08.155] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:01:08.155] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:02:58.630] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:02:58.673] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:02:58.673] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:02:58.674] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:03:03.024] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:03:03.066] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:03:03.067] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:03:03.067] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:04:43.142] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:04:43.183] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:04:43.184] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:04:43.184] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:04:48.401] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:04:48.444] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:04:48.445] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:04:48.445] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:04:54.315] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:04:54.366] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:04:54.366] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:04:54.366] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:04:59.032] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:04:59.080] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:04:59.081] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:04:59.081] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:05:03.245] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:05:03.293] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:05:03.294] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:05:03.294] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:08:54.898] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:08:54.942] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:08:54.942] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:08:54.942] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:09:25.576] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:09:25.625] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:09:25.625] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:09:25.625] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:09:29.774] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:09:29.817] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:09:29.818] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:09:29.818] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:23:48.299] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:23:48.348] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:23:48.348] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:23:48.348] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:23:52.187] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:23:52.230] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:23:52.231] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:23:52.231] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:23:56.207] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:23:56.255] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:23:56.255] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:23:56.255] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:23:59.892] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:23:59.944] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:23:59.946] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:23:59.946] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:43:58.260] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:43:58.302] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:43:58.303] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:43:58.303] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:44:02.380] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:44:02.424] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:44:02.425] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:44:02.426] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:44:09.578] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:44:09.629] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:44:09.630] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:44:09.630] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:44:13.640] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:44:13.687] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:44:13.687] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:44:13.687] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:45:31.702] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:45:31.751] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:45:31.751] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:45:31.752] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:45:35.979] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:45:36.022] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:45:36.022] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:45:36.022] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:45:39.950] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:45:39.992] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:45:39.993] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:45:39.993] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:49:28.399] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:49:28.442] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:49:28.442] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:49:28.442] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:49:32.808] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:49:32.850] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:49:32.851] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:49:32.851] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:49:37.715] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:49:37.767] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:49:37.767] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:49:37.767] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:50:46.604] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:50:46.646] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:50:46.647] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:50:46.647] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:50:50.652] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:50:50.695] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:50:50.695] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:50:50.695] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:56:27.196] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:56:27.239] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:56:27.239] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:56:27.239] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:56:31.344] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:56:31.386] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:56:31.387] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:56:31.387] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:56:35.112] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:56:35.163] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:56:35.164] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:56:35.164] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 13:59:58.165] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 13:59:58.207] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 13:59:58.208] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 13:59:58.208] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 14:00:02.078] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 14:00:02.120] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 14:00:02.120] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 14:00:02.121] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 14:01:53.364] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 14:01:53.406] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 14:01:53.407] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 14:01:53.407] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 14:01:56.972] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 14:01:57.014] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 14:01:57.015] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 14:01:57.015] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 14:40:45.331] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 14:40:45.374] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 14:40:45.375] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 14:40:45.375] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:42:22.958] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:42:22.991] [info]  Changed 0 config entries out of 150
+[2024-11-09 15:42:23.002] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 15:42:23.005] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 15:42:23.009] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 15:42:23.013] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 15:42:23.014] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:42:23.014] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:42:23.014] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 15:42:23.018] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 15:42:23.021] [info]  UI Language: en_US
+[2024-11-09 15:42:23.022] [info]  [FLAG MODE] New
+[2024-11-09 15:42:23.283] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 15:42:23.979] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 15:42:25.615] [info]  [Asset Validation Key] Key received...
+[2024-11-09 15:42:25.616] [info]  [Asset Validation Key] Key valid!
+[2024-11-09 15:42:27.481] [info]  Launching Game...
+[2024-11-09 15:42:28.072] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:42:28.127] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:42:28.128] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:42:28.128] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:42:59.231] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:42:59.273] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:42:59.274] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:42:59.274] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:43:04.275] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:43:04.317] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:43:04.318] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:43:04.318] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:43:09.126] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:43:09.174] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:43:09.174] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:43:09.175] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:54:55.184] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:54:55.226] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:54:55.226] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:54:55.227] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:55:10.216] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:55:10.262] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:55:10.262] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:55:10.263] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:55:18.529] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:55:18.573] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:55:18.573] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:55:18.573] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:55:22.647] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:55:22.711] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:55:22.711] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:55:22.711] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:55:26.802] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:55:26.853] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:55:26.853] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:55:26.853] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:55:30.836] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:55:30.887] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:55:30.887] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:55:30.887] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 15:55:48.153] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 15:55:48.205] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 15:55:48.206] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 15:55:48.206] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:06:14.510] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:06:14.552] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:06:14.552] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:06:14.552] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:12:33.945] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:12:33.989] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:12:33.990] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:12:33.990] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:14:04.525] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:14:04.567] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:14:04.567] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:14:04.567] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:14:08.510] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:14:08.551] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:14:08.552] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:14:08.552] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:24:54.478] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:24:54.512] [info]  Changed 0 config entries out of 150
+[2024-11-09 16:24:54.521] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 16:24:54.525] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 16:24:54.530] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 16:24:54.534] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 16:24:54.535] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:24:54.536] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:24:54.536] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 16:24:54.541] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 16:24:54.544] [info]  UI Language: en_US
+[2024-11-09 16:24:54.544] [info]  [FLAG MODE] New
+[2024-11-09 16:24:54.755] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 16:24:55.399] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 16:24:57.138] [info]  [Asset Validation Key] Key received...
+[2024-11-09 16:24:57.138] [info]  [Asset Validation Key] Key valid!
+[2024-11-09 16:24:58.903] [info]  Launching Game...
+[2024-11-09 16:24:59.491] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:24:59.547] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:24:59.548] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:24:59.548] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:29:03.653] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:29:03.696] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:29:03.697] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:29:03.697] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:29:09.444] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:29:09.489] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:29:09.490] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:29:09.490] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:29:16.445] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:29:16.491] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:29:16.492] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:29:16.492] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:29:21.238] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:29:21.283] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:29:21.284] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:29:21.284] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:32:46.147] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:32:46.191] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:32:46.191] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:32:46.191] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:57:10.971] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:57:11.014] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:57:11.014] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:57:11.014] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 16:57:15.947] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 16:57:15.989] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 16:57:15.990] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 16:57:15.990] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:00:25.296] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:00:25.329] [info]  Changed 0 config entries out of 150
+[2024-11-09 17:00:25.339] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 17:00:25.343] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 17:00:25.348] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 17:00:25.351] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 17:00:25.353] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:00:25.353] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:00:25.353] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 17:00:25.358] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 17:00:25.361] [info]  UI Language: en_US
+[2024-11-09 17:00:25.361] [info]  [FLAG MODE] New
+[2024-11-09 17:00:25.610] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 17:00:26.287] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 17:00:27.789] [info]  Launching Game...
+[2024-11-09 17:00:27.952] [info]  [Asset Validation Key] Key received...
+[2024-11-09 17:00:27.954] [info]  [Asset Validation Key] Key valid!
+[2024-11-09 17:00:28.316] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:00:28.375] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:00:28.376] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:00:28.376] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:00:44.912] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:00:44.955] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:00:44.955] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:00:44.955] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:20:43.377] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:20:43.421] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:20:43.421] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:20:43.422] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:20:47.888] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:20:47.931] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:20:47.931] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:20:47.931] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:20:51.988] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:20:52.037] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:20:52.037] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:20:52.038] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:20:56.184] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:20:56.231] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:20:56.231] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:20:56.232] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:21:00.007] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:21:00.058] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:21:00.059] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:21:00.059] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:21:03.602] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:21:03.651] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:21:03.651] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:21:03.651] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:21:08.992] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:21:09.044] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:21:09.044] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:21:09.044] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:21:15.549] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:21:15.602] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:21:15.603] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:21:15.603] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:21:26.545] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:21:26.590] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:21:26.590] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:21:26.590] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:21:31.191] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:21:31.233] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:21:31.234] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:21:31.234] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:21:35.314] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:21:35.360] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:21:35.360] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:21:35.360] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:22:41.648] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:22:41.691] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:22:41.691] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:22:41.691] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:22:45.470] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:22:45.511] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:22:45.512] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:22:45.512] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:22:49.165] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:22:49.217] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:22:49.218] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:22:49.218] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:23:31.589] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:23:31.636] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:23:31.636] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:23:31.636] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:23:35.436] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:23:35.484] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:23:35.485] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:23:35.485] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:23:39.210] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:23:39.259] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:23:39.259] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:23:39.259] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:24:23.411] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:24:23.455] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:24:23.455] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:24:23.455] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:24:26.799] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:24:26.834] [info]  Changed 0 config entries out of 150
+[2024-11-09 17:24:26.844] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 17:24:26.848] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 17:24:26.852] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 17:24:26.856] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 17:24:26.857] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:24:26.857] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:24:26.858] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 17:24:26.862] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 17:24:26.865] [info]  UI Language: en_US
+[2024-11-09 17:24:26.865] [info]  [FLAG MODE] New
+[2024-11-09 17:24:27.149] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 17:24:27.960] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 17:24:29.461] [info]  Launching Game...
+[2024-11-09 17:24:29.655] [info]  [Asset Validation Key] Key received...
+[2024-11-09 17:24:29.656] [info]  [Asset Validation Key] Key valid!
+[2024-11-09 17:24:29.997] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:24:30.052] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:24:30.053] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:24:30.053] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:26:20.507] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:26:20.551] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:26:20.551] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:26:20.551] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:31:32.803] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:31:32.846] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:31:32.847] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:31:32.847] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:47:21.639] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:47:21.672] [info]  Changed 0 config entries out of 150
+[2024-11-09 17:47:21.683] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-09 17:47:21.686] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-09 17:47:21.690] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-09 17:47:21.693] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-09 17:47:21.695] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:47:21.695] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 17:47:21.695] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-09 17:47:21.700] [info]  Script Loaded: js/util/wm.js
+[2024-11-09 17:47:21.703] [info]  UI Language: en_US
+[2024-11-09 17:47:21.704] [info]  [FLAG MODE] New
+[2024-11-09 17:47:21.953] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-09 17:47:22.841] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-09 17:47:24.344] [info]  Launching Game...
+[2024-11-09 17:47:24.484] [info]  [Asset Validation Key] Key received...
+[2024-11-09 17:47:24.484] [info]  [Asset Validation Key] Key valid!
+[2024-11-09 17:47:24.928] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 17:47:24.987] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 17:47:24.988] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 17:47:24.988] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 18:02:49.212] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 18:02:49.255] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 18:02:49.255] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 18:02:49.255] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 18:02:53.002] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 18:02:53.047] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 18:02:53.048] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 18:02:53.048] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 18:14:39.471] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 18:14:39.515] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 18:14:39.516] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 18:14:39.516] [info]  [USERSCRIPT] No Requires Found
+[2024-11-09 18:14:48.109] [info]  Script Loaded: js/util/settings.js
+[2024-11-09 18:14:48.157] [info]  Script Loaded: js/preload/game.js
+[2024-11-09 18:14:48.157] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-09 18:14:48.158] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:17:17.859] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:17:17.892] [info]  Changed 0 config entries out of 150
+[2024-11-12 18:17:17.894] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-12 18:17:17.897] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-12 18:17:17.899] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-12 18:17:17.901] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-12 18:17:17.902] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:17:17.903] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:17:17.903] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-12 18:17:17.907] [info]  Script Loaded: js/util/wm.js
+[2024-11-12 18:17:17.910] [info]  UI Language: en_US
+[2024-11-12 18:17:17.911] [info]  [FLAG MODE] New
+[2024-11-12 18:17:18.131] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-12 18:17:18.896] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-12 18:17:20.399] [info]  Launching Game...
+[2024-11-12 18:17:20.437] [info]  [Asset Validation Key] Key received...
+[2024-11-12 18:17:20.437] [info]  [Asset Validation Key] Key valid!
+[2024-11-12 18:17:20.986] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:17:21.047] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:17:21.048] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:17:21.048] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:18:56.104] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:18:56.137] [info]  Changed 0 config entries out of 150
+[2024-11-12 18:18:56.148] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-12 18:18:56.152] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-12 18:18:56.157] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-12 18:18:56.161] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-12 18:18:56.163] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:18:56.164] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:18:56.164] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-12 18:18:56.174] [info]  Script Loaded: js/util/wm.js
+[2024-11-12 18:18:56.181] [error] Other PC7 process(es) already exist. If you can't see the window, please kill all PC7 task(s) before trying again.
+[2024-11-12 18:19:31.478] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:19:31.510] [info]  Changed 0 config entries out of 150
+[2024-11-12 18:19:31.521] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-12 18:19:31.524] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-12 18:19:31.528] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-12 18:19:31.532] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-12 18:19:31.533] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:19:31.533] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:19:31.534] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-12 18:19:31.538] [info]  Script Loaded: js/util/wm.js
+[2024-11-12 18:19:31.541] [info]  UI Language: en_US
+[2024-11-12 18:19:31.542] [info]  [FLAG MODE] New
+[2024-11-12 18:19:31.818] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-12 18:19:32.520] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-12 18:19:34.023] [info]  Launching Game...
+[2024-11-12 18:19:34.214] [info]  [Asset Validation Key] Key received...
+[2024-11-12 18:19:34.215] [info]  [Asset Validation Key] Key valid!
+[2024-11-12 18:19:34.555] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:19:34.620] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:19:34.620] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:19:34.620] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:23:29.474] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:23:29.516] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:23:29.516] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:23:29.516] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:27:28.207] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:27:28.250] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:27:28.251] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:27:28.251] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:28:20.571] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:28:20.617] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:28:20.617] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:28:20.617] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:28:26.074] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:28:26.125] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:28:26.126] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:28:26.126] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:28:30.007] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:28:30.053] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:28:30.054] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:28:30.054] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:30:07.938] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:30:07.989] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:30:07.990] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:30:07.990] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:30:12.006] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:30:12.049] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:30:12.049] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:30:12.049] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:31:20.890] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:31:20.933] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:31:20.934] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:31:20.934] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:34:09.051] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:34:09.095] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:34:09.095] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:34:09.095] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:35:16.794] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:35:16.837] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:35:16.837] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:35:16.837] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:36:32.633] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:36:32.677] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:36:32.677] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:36:32.677] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:36:37.126] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:36:37.168] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:36:37.168] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:36:37.168] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:36:40.454] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:36:40.501] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:36:40.501] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:36:40.501] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:56:20.662] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:56:20.696] [info]  Changed 0 config entries out of 150
+[2024-11-12 18:56:20.707] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-12 18:56:20.711] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-12 18:56:20.714] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-12 18:56:20.718] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-12 18:56:20.719] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:56:20.719] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 18:56:20.720] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-12 18:56:20.723] [info]  Script Loaded: js/util/wm.js
+[2024-11-12 18:56:20.726] [info]  UI Language: en_US
+[2024-11-12 18:56:20.727] [info]  [FLAG MODE] New
+[2024-11-12 18:56:20.957] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-12 18:56:21.713] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-12 18:56:23.452] [info]  [Asset Validation Key] Key received...
+[2024-11-12 18:56:23.453] [info]  [Asset Validation Key] Key valid!
+[2024-11-12 18:56:25.218] [info]  Launching Game...
+[2024-11-12 18:56:25.811] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 18:56:25.867] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 18:56:25.867] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 18:56:25.867] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:03:05.277] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:03:05.324] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:03:05.325] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:03:05.325] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:15:20.592] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:15:20.635] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:15:20.635] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:15:20.635] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:15:25.111] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:15:25.153] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:15:25.153] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:15:25.153] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:28:03.690] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:28:03.733] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:28:03.733] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:28:03.733] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:42:10.421] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:42:10.464] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:42:10.464] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:42:10.464] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:42:15.897] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:42:15.940] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:42:15.941] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:42:15.941] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:44:47.677] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:44:47.721] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:44:47.722] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:44:47.722] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:44:51.633] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:44:51.677] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:44:51.677] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:44:51.677] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:44:55.845] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:44:55.894] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:44:55.895] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:44:55.895] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:45:00.239] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:45:00.288] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:45:00.289] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:45:00.289] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:45:05.103] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:45:05.156] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:45:05.156] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:45:05.156] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:45:11.173] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:45:11.225] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:45:11.226] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:45:11.226] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:45:15.209] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:45:15.259] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:45:15.259] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:45:15.259] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:49:13.241] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:49:13.284] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:49:13.284] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:49:13.284] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:49:17.150] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:49:17.193] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:49:17.194] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:49:17.194] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:52:53.540] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:52:53.582] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:52:53.583] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:52:53.583] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 19:52:58.243] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 19:52:58.287] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 19:52:58.288] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 19:52:58.288] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:14:17.615] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:14:17.658] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:14:17.658] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:14:17.658] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:21:59.731] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:21:59.773] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:21:59.774] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:21:59.774] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:22:14.299] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:22:14.342] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:22:14.342] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:22:14.342] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:22:18.111] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:22:18.153] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:22:18.153] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:22:18.154] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:23:35.617] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:23:35.660] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:23:35.660] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:23:35.660] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:26:02.578] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:26:02.621] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:26:02.621] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:26:02.621] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:26:07.015] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:26:07.058] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:26:07.059] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:26:07.059] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:28:26.426] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:28:26.469] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:28:26.469] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:28:26.470] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:28:30.238] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:28:30.280] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:28:30.280] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:28:30.280] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:28:34.759] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:28:34.808] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:28:34.808] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:28:34.808] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:32:13.042] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:32:13.084] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:32:13.085] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:32:13.085] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:32:17.556] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:32:17.599] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:32:17.599] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:32:17.599] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:32:21.546] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:32:21.597] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:32:21.598] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:32:21.598] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:45:26.240] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:45:26.283] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:45:26.283] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:45:26.283] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:45:59.516] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:45:59.559] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:45:59.560] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:45:59.560] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:46:03.144] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:46:03.187] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:46:03.188] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:46:03.188] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:52:51.884] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:52:51.928] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:52:51.928] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:52:51.929] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:52:58.880] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:52:58.933] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:52:58.934] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:52:58.934] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 20:53:02.792] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 20:53:02.835] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 20:53:02.835] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 20:53:02.835] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:08:23.933] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:08:23.975] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:08:23.975] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:08:23.976] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:09:32.950] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:09:32.995] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:09:32.995] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:09:32.995] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:11:04.933] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:11:04.981] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:11:04.981] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:11:04.981] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:14:26.399] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:14:26.443] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:14:26.444] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:14:26.444] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:38:01.446] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:38:01.479] [info]  Changed 0 config entries out of 150
+[2024-11-12 21:38:01.489] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-12 21:38:01.493] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-12 21:38:01.496] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-12 21:38:01.500] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-12 21:38:01.501] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:38:01.501] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:38:01.502] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-12 21:38:01.506] [info]  Script Loaded: js/util/wm.js
+[2024-11-12 21:38:01.509] [info]  UI Language: en_US
+[2024-11-12 21:38:01.509] [info]  [FLAG MODE] New
+[2024-11-12 21:38:01.763] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-12 21:38:02.135] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-12 21:38:03.636] [info]  Launching Game...
+[2024-11-12 21:38:03.702] [info]  [Asset Validation Key] Key received...
+[2024-11-12 21:38:03.702] [info]  [Asset Validation Key] Key valid!
+[2024-11-12 21:38:04.203] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:38:04.260] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:38:04.261] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:38:04.261] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:39:43.842] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:39:43.885] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:39:43.885] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:39:43.885] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:43:02.062] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:43:02.105] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:43:02.106] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:43:02.106] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:43:06.196] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:43:06.240] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:43:06.240] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:43:06.241] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:44:22.927] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:44:22.969] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:44:22.970] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:44:22.970] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:44:27.681] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:44:27.724] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:44:27.724] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:44:27.724] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:45:35.355] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:45:35.398] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:45:35.398] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:45:35.398] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:48:35.656] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:48:35.699] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:48:35.699] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:48:35.699] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 21:57:01.539] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 21:57:01.582] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 21:57:01.582] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 21:57:01.582] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:00:41.628] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:00:41.671] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:00:41.671] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:00:41.671] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:02:30.379] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:02:30.422] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:02:30.422] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:02:30.422] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:02:34.458] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:02:34.501] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:02:34.502] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:02:34.502] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:03:35.994] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:03:36.038] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:03:36.038] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:03:36.038] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:04:45.955] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:04:46.013] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:04:46.013] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:04:46.014] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:06:13.391] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:06:13.433] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:06:13.433] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:06:13.434] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:07:31.409] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:07:31.451] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:07:31.452] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:07:31.452] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:08:11.176] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:08:11.219] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:08:11.219] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:08:11.219] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:08:15.466] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:08:15.508] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:08:15.509] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:08:15.509] [info]  [USERSCRIPT] No Requires Found
+[2024-11-12 22:11:35.948] [info]  Script Loaded: js/util/settings.js
+[2024-11-12 22:11:35.991] [info]  Script Loaded: js/preload/game.js
+[2024-11-12 22:11:35.991] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-12 22:11:35.991] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 11:34:58.001] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 11:34:58.033] [info]  Changed 0 config entries out of 150
+[2024-11-13 11:34:58.035] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-13 11:34:58.036] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-13 11:34:58.038] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-13 11:34:58.040] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-13 11:34:58.041] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 11:34:58.041] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 11:34:58.041] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-13 11:34:58.045] [info]  Script Loaded: js/util/wm.js
+[2024-11-13 11:34:58.048] [info]  UI Language: en_US
+[2024-11-13 11:34:58.049] [info]  [FLAG MODE] New
+[2024-11-13 11:34:58.269] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-13 11:34:58.271] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-13 11:34:58.271] [info]  [AXIOS] Error fetching decorations json!
+[2024-11-13 11:34:58.272] [info]  [AXIOS] Error fetching clans json!
+[2024-11-13 11:34:58.273] [info]  [AXIOS] Error fetching taglist json!
+[2024-11-13 11:34:58.273] [info]  [AXIOS] Error fetching fakeNamesObj json!
+[2024-11-13 11:34:58.274] [info]  [AXIOS] Error fetching badges json!
+[2024-11-13 11:34:58.274] [info]  Error fetching badgesUpdater json!
+[2024-11-13 11:34:58.274] [info]  [AXIOS] Error fetching userscriptInfoObj json!
+[2024-11-13 11:34:59.183] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-13 11:35:00.685] [info]  Launching Game...
+[2024-11-13 11:35:00.959] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 11:35:01.022] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 11:35:01.023] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 11:35:01.023] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:17:27.229] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:17:27.262] [info]  Changed 0 config entries out of 150
+[2024-11-13 18:17:27.273] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-13 18:17:27.276] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-13 18:17:27.280] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-13 18:17:27.283] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-13 18:17:27.285] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:17:27.285] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:17:27.285] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-13 18:17:27.289] [info]  Script Loaded: js/util/wm.js
+[2024-11-13 18:17:27.292] [info]  UI Language: en_US
+[2024-11-13 18:17:27.292] [info]  [FLAG MODE] New
+[2024-11-13 18:17:27.545] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-13 18:17:28.259] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-13 18:17:29.762] [info]  Launching Game...
+[2024-11-13 18:17:30.016] [info]  [Asset Validation Key] Key received...
+[2024-11-13 18:17:30.017] [info]  [Asset Validation Key] Key valid!
+[2024-11-13 18:17:30.734] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:17:30.791] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:17:30.792] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:17:30.792] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:40:55.651] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:40:55.694] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:40:55.694] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:40:55.694] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:40:59.653] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:40:59.696] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:40:59.697] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:40:59.697] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:41:03.844] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:41:03.892] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:41:03.893] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:41:03.893] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:41:07.633] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:41:07.683] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:41:07.684] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:41:07.684] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:41:11.335] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:41:11.383] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:41:11.384] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:41:11.384] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:41:15.242] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:41:15.298] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:41:15.299] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:41:15.299] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:41:19.197] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:41:19.246] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:41:19.247] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:41:19.247] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:41:25.092] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:41:25.144] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:41:25.144] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:41:25.144] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:41:28.923] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:41:28.972] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:41:28.972] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:41:28.972] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:42:29.996] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:42:30.038] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:42:30.038] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:42:30.038] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:42:34.259] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:42:34.301] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:42:34.301] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:42:34.302] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:42:37.733] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:42:37.781] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:42:37.782] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:42:37.782] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:42:42.061] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:42:42.109] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:42:42.110] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:42:42.110] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:42:47.273] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:42:47.323] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:42:47.324] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:42:47.324] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:46:46.548] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:46:46.581] [info]  Changed 0 config entries out of 150
+[2024-11-13 18:46:46.583] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-13 18:46:46.585] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-13 18:46:46.586] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-13 18:46:46.588] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-13 18:46:46.589] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:46:46.589] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:46:46.589] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-13 18:46:46.593] [info]  Script Loaded: js/util/wm.js
+[2024-11-13 18:46:46.596] [info]  UI Language: en_US
+[2024-11-13 18:46:46.596] [info]  [FLAG MODE] New
+[2024-11-13 18:46:46.881] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-13 18:46:47.592] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-13 18:46:49.311] [info]  [Asset Validation Key] Key received...
+[2024-11-13 18:46:49.311] [info]  [Asset Validation Key] Key valid!
+[2024-11-13 18:46:51.095] [info]  Launching Game...
+[2024-11-13 18:46:51.775] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:46:51.837] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:46:51.837] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:46:51.838] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:50:42.125] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:50:42.167] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:50:42.167] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:50:42.167] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:56:11.733] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:56:11.776] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:56:11.776] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:56:11.776] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:57:49.596] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:57:49.629] [info]  Changed 0 config entries out of 150
+[2024-11-13 18:57:49.639] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-13 18:57:49.643] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-13 18:57:49.646] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-13 18:57:49.650] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-13 18:57:49.651] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:57:49.651] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 18:57:49.652] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-13 18:57:49.656] [info]  Script Loaded: js/util/wm.js
+[2024-11-13 18:57:49.659] [info]  UI Language: en_US
+[2024-11-13 18:57:49.659] [info]  [FLAG MODE] New
+[2024-11-13 18:57:49.865] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-13 18:57:50.559] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-13 18:57:52.297] [info]  [Asset Validation Key] Key received...
+[2024-11-13 18:57:52.297] [info]  [Asset Validation Key] Key valid!
+[2024-11-13 18:57:54.061] [info]  Launching Game...
+[2024-11-13 18:57:54.641] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 18:57:54.694] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 18:57:54.694] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 18:57:54.695] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 19:04:53.048] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 19:04:53.091] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 19:04:53.092] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 19:04:53.092] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 20:35:08.626] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 20:35:08.659] [info]  Changed 0 config entries out of 150
+[2024-11-13 20:35:08.670] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-13 20:35:08.674] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-13 20:35:08.678] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-13 20:35:08.683] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-13 20:35:08.684] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 20:35:08.684] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 20:35:08.684] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-13 20:35:08.688] [info]  Script Loaded: js/util/wm.js
+[2024-11-13 20:35:08.691] [info]  UI Language: en_US
+[2024-11-13 20:35:08.691] [info]  [FLAG MODE] New
+[2024-11-13 20:35:08.945] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-13 20:35:09.659] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-13 20:35:11.162] [info]  Launching Game...
+[2024-11-13 20:35:11.351] [info]  [Asset Validation Key] Key received...
+[2024-11-13 20:35:11.352] [info]  [Asset Validation Key] Key valid!
+[2024-11-13 20:35:11.809] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 20:35:11.864] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 20:35:11.865] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 20:35:11.865] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 20:41:43.742] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 20:41:43.785] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 20:41:43.785] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 20:41:43.785] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 20:41:50.825] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 20:41:50.873] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 20:41:50.873] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 20:41:50.873] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 20:54:32.884] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 20:54:32.929] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 20:54:32.929] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 20:54:32.929] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 20:54:36.713] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 20:54:36.757] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 20:54:36.757] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 20:54:36.757] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:02:04.057] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:02:04.105] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:02:04.106] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:02:04.106] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:02:21.276] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:02:21.310] [info]  Changed 0 config entries out of 150
+[2024-11-13 21:02:21.320] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-13 21:02:21.324] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-13 21:02:21.328] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-13 21:02:21.333] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-13 21:02:21.334] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:02:21.334] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:02:21.335] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-13 21:02:21.339] [info]  Script Loaded: js/util/wm.js
+[2024-11-13 21:02:21.342] [info]  UI Language: en_US
+[2024-11-13 21:02:21.342] [info]  [FLAG MODE] New
+[2024-11-13 21:02:21.597] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-13 21:02:22.326] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-13 21:02:23.827] [info]  Launching Game...
+[2024-11-13 21:02:24.030] [info]  [Asset Validation Key] Key received...
+[2024-11-13 21:02:24.031] [info]  [Asset Validation Key] Key valid!
+[2024-11-13 21:02:24.374] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:02:24.432] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:02:24.433] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:02:24.433] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:04:14.442] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:04:14.485] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:04:14.485] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:04:14.485] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:04:18.749] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:04:18.792] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:04:18.792] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:04:18.792] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:04:23.175] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:04:23.224] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:04:23.225] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:04:23.225] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:04:27.057] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:04:27.105] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:04:27.105] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:04:27.105] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:08:29.765] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:08:29.807] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:08:29.808] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:08:29.808] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:08:33.830] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:08:33.873] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:08:33.873] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:08:33.873] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:08:43.656] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:08:43.707] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:08:43.708] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:08:43.708] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:08:50.834] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:08:50.876] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:08:50.876] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:08:50.877] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:08:54.978] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:08:55.020] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:08:55.021] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:08:55.021] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:08:59.414] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:08:59.463] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:08:59.464] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:08:59.464] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:09:03.117] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:09:03.167] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:09:03.167] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:09:03.168] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:09:09.168] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:09:09.218] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:09:09.219] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:09:09.219] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:11:16.479] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:11:16.521] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:11:16.522] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:11:16.522] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:14:14.460] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:14:14.502] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:14:14.503] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:14:14.503] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:15:13.085] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:15:13.128] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:15:13.129] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:15:13.129] [info]  [USERSCRIPT] No Requires Found
+[2024-11-13 21:15:17.698] [info]  Script Loaded: js/util/settings.js
+[2024-11-13 21:15:17.741] [info]  Script Loaded: js/preload/game.js
+[2024-11-13 21:15:17.742] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-13 21:15:17.742] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 19:08:34.441] [info]  Script Loaded: js/util/settings.js
+[2024-11-15 19:08:34.475] [info]  Changed 0 config entries out of 150
+[2024-11-15 19:08:34.477] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-15 19:08:34.478] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-15 19:08:34.480] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-15 19:08:34.481] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-15 19:08:34.483] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-15 19:08:34.483] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 19:08:34.483] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-15 19:08:34.487] [info]  Script Loaded: js/util/wm.js
+[2024-11-15 19:08:34.490] [info]  UI Language: en_US
+[2024-11-15 19:08:34.490] [info]  [FLAG MODE] New
+[2024-11-15 19:08:34.726] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-15 19:08:51.513] [info]  Launching Game...
+[2024-11-15 19:09:32.916] [info]  Script Loaded: js/util/settings.js
+[2024-11-15 19:09:32.949] [info]  Changed 0 config entries out of 150
+[2024-11-15 19:09:32.958] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-15 19:09:32.961] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-15 19:09:32.965] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-15 19:09:32.969] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-15 19:09:32.970] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-15 19:09:32.970] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 19:09:32.970] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-15 19:09:32.974] [info]  Script Loaded: js/util/wm.js
+[2024-11-15 19:09:32.978] [info]  UI Language: en_US
+[2024-11-15 19:09:32.978] [info]  [FLAG MODE] New
+[2024-11-15 19:09:33.188] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-15 19:41:41.196] [info]  Script Loaded: js/util/settings.js
+[2024-11-15 19:41:41.241] [info]  Changed 0 config entries out of 150
+[2024-11-15 19:41:41.243] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-15 19:41:41.246] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-15 19:41:41.247] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-15 19:41:41.249] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-15 19:41:41.250] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-15 19:41:41.250] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 19:41:41.250] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-15 19:41:41.254] [info]  Script Loaded: js/util/wm.js
+[2024-11-15 19:41:41.257] [info]  UI Language: en_US
+[2024-11-15 19:41:41.257] [info]  [FLAG MODE] New
+[2024-11-15 19:41:41.489] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-15 19:41:44.679] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-15 19:41:46.182] [info]  Launching Game...
+[2024-11-15 19:41:47.822] [info]  [Asset Validation Key] Key received...
+[2024-11-15 19:41:47.823] [info]  [Asset Validation Key] Key valid!
+[2024-11-15 19:41:49.056] [info]  Script Loaded: js/util/settings.js
+[2024-11-15 19:41:49.118] [info]  Script Loaded: js/preload/game.js
+[2024-11-15 19:41:49.118] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-15 19:41:49.118] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 19:43:15.845] [info]  Script Loaded: js/util/settings.js
+[2024-11-15 19:43:15.888] [info]  Script Loaded: js/preload/game.js
+[2024-11-15 19:43:15.889] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-15 19:43:15.889] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 19:43:47.024] [info]  Script Loaded: js/util/settings.js
+[2024-11-15 19:43:47.073] [info]  Script Loaded: js/preload/game.js
+[2024-11-15 19:43:47.073] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-15 19:43:47.073] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 20:28:15.534] [info]  Script Loaded: js/util/settings.js
+[2024-11-15 20:28:15.568] [info]  Changed 0 config entries out of 150
+[2024-11-15 20:28:15.577] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-15 20:28:15.581] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-15 20:28:15.586] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-15 20:28:15.590] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-15 20:28:15.592] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-15 20:28:15.592] [info]  [USERSCRIPT] No Requires Found
+[2024-11-15 20:28:15.592] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-15 20:28:15.600] [info]  Script Loaded: js/util/wm.js
+[2024-11-15 20:28:15.605] [info]  UI Language: en_US
+[2024-11-15 20:28:15.606] [info]  [FLAG MODE] New
+[2024-11-15 20:28:15.834] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-15 20:28:34.611] [info]  Launching Game...
+[2024-11-16 19:34:23.333] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:34:23.366] [info]  Changed 0 config entries out of 150
+[2024-11-16 19:34:23.368] [info]  Restored 62 sub setting entries in matchmakerOptions
+[2024-11-16 19:34:23.369] [info]  Restored 5 sub setting entries in InboxNotificationUtilOptions
+[2024-11-16 19:34:23.371] [info]  Restored 165 sub setting entries in twitchChannelPointsOptions
+[2024-11-16 19:34:23.373] [info]  Restored 12 sub setting entries in BindOptions
+[2024-11-16 19:34:23.374] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:34:23.375] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:34:23.375] [info]  PC7 v9.5.3
+    - electron@10.4.7
+    - nodejs@12.16.3
+    - Chromium@85.0.4183.121
+[2024-11-16 19:34:23.378] [info]  Script Loaded: js/util/wm.js
+[2024-11-16 19:34:23.382] [info]  UI Language: en_US
+[2024-11-16 19:34:23.382] [info]  [FLAG MODE] New
+[2024-11-16 19:34:23.717] [info]  [DiscordRPC] Error:Error: Could not connect
+[2024-11-16 19:34:24.430] [error] [Updater] ERROR:Error: Updater Error: Unsupported OS
+[2024-11-16 19:34:26.165] [info]  [Asset Validation Key] Key received...
+[2024-11-16 19:34:26.165] [info]  [Asset Validation Key] Key valid!
+[2024-11-16 19:34:27.935] [info]  Launching Game...
+[2024-11-16 19:34:28.510] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:34:28.571] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:34:28.571] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:34:28.572] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:38:10.691] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:38:10.734] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:38:10.734] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:38:10.734] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:38:17.412] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:38:17.454] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:38:17.455] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:38:17.455] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:38:21.466] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:38:21.508] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:38:21.508] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:38:21.509] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:38:47.808] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:38:47.850] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:38:47.850] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:38:47.850] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:38:52.406] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:38:52.447] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:38:52.448] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:38:52.448] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:38:56.221] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:38:56.270] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:38:56.271] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:38:56.271] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:39:00.078] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:39:00.126] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:39:00.126] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:39:00.126] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:39:03.861] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:39:03.908] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:39:03.908] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:39:03.909] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:39:07.013] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:39:07.062] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:39:07.062] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:39:07.063] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:39:10.458] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:39:10.507] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:39:10.507] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:39:10.507] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:39:14.001] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:39:14.050] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:39:14.050] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:39:14.051] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 19:39:17.382] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 19:39:17.431] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 19:39:17.431] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 19:39:17.431] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:03:56.349] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:03:56.392] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:03:56.392] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:03:56.392] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:04:00.551] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:04:00.594] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:04:00.594] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:04:00.594] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:04:04.416] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:04:04.464] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:04:04.465] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:04:04.465] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:12:39.142] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:12:39.184] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:12:39.184] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:12:39.184] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:34:02.696] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:34:02.739] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:34:02.739] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:34:02.739] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:34:06.819] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:34:06.862] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:34:06.863] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:34:06.863] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:37:58.327] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:37:58.372] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:37:58.372] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:37:58.372] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:38:06.048] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:38:06.089] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:38:06.090] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:38:06.090] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:38:11.049] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:38:11.090] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:38:11.091] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:38:11.091] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:38:12.768] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:38:12.808] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:38:12.809] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:38:12.809] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:38:23.314] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:38:23.358] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:38:23.359] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:38:23.359] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:38:27.410] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:38:27.452] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:38:27.453] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:38:27.453] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:38:31.109] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:38:31.157] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:38:31.157] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:38:31.158] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:38:34.776] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:38:34.825] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:38:34.825] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:38:34.826] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:49:55.376] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:49:55.420] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:49:55.420] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:49:55.421] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:50:01.686] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:50:01.728] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:50:01.729] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:50:01.729] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:50:05.483] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:50:05.533] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:50:05.534] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:50:05.534] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:50:45.404] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:50:45.447] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:50:45.447] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:50:45.447] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:50:49.512] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:50:49.554] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:50:49.554] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:50:49.554] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:51:35.973] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:51:36.016] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:51:36.017] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:51:36.017] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:51:56.237] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:51:56.279] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:51:56.280] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:51:56.280] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:53:57.316] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:53:57.358] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:53:57.358] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:53:57.359] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:54:02.124] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:54:02.166] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:54:02.166] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:54:02.166] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:55:33.969] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:55:34.011] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:55:34.011] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:55:34.011] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:55:40.968] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:55:41.021] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:55:41.021] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:55:41.021] [info]  [USERSCRIPT] No Requires Found
+[2024-11-16 20:55:48.017] [info]  Script Loaded: js/util/settings.js
+[2024-11-16 20:55:48.068] [info]  Script Loaded: js/preload/game.js
+[2024-11-16 20:55:48.069] [info]  [USERSCRIPT] Checking For Requires...
+[2024-11-16 20:55:48.069] [info]  [USERSCRIPT] No Requires Found

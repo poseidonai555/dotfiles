@@ -1,0 +1,184 @@
+[Info  - 8:33:01 AM] Starting ltex-ls...
+Nov 18, 2024 8:33:02 AM org.bsplines.ltexls.server.LtexLanguageServer initialize
+INFO: ltex-ls 15.2.0 - initializing...
+Nov 18, 2024 8:33:02 AM org.bsplines.ltexls.tools.I18n setLocale
+INFO: Setting locale to 'en'
+Nov 18, 2024 8:33:02 AM org.bsplines.ltexls.settings.SettingsManager$Companion logDifferentSettings
+FINE: Reinitializing LanguageTool due to different settings for language 'en-GB': setting 'settings', old 'null', new 'non-null'
+Nov 18, 2024 8:33:02 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "What is Big Data\n\nIncreasing amount of data\n\nThe amount of data being generated and collected is gro"... (truncated to 100 characters)
+Nov 18, 2024 8:33:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 18, 2024 8:33:03 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:33:07 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "IPv4 and IPv6\n\nNumber of bits\n\nIPv4 - 32 bits\n\nIPv6 - 128 bits\n\nNot enough IP addresses\n\nIPv4 only o"... (truncated to 100 characters)
+Nov 18, 2024 8:33:07 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:33:07 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'ENGLISH_WORD_REPEAT_RULE' and sentence '340 trillion trillion unique IP addresses'
+Nov 18, 2024 8:33:07 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:33:19 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Big data and functional programming\n\nData sets are distrusted\n\nWhen data volumes are too large, the "... (truncated to 100 characters)
+Nov 18, 2024 8:33:19 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:33:19 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Representing Big Data\n\nFact based modelling\n\nData is deconstructed into fundamental units, these are"... (truncated to 100 characters)
+Nov 18, 2024 8:33:19 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:33:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Big data and functional programming\n\nData sets are distrusted\n\nWhen data volumes are too large, the "... (truncated to 100 characters)
+Nov 18, 2024 8:33:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:33:47 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Representing Big Data\n\nFact based modelling\n\nData is deconstructed into fundamental units, these are"... (truncated to 100 characters)
+Nov 18, 2024 8:33:47 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:34:11 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "What is Big Data\n\nIncreasing amount of data\n\nThe amount of data being generated and collected is gro"... (truncated to 100 characters)
+Nov 18, 2024 8:34:11 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:34:54 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Introduction to protocols\n\nProtocols\n\nA protocol = \"A set of rules that govern communication\"\n\nTwo d"... (truncated to 100 characters)
+Nov 18, 2024 8:34:54 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 5 rule matches
+Nov 18, 2024 8:34:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "IPv4 and IPv6\n\nNumber of bits\n\nIPv4 - 32 bits\n\nIPv6 - 128 bits\n\nNot enough IP addresses\n\nIPv4 only o"... (truncated to 100 characters)
+Nov 18, 2024 8:34:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:34:55 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'ENGLISH_WORD_REPEAT_RULE' and sentence '340 trillion trillion unique IP addresses'
+Nov 18, 2024 8:34:55 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:35:05 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "JSON and XML\n\nUses\n\nBoth standards for transferring data between a server and an application\n\nJSON a"... (truncated to 100 characters)
+Nov 18, 2024 8:35:05 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Nov 18, 2024 8:36:20 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "NAT and port forwarding\n\nNAT\n\nResponsible for converting IP addresses as they pass over the boundary"... (truncated to 100 characters)
+Nov 18, 2024 8:36:20 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:37:28 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Routable and non routable IP addresses\n\nRoutable IP addresses\n\nA public IP address\n\nAssigned to orga"... (truncated to 100 characters)
+Nov 18, 2024 8:37:28 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:37:31 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "NAT and port forwarding\n\nNAT\n\nResponsible for converting IP addresses as they pass over the boundary"... (truncated to 100 characters)
+Nov 18, 2024 8:37:31 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:37:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Routable and non routable IP addresses\n\nRoutable IP addresses\n\nA public IP address\n\nAssigned to orga"... (truncated to 100 characters)
+Nov 18, 2024 8:37:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:37:42 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "The client server model\n\nHow it functions\n\nThe client sends a request to the server\n\nThe server will"... (truncated to 100 characters)
+Nov 18, 2024 8:37:42 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:37:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "The structure of IP addresses\n\nIPv4\n\n32 bits used\n\nRange from 000.000.000.000 \u2014 255.255.255.255\n\nAro"... (truncated to 100 characters)
+Nov 18, 2024 8:37:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Nov 18, 2024 8:37:50 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'MORFOLOGIK_RULE_EN_GB' and sentence 'The subnet mask is ANDed with the IP address'
+Nov 18, 2024 8:37:50 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:37:53 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "The TCP IP stack and MAC addresses\n\nThe TCP/IP protocol\n\nOne of the most important protocols in stac"... (truncated to 100 characters)
+Nov 18, 2024 8:37:53 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:37:53 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'HE_VERB_AGR' and sentence 'Adds:
+Packet number
+Total number of packets
+Port number the packets should use'
+Nov 18, 2024 8:37:53 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:37:54 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Thin client and thick client computing\n\nWhat is client thickness?\n\nClient thickness refers to the am"... (truncated to 100 characters)
+Nov 18, 2024 8:37:54 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:37:54 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'SETUP_VERB' and sentence 'Easy to setup, and add new terminals to a network'
+Nov 18, 2024 8:37:54 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:37:55 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "The web socket protocol\n\nAPIs\n\nAn API is a set of protocols, which is used to define how application"... (truncated to 100 characters)
+Nov 18, 2024 8:37:55 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:12 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "IPv4 and IPv6\n\nNumber of bits\n\nIPv4 - 32 bits\n\nIPv6 - 128 bits\n\nNot enough IP addresses\n\nIPv4 only o"... (truncated to 100 characters)
+Nov 18, 2024 8:38:12 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:38:12 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'ENGLISH_WORD_REPEAT_RULE' and sentence '340 trillion trillion unique IP addresses'
+Nov 18, 2024 8:38:12 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:38:15 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "JSON and XML\n\nUses\n\nBoth standards for transferring data between a server and an application\n\nJSON a"... (truncated to 100 characters)
+Nov 18, 2024 8:38:15 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Nov 18, 2024 8:38:16 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "IPv4 and IPv6\n\nNumber of bits\n\nIPv4 - 32 bits\n\nIPv6 - 128 bits\n\nNot enough IP addresses\n\nIPv4 only o"... (truncated to 100 characters)
+Nov 18, 2024 8:38:16 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:38:16 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'ENGLISH_WORD_REPEAT_RULE' and sentence '340 trillion trillion unique IP addresses'
+Nov 18, 2024 8:38:16 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:38:18 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "JSON and XML\n\nUses\n\nBoth standards for transferring data between a server and an application\n\nJSON a"... (truncated to 100 characters)
+Nov 18, 2024 8:38:18 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 2 rule matches
+Nov 18, 2024 8:38:20 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "NAT and port forwarding\n\nNAT\n\nResponsible for converting IP addresses as they pass over the boundary"... (truncated to 100 characters)
+Nov 18, 2024 8:38:20 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:25 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Routable and non routable IP addresses\n\nRoutable IP addresses\n\nA public IP address\n\nAssigned to orga"... (truncated to 100 characters)
+Nov 18, 2024 8:38:25 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:27 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "The client server model\n\nHow it functions\n\nThe client sends a request to the server\n\nThe server will"... (truncated to 100 characters)
+Nov 18, 2024 8:38:27 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:28 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "The structure of IP addresses\n\nIPv4\n\n32 bits used\n\nRange from 000.000.000.000 \u2014 255.255.255.255\n\nAro"... (truncated to 100 characters)
+Nov 18, 2024 8:38:28 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 3 rule matches
+Nov 18, 2024 8:38:28 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'MORFOLOGIK_RULE_EN_GB' and sentence 'The subnet mask is ANDed with the IP address'
+Nov 18, 2024 8:38:28 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:38:34 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Thin client and thick client computing\n\nWhat is client thickness?\n\nClient thickness refers to the am"... (truncated to 100 characters)
+Nov 18, 2024 8:38:34 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:38:34 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hiding false positive with rule 'SETUP_VERB' and sentence 'Easy to setup, and add new terminals to a network'
+Nov 18, 2024 8:38:34 AM org.bsplines.ltexls.server.DocumentChecker removeIgnoredMatches
+FINE: Hid 1 false positive
+Nov 18, 2024 8:38:36 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Web CRUD and applications at REST\n\nCreate, Retrieve, Update, Delete\n\nThese are the four fundamental "... (truncated to 100 characters)
+Nov 18, 2024 8:38:36 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:42 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Web servers and web browsers\n\nWeb servers functions\n\nHosting websites\n\nDealing with client requests "... (truncated to 100 characters)
+Nov 18, 2024 8:38:42 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:45 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Well known ports\n\nCommon application level protocols\n\n20 = File transfer Protocol (FTP) data\n21 = Fi"... (truncated to 100 characters)
+Nov 18, 2024 8:38:45 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 1 rule match
+Nov 18, 2024 8:38:48 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Big data and functional programming\n\nData sets are distrusted\n\nWhen data volumes are too large, the "... (truncated to 100 characters)
+Nov 18, 2024 8:38:48 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:49 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "Representing Big Data\n\nFact based modelling\n\nData is deconstructed into fundamental units, these are"... (truncated to 100 characters)
+Nov 18, 2024 8:38:49 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches
+Nov 18, 2024 8:38:50 AM org.bsplines.ltexls.server.DocumentChecker logTextToBeChecked
+FINE: Checking the following text in language 'en-GB' via LanguageTool: "What is Big Data\n\nIncreasing amount of data\n\nThe amount of data being generated and collected is gro"... (truncated to 100 characters)
+Nov 18, 2024 8:38:50 AM org.bsplines.ltexls.server.DocumentChecker checkAnnotatedTextFragment
+FINE: Obtained 0 rule matches

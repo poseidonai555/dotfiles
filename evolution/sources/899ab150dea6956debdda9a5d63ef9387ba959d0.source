@@ -35,7 +35,7 @@ Timeout=90
 
 [Alarms]
 IncludeMe=true
-LastNotified=2024-11-01T16:05:00Z
+LastNotified=2024-11-08T16:05:00Z
 ForEveryEvent=true
 
 [Calendar]

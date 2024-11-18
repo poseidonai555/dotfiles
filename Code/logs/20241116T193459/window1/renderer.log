@@ -1,0 +1,13 @@
+2024-11-16 19:34:59.728 [info] Started local extension host with pid 8027.
+2024-11-16 19:34:59.814 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-16 19:34:59.861 [info] Settings Sync: Updating due to initialize
+2024-11-16 19:34:59.861 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-16 19:34:59.861 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-16 19:35:02.308 [info] [perf] Render performance baseline is 10ms
+2024-11-16 19:35:07.290 [info] Started local extension host with pid 8721.
+2024-11-16 19:35:07.385 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-16 19:35:07.416 [info] Settings Sync: Updating due to initialize
+2024-11-16 19:35:07.416 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-16 19:35:07.416 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-16 19:35:09.813 [info] [perf] Render performance baseline is 13ms
+2024-11-16 19:35:33.503 [error] lock() request could not be registered.: Error: lock() request could not be registered.

@@ -1,0 +1,52 @@
+2024-11-14 12:24:33.370 [info] [main] Log level: Info
+2024-11-14 12:24:33.370 [info] [main] Validating found git in: "git"
+2024-11-14 12:24:33.370 [info] [main] Using git "2.47.0" from "git"
+2024-11-14 12:24:33.370 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-14 12:24:33.370 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 12:24:33.370 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-11-14 12:24:33.370 [info] [Model][openRepository] Opened repository: /home/poseidon/Desktop/Code/CharacterCloneAI
+2024-11-14 12:24:33.370 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 12:24:33.371 [info] > git config --get commit.template [5ms]
+2024-11-14 12:24:33.379 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-14 12:24:33.380 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-14 12:24:33.381 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-14 12:24:33.387 [info] > git status -z -uall [3ms]
+2024-11-14 12:24:33.388 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-14 12:24:33.396 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-14 12:24:33.401 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-11-14 12:24:33.404 [info] > git config --get commit.template [8ms]
+2024-11-14 12:24:33.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2024-11-14 12:24:33.416 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-11-14 12:24:33.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-11-14 12:24:33.419 [info] > git diff --name-status -z --diff-filter=ADMR 9061c01baa8262555c8dd42b3c10f9ad857f09ee...refs/remotes/origin/main [1ms]
+2024-11-14 12:24:33.424 [info] > git status -z -uall [2ms]
+2024-11-14 12:24:33.425 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 12:24:33.672 [info] > git show --textconv :messaging.py [4ms]
+2024-11-14 12:24:33.673 [info] > git ls-files --stage -- /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py [1ms]
+2024-11-14 12:24:33.677 [info] > git cat-file -s 99bf5787693fd3515580075c37360cf8fa07d71c [1ms]
+2024-11-14 12:24:33.876 [info] > git check-ignore -v -z --stdin [1ms]
+2024-11-14 12:24:47.394 [info] [main] Log level: Info
+2024-11-14 12:24:47.394 [info] [main] Validating found git in: "git"
+2024-11-14 12:24:47.394 [info] [main] Using git "2.47.0" from "git"
+2024-11-14 12:24:47.394 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-14 12:24:47.394 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 12:24:47.394 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:24:47.394 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-14 12:24:47.394 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:24:47.395 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-14 12:24:48.665 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 12:24:48.665 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:24:49.150 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-14 12:24:49.150 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:46:19.233 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 12:46:19.233 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:46:19.615 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 12:46:19.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:46:20.992 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 12:46:20.992 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:57:03.244 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 12:57:03.244 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:58:25.850 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 12:58:25.850 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 12:58:26.434 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 12:58:26.434 [info] fatal: not a git repository (or any of the parent directories): .git

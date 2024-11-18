@@ -1,0 +1,24 @@
+2024-11-14 12:24:32.588 [info] Started local extension host with pid 90480.
+2024-11-14 12:24:32.688 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-14 12:24:32.974 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:32.974 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 12:24:35.199 [info] [perf] Render performance baseline is 20ms
+2024-11-14 12:24:46.682 [info] Started local extension host with pid 91121.
+2024-11-14 12:24:46.778 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-14 12:24:46.939 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:46.939 [info] Settings Sync: Authentication providers updated []
+2024-11-14 12:24:46.951 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:46.951 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-14 12:24:46.951 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:46.951 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-14 12:24:46.951 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-14 12:24:46.952 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:46.952 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-14 12:24:46.952 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:46.952 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 12:24:46.952 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:46.952 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 12:24:46.952 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-14 12:24:46.952 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 12:24:46.952 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 12:24:49.211 [info] [perf] Render performance baseline is 22ms

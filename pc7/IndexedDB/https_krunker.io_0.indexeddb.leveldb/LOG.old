@@ -1,3 +1,8 @@
-2024/11/04-20:36:28.316 e7608 Reusing MANIFEST /home/poseidon/.config/pc7/IndexedDB/https_krunker.io_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/04-20:36:28.316 e7608 Recovering log #153
-2024/11/04-20:36:28.316 e7608 Reusing old log /home/poseidon/.config/pc7/IndexedDB/https_krunker.io_0.indexeddb.leveldb/000153.log 
+2024/11/16-19:34:30.442 17b4 Reusing MANIFEST /home/poseidon/.config/pc7/IndexedDB/https_krunker.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-19:34:30.442 17b4 Recovering log #214
+2024/11/16-19:34:30.442 17b4 Reusing old log /home/poseidon/.config/pc7/IndexedDB/https_krunker.io_0.indexeddb.leveldb/000214.log 
+2024/11/16-19:38:49.742 91c1 Level-0 table #218: started
+2024/11/16-19:38:49.742 91c1 Level-0 table #218: 0 bytes OK
+2024/11/16-19:38:49.752 91c1 Delete type=0 #214
+2024/11/16-19:38:49.753 91c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/16-19:38:49.753 91c1 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

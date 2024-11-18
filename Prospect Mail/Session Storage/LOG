@@ -1,6 +1,3 @@
-2024/11/07-10:21:48.661 3097d Reusing MANIFEST /home/poseidon/.config/Prospect Mail/Session Storage/MANIFEST-000001
-2024/11/07-10:21:48.662 3097d Recovering log #59
-2024/11/07-10:21:48.662 3097d Reusing old log /home/poseidon/.config/Prospect Mail/Session Storage/000059.log 
-2024/11/07-10:22:48.662 3097e Level-0 table #63: started
-2024/11/07-10:22:48.673 3097e Level-0 table #63: 51958 bytes OK
-2024/11/07-10:22:48.679 3097e Delete type=0 #59
+2024/11/18-08:54:33.344 ab57 Reusing MANIFEST /home/poseidon/.config/Prospect Mail/Session Storage/MANIFEST-000001
+2024/11/18-08:54:33.345 ab57 Recovering log #77
+2024/11/18-08:54:33.345 ab57 Reusing old log /home/poseidon/.config/Prospect Mail/Session Storage/000077.log 

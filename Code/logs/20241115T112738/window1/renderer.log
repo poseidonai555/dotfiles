@@ -1,0 +1,27 @@
+2024-11-15 11:27:38.850 [info] Started local extension host with pid 549129.
+2024-11-15 11:27:38.944 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-15 11:27:39.240 [info] Settings Sync: Updating due to initialize
+2024-11-15 11:27:39.240 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 11:27:39.240 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 11:27:41.631 [info] [perf] Render performance baseline is 13ms
+2024-11-15 19:07:50.951 [info] Started local extension host with pid 1212652.
+2024-11-15 19:07:51.037 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-15 19:07:54.315 [info] Settings Sync: Updating due to initialize
+2024-11-15 19:07:54.315 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 19:07:54.315 [info] Settings Sync: Authentication providers updated []
+2024-11-15 19:07:54.323 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 19:07:54.323 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-15 19:07:54.323 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 19:07:54.324 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-15 19:07:54.324 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 19:07:54.324 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 19:07:54.324 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 19:07:54.324 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 19:07:54.338 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-15 19:07:54.338 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 19:07:54.339 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 19:07:54.339 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-15 19:07:54.339 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 19:07:54.339 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 19:07:54.510 [info] [perf] Render performance baseline is 18ms
+2024-11-15 19:08:24.312 [error] [network] #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch

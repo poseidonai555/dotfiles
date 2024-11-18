@@ -1,7 +1,8 @@
 # GIMP user context
 
-(tool "gimp-ellipse-select-tool")
+(tool "gimp-operation-tool")
 (paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.40000000596046448 0.14509804546833038 0.68235296010971069))
 (brush "2. Hardness 050")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")

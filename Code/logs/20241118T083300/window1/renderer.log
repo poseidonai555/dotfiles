@@ -1,0 +1,6 @@
+2024-11-18 08:33:00.803 [info] Started local extension host with pid 22365.
+2024-11-18 08:33:00.909 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-18 08:33:01.313 [info] Settings Sync: Updating due to initialize
+2024-11-18 08:33:01.313 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 08:33:01.313 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 08:33:03.413 [info] [perf] Render performance baseline is 13ms

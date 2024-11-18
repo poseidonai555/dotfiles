@@ -59,7 +59,7 @@
                 (aux-info
                     (show-button-bar "true"))))
         (book
-            (position 741)
+            (position 841)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)
@@ -83,10 +83,10 @@
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
     (position 616 921)
-    (size 346 423))
+    (size 346 468))
 (session-info "toplevel"
     (factory-entry "gimp-operation-tool-dialog")
-    (position 103 235))
+    (position 1164 333))
 
 (hide-docks no)
 (single-window-mode yes)

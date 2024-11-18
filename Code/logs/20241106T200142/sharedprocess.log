@@ -1,8 +1,0 @@
-2024-11-06 20:01:43.511 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.10.1
-2024-11-06 20:01:43.532 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.10.1.53d1e864.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.10.1.53d1e864.vsctmp'
-    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
-    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
-    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
-    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
-    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
-    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

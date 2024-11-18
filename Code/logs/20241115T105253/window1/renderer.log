@@ -1,0 +1,18 @@
+2024-11-15 10:52:53.767 [info] Started local extension host with pid 26687.
+2024-11-15 10:52:53.869 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-15 10:52:53.909 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 10:52:53.909 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 10:52:56.328 [info] [perf] Render performance baseline is 29ms
+2024-11-15 10:53:03.885 [info] Started local extension host with pid 27196.
+2024-11-15 10:53:03.995 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-15 10:53:04.177 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 10:53:04.177 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 10:53:06.449 [info] [perf] Render performance baseline is 18ms
+2024-11-15 11:25:04.154 [error] Unable to read file '/opt/visual-studio-code/resources/app/extensions/theme-seti/icons/vs-seti-icon-theme.json' (Error: Unable to resolve nonexistent file '/opt/visual-studio-code/resources/app/extensions/theme-seti/icons/vs-seti-icon-theme.json'): Error: Unable to read file '/opt/visual-studio-code/resources/app/extensions/theme-seti/icons/vs-seti-icon-theme.json' (Error: Unable to resolve nonexistent file '/opt/visual-studio-code/resources/app/extensions/theme-seti/icons/vs-seti-icon-theme.json')
+    at Pnt.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1310:1636
+2024-11-15 11:25:04.165 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-15 11:25:14.194 [error] Error while registering log channel file:///home/poseidon/.config/Code/logs/20241115T105253/window1/fileWatcher.log Timed out while waiting for file to be created

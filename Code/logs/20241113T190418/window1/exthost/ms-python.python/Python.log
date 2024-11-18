@@ -1,0 +1,26 @@
+2024-11-13 19:04:19.089 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-13 19:04:19.089 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-13 19:04:19.089 [info] Experiment 'pythonTestAdapter' is active
+2024-11-13 19:04:19.089 [warning] Dir "/home/poseidon/Desktop/Code/Python_code/Skeleton code/.pixi/envs" is not watchable (directory does not exist)
+2024-11-13 19:04:19.089 [info] Python interpreter path: /bin/python
+2024-11-13 19:04:19.097 [info] > pyenv which python
+2024-11-13 19:04:19.097 [info] cwd: ~/Desktop/Code/Python_code/Skeleton code
+2024-11-13 19:04:29.398 [info] Starting Pylance language server.
+2024-11-13 19:04:36.112 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-13 19:04:36.112 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-13 19:04:36.112 [info] Experiment 'pythonTestAdapter' is active
+2024-11-13 19:04:36.112 [warning] Dir "/home/poseidon/Desktop/Code/CharacterCloneAI/.pixi/envs" is not watchable (directory does not exist)
+2024-11-13 19:04:36.112 [info] Python interpreter path: ./.venv/bin/python
+2024-11-13 19:04:36.280 [info] > pyenv which python
+2024-11-13 19:04:36.280 [info] cwd: .
+2024-11-13 19:04:36.425 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-13 19:04:36.425 [info] shell: bash
+2024-11-13 19:04:36.449 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-13 19:04:36.449 [info] shell: bash
+2024-11-13 19:04:36.481 [info] Setting environment variable VIRTUAL_ENV in collection to /home/poseidon/Desktop/Code/CharacterCloneAI/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-13 19:04:36.481 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-13 19:04:36.481 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-13 19:04:36.481 [info] Prepending environment variable PATH in collection with /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-13 19:04:36.482 [info] Send text to terminal: /bin/python /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-13 19:04:46.359 [info] Starting Pylance language server.
+2024-11-13 19:06:14.265 [info] Discover tests for workspace name: CharacterCloneAI - uri: /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py

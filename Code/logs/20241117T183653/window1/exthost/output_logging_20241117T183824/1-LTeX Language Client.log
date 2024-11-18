@@ -1,0 +1,37 @@
+2024-11-17T18:42:22.826Z Info: Setting LTeX UI language to 'en-us'.
+2024-11-17T18:42:22.826Z Info: Loading i18n messages...
+2024-11-17T18:42:22.826Z Info: Loading default i18n messages...
+2024-11-17T18:42:22.827Z Info: 
+2024-11-17T18:42:22.827Z Info: ltex.ltex-ls.path not set.
+2024-11-17T18:42:22.827Z Info: Searching for ltex-ls in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib'...
+2024-11-17T18:42:22.828Z Info: ltex-ls found in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-17T18:42:22.828Z Info: 
+2024-11-17T18:42:22.828Z Info: Using ltex-ls from '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-17T18:42:22.828Z Info: Using Java bundled with ltex-ls as ltex.java.path is not set.
+2024-11-17T18:42:22.828Z Info: Testing ltex-ls...
+2024-11-17T18:42:22.828Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-17T18:42:22.828Z Info:   Arguments: ["--version"]
+2024-11-17T18:42:22.828Z Info:   env['JAVA_HOME']: undefined
+2024-11-17T18:42:22.828Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-17T18:42:23.110Z Info: Test successful!
+2024-11-17T18:42:23.110Z Info: 
+2024-11-17T18:42:23.113Z Info: Starting ltex-ls...
+2024-11-17T18:42:23.113Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-17T18:42:23.113Z Info:   Arguments: []
+2024-11-17T18:42:23.113Z Info:   env['JAVA_HOME']: undefined
+2024-11-17T18:42:23.113Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-17T18:42:23.113Z Info: 
+2024-11-17T18:42:24.119Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt'.
+2024-11-17T18:42:24.123Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-11-17T18:50:01.210Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-11-17T18:50:01.210Z Info: External setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.hiddenFalsePositives.en-GB.txt' changed, re-reading.
+2024-11-17T18:51:06.202Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt'.
+2024-11-17T18:51:06.202Z Info: External setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt' changed, re-reading.
+2024-11-17T18:51:10.697Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt'.
+2024-11-17T18:51:10.697Z Info: External setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt' changed, re-reading.
+2024-11-17T18:54:28.171Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt'.
+2024-11-17T18:54:28.171Z Info: External setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt' changed, re-reading.
+2024-11-17T18:56:05.419Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt'.
+2024-11-17T18:56:05.419Z Info: External setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt' changed, re-reading.
+2024-11-17T20:14:09.748Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-11-17T20:14:09.748Z Info: External setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.hiddenFalsePositives.en-GB.txt' changed, re-reading.

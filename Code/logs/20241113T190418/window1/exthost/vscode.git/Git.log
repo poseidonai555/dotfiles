@@ -1,0 +1,44 @@
+2024-11-13 19:04:19.431 [info] [main] Log level: Info
+2024-11-13 19:04:19.431 [info] [main] Validating found git in: "git"
+2024-11-13 19:04:19.431 [info] [main] Using git "2.47.0" from "git"
+2024-11-13 19:04:19.431 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-13 19:04:19.431 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-13 19:04:19.431 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-13 19:04:19.431 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-13 19:04:19.431 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-13 19:04:19.431 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-13 19:04:20.705 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-13 19:04:20.705 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-13 19:04:21.128 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-13 19:04:21.128 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-13 19:04:36.409 [info] [main] Log level: Info
+2024-11-13 19:04:36.409 [info] [main] Validating found git in: "git"
+2024-11-13 19:04:36.409 [info] [main] Using git "2.47.0" from "git"
+2024-11-13 19:04:36.409 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-13 19:04:36.409 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-13 19:04:36.426 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-11-13 19:04:36.430 [info] [Model][openRepository] Opened repository: /home/poseidon/Desktop/Code/CharacterCloneAI
+2024-11-13 19:04:36.438 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-13 19:04:36.438 [info] > git config --get commit.template [4ms]
+2024-11-13 19:04:36.445 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-13 19:04:36.445 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-13 19:04:36.450 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-11-13 19:04:36.459 [info] > git status -z -uall [5ms]
+2024-11-13 19:04:36.459 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-13 19:04:36.475 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-11-13 19:04:36.483 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-11-13 19:04:36.488 [info] > git config --get commit.template [13ms]
+2024-11-13 19:04:36.490 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2024-11-13 19:04:36.504 [info] > git merge-base refs/heads/main refs/remotes/origin/main [10ms]
+2024-11-13 19:04:36.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-13 19:04:36.509 [info] > git diff --name-status -z --diff-filter=ADMR 9061c01baa8262555c8dd42b3c10f9ad857f09ee...refs/remotes/origin/main [1ms]
+2024-11-13 19:04:36.515 [info] > git status -z -uall [3ms]
+2024-11-13 19:04:36.516 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-13 19:04:36.739 [info] > git ls-files --stage -- /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py [1ms]
+2024-11-13 19:04:36.742 [info] > git cat-file -s 99bf5787693fd3515580075c37360cf8fa07d71c [1ms]
+2024-11-13 19:04:36.743 [info] > git show --textconv :messaging.py [8ms]
+2024-11-13 19:04:36.944 [info] > git check-ignore -v -z --stdin [0ms]
+2024-11-13 19:06:20.407 [info] > git config --get commit.template [3ms]
+2024-11-13 19:06:20.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-11-13 19:06:20.414 [info] > git status -z -uall [4ms]
+2024-11-13 19:06:20.414 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]

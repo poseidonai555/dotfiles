@@ -1,0 +1,17 @@
+2024-11-18 09:51:09.977 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-18 09:51:09.977 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-18 09:51:09.977 [info] Experiment 'pythonTestAdapter' is active
+2024-11-18 09:51:09.977 [warning] Dir "/home/poseidon/Desktop/Code/CharacterCloneAI/.pixi/envs" is not watchable (directory does not exist)
+2024-11-18 09:51:09.977 [info] Python interpreter path: ./.venv/bin/python
+2024-11-18 09:51:09.986 [info] > pyenv which python
+2024-11-18 09:51:09.986 [info] cwd: .
+2024-11-18 09:51:10.277 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-18 09:51:10.277 [info] shell: bash
+2024-11-18 09:51:10.298 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-18 09:51:10.298 [info] shell: bash
+2024-11-18 09:51:10.320 [info] Setting environment variable VIRTUAL_ENV in collection to /home/poseidon/Desktop/Code/CharacterCloneAI/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-18 09:51:10.320 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-18 09:51:10.320 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-18 09:51:10.320 [info] Prepending environment variable PATH in collection with /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-18 09:51:10.321 [info] Send text to terminal: /bin/python /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-18 09:51:20.298 [info] Starting Pylance language server.

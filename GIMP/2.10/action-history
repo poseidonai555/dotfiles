@@ -1,13 +1,14 @@
 # GIMP action-history
 
-(history-item "filters-color-rotate" 0)
-(history-item "file-quit" 2)
-(history-item "file-export-as" 1)
-(history-item "file-overwrite" 1)
-(history-item "file-open" 3)
+(history-item "filters-color-rotate" 2)
+(history-item "file-quit" 3)
+(history-item "file-export-as" 2)
+(history-item "file-open" 0)
+(history-item "file-overwrite" 4)
 (history-item "layers-scale" 0)
 (history-item "image-resize-to-layers" 0)
-(history-item "tools-airbrush" 1)
+(history-item "tools-airbrush" 0)
+(history-item "filters-color-exchange" 1)
 (history-item "tools-align" 0)
 (history-item "tools-clone" 1)
 (history-item "image-resize" 0)
@@ -30,6 +31,7 @@
 (history-item "select-invert" 0)
 (history-item "edit-cut" 0)
 (history-item "select-none" 0)
-(history-item "image-crop-to-content" 1)
+(history-item "image-crop-to-content" 0)
+(history-item "view-close" 0)
 
 # end of action-history

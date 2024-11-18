@@ -1,0 +1,32 @@
+2024-11-14 12:24:33.050 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-14 12:24:33.050 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-14 12:24:33.050 [info] Experiment 'pythonTestAdapter' is active
+2024-11-14 12:24:33.050 [warning] Dir "/home/poseidon/Desktop/Code/CharacterCloneAI/.pixi/envs" is not watchable (directory does not exist)
+2024-11-14 12:24:33.050 [info] Python interpreter path: ./.venv/bin/python
+2024-11-14 12:24:33.053 [info] > pyenv which python
+2024-11-14 12:24:33.053 [info] cwd: .
+2024-11-14 12:24:33.358 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-14 12:24:33.358 [info] shell: bash
+2024-11-14 12:24:33.376 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariables.py
+2024-11-14 12:24:33.376 [info] shell: bash
+2024-11-14 12:24:33.405 [info] Setting environment variable VIRTUAL_ENV in collection to /home/poseidon/Desktop/Code/CharacterCloneAI/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 12:24:33.405 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 12:24:33.405 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-14 12:24:33.405 [info] Prepending environment variable PATH in collection with /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash:/home/poseidon/Desktop/Code/CharacterCloneAI/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 12:24:33.406 [info] Send text to terminal: /bin/python /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/poseidon/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-14 12:24:43.343 [info] Starting Pylance language server.
+2024-11-14 12:24:47.087 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-14 12:24:47.087 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-14 12:24:47.087 [info] Experiment 'pythonTestAdapter' is active
+2024-11-14 12:24:47.087 [warning] Dir "/home/poseidon/Desktop/Code/Python_code/Skeleton code/.pixi/envs" is not watchable (directory does not exist)
+2024-11-14 12:24:47.088 [info] Python interpreter path: /bin/python
+2024-11-14 12:24:47.097 [info] > pyenv which python
+2024-11-14 12:24:47.097 [info] cwd: ~/Desktop/Code/Python_code/Skeleton code
+2024-11-14 12:24:57.433 [info] Starting Pylance language server.
+2024-11-14 12:33:07.864 [info] Discover tests for workspace name: Skeleton code - uri: /home/poseidon/Desktop/Code/Python_code/Skeleton code/Skeleton code.py
+2024-11-14 12:43:26.239 [info] Discover tests for workspace name: Skeleton code - uri: /home/poseidon/Desktop/Code/Python_code/Skeleton code/Skeleton code.py
+2024-11-14 12:45:10.207 [info] Discover tests for workspace name: Skeleton code - uri: /home/poseidon/Desktop/Code/Python_code/Skeleton code/Skeleton code.py
+2024-11-14 12:45:11.967 [info] CreateEnv Trigger - Skipping for /home/poseidon/Desktop/Code/Python_code/Skeleton code/Skeleton code.py
+2024-11-14 12:45:27.204 [info] Discover tests for workspace name: Skeleton code - uri: /home/poseidon/Desktop/Code/Python_code/Skeleton code/Skeleton code.py
+2024-11-14 12:45:28.880 [info] Send text to terminal: /bin/python "/home/poseidon/Desktop/Code/Python_code/Skeleton code/Skeleton code.py"
+2024-11-14 12:46:07.360 [info] Discover tests for workspace name: Skeleton code - uri: /home/poseidon/Desktop/Code/Python_code/Skeleton code/Skeleton code.py

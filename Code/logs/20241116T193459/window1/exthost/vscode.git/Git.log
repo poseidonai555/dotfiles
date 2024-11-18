@@ -1,0 +1,24 @@
+2024-11-16 19:35:00.100 [info] [main] Log level: Info
+2024-11-16 19:35:00.100 [info] [main] Validating found git in: "git"
+2024-11-16 19:35:00.100 [info] [main] Using git "2.47.0" from "git"
+2024-11-16 19:35:00.100 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-16 19:35:00.100 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-16 19:35:07.617 [info] [main] Log level: Info
+2024-11-16 19:35:07.617 [info] [main] Validating found git in: "git"
+2024-11-16 19:35:07.617 [info] [main] Using git "2.47.0" from "git"
+2024-11-16 19:35:07.617 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-16 19:35:07.617 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-16 19:35:07.617 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-16 19:35:07.621 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-16 19:35:07.621 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-16 19:35:07.623 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-16 19:35:07.623 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-16 19:35:07.625 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-16 19:35:07.625 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-16 19:35:07.627 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-16 19:35:09.750 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-16 19:35:09.750 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-16 19:35:20.754 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-16 19:35:20.754 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-16 19:35:21.177 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-16 19:35:21.177 [info] fatal: not a git repository (or any of the parent directories): .git

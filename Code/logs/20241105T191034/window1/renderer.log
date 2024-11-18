@@ -1,7 +1,0 @@
-2024-11-05 19:10:34.801 [info] Started local extension host with pid 80817.
-2024-11-05 19:10:34.865 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
-2024-11-05 19:10:37.781 [info] [perf] Render performance baseline is 20ms
-2024-11-05 19:10:45.087 [warning] [backup tracker] suspended, ignoring unregister event file:///home/poseidon/Desktop/Documents/Computer%20science/AQA%20notes/SLR%2022/%23%20The%20structure%20of%20IP%20addresses.md 
-2024-11-05 19:10:45.293 [info] Started local extension host with pid 81180.
-2024-11-05 19:10:45.394 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
-2024-11-05 19:10:47.853 [info] [perf] Render performance baseline is 13ms

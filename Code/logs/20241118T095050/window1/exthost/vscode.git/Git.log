@@ -1,0 +1,49 @@
+2024-11-18 09:50:52.172 [info] [main] Log level: Info
+2024-11-18 09:50:52.172 [info] [main] Validating found git in: "git"
+2024-11-18 09:50:52.172 [info] [main] Using git "2.47.0" from "git"
+2024-11-18 09:50:52.172 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-18 09:50:52.172 [info] > git rev-parse --show-toplevel [26ms]
+2024-11-18 09:50:52.172 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-18 09:50:52.172 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-18 09:50:52.172 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-18 09:50:52.173 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-18 09:50:52.173 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-18 09:50:52.175 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-18 09:50:52.175 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-18 09:50:52.177 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-18 09:50:52.177 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-18 09:50:52.180 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-18 09:50:52.180 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-18 09:50:52.181 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-18 09:50:53.868 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-18 09:50:53.868 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-18 09:51:10.290 [info] [main] Log level: Info
+2024-11-18 09:51:10.290 [info] [main] Validating found git in: "git"
+2024-11-18 09:51:10.290 [info] [main] Using git "2.47.0" from "git"
+2024-11-18 09:51:10.290 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-18 09:51:10.290 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-18 09:51:10.306 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-11-18 09:51:10.309 [info] [Model][openRepository] Opened repository: /home/poseidon/Desktop/Code/CharacterCloneAI
+2024-11-18 09:51:10.322 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-18 09:51:10.322 [info] > git config --get commit.template [5ms]
+2024-11-18 09:51:10.328 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-18 09:51:10.329 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-18 09:51:10.330 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-18 09:51:10.336 [info] > git status -z -uall [3ms]
+2024-11-18 09:51:10.337 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-18 09:51:10.345 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-18 09:51:10.349 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-11-18 09:51:10.351 [info] > git config --get commit.template [6ms]
+2024-11-18 09:51:10.352 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2024-11-18 09:51:10.361 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2024-11-18 09:51:10.364 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-11-18 09:51:10.369 [info] > git status -z -uall [2ms]
+2024-11-18 09:51:10.370 [info] > git diff --name-status -z --diff-filter=ADMR ac19d14d12464bbbe343e07e48bb183b79f25ac8...refs/remotes/origin/main [6ms]
+2024-11-18 09:51:10.370 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-18 09:51:10.618 [info] > git show --textconv :messaging.py [3ms]
+2024-11-18 09:51:10.624 [info] > git show --textconv :character_creation.py [3ms]
+2024-11-18 09:51:10.624 [info] > git ls-files --stage -- /home/poseidon/Desktop/Code/CharacterCloneAI/messaging.py [6ms]
+2024-11-18 09:51:10.628 [info] > git cat-file -s 5e01a1869b94cab2fe04b4f629f791730722b7f3 [2ms]
+2024-11-18 09:51:10.628 [info] > git ls-files --stage -- /home/poseidon/Desktop/Code/CharacterCloneAI/character_creation.py [4ms]
+2024-11-18 09:51:10.632 [info] > git cat-file -s 12c6fb05ab1465c11c002700ce9a0539a76aeccf [1ms]
+2024-11-18 09:51:10.827 [info] > git check-ignore -v -z --stdin [1ms]

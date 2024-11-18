@@ -1,0 +1,23 @@
+2024-11-15 19:20:36.512 [info] Extension host with pid 1434642 started
+2024-11-15 19:20:36.520 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-15 19:20:36.522 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-15 19:20:36.551 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-15 19:20:36.590 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-11-15 19:20:36.590 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-11-15 19:20:36.596 [info] Eager extensions activated
+2024-11-15 19:20:36.598 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-15 19:20:36.599 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-15 19:21:02.146 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-15 19:21:02.153 [info] Extension host with pid 1434642 exiting with code 0
+2024-11-15 19:21:02.510 [info] Extension host with pid 1435005 started
+2024-11-15 19:21:02.510 [info] Skipping acquiring lock for /home/poseidon/.config/Code/User/workspaceStorage/5ccd3978d0d21f3d063f30f65405c88b.
+2024-11-15 19:21:02.535 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-15 19:21:02.537 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-15 19:21:02.566 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-15 19:21:02.601 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-11-15 19:21:02.601 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-11-15 19:21:02.607 [info] Eager extensions activated
+2024-11-15 19:21:02.614 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-15 19:21:02.615 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-15 19:21:22.013 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-15 19:21:22.021 [info] Extension host with pid 1435005 exiting with code 0

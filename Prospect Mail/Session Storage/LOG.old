@@ -1,3 +1,15 @@
-2024/11/06-21:57:41.916 bc28 Reusing MANIFEST /home/poseidon/.config/Prospect Mail/Session Storage/MANIFEST-000001
-2024/11/06-21:57:41.916 bc28 Recovering log #59
-2024/11/06-21:57:41.916 bc28 Reusing old log /home/poseidon/.config/Prospect Mail/Session Storage/000059.log 
+2024/11/14-15:40:52.945 87ee9 Reusing MANIFEST /home/poseidon/.config/Prospect Mail/Session Storage/MANIFEST-000001
+2024/11/14-15:40:52.945 87ee9 Recovering log #74
+2024/11/14-15:40:52.945 87ee9 Reusing old log /home/poseidon/.config/Prospect Mail/Session Storage/000074.log 
+2024/11/14-15:41:04.797 87ee9 Level-0 table #78: started
+2024/11/14-15:41:04.802 87ee9 Level-0 table #78: 53282 bytes OK
+2024/11/14-15:41:04.807 87ee9 Delete type=0 #74
+2024/11/14-15:41:04.807 87ee9 Compacting 4@0 + 1@1 files
+2024/11/14-15:41:04.814 87ee9 Generated table #79@0: 86 keys, 181483 bytes
+2024/11/14-15:41:04.815 87ee9 Compacted 4@0 + 1@1 files => 181483 bytes
+2024/11/14-15:41:04.819 87ee9 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/14-15:41:04.819 87ee9 Delete type=2 #78
+2024/11/14-15:41:04.819 87ee9 Delete type=2 #67
+2024/11/14-15:41:04.819 87ee9 Delete type=2 #75
+2024/11/14-15:41:04.819 87ee9 Delete type=2 #72
+2024/11/14-15:41:04.819 87ee9 Delete type=2 #70

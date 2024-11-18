@@ -1,0 +1,28 @@
+2024-11-14T20:01:32.218Z Info: Setting LTeX UI language to 'en-us'.
+2024-11-14T20:01:32.218Z Info: Loading i18n messages...
+2024-11-14T20:01:32.218Z Info: Loading default i18n messages...
+2024-11-14T20:01:32.219Z Info: 
+2024-11-14T20:01:32.220Z Info: ltex.ltex-ls.path not set.
+2024-11-14T20:01:32.220Z Info: Searching for ltex-ls in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib'...
+2024-11-14T20:01:32.220Z Info: ltex-ls found in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-14T20:01:32.220Z Info: 
+2024-11-14T20:01:32.220Z Info: Using ltex-ls from '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-14T20:01:32.220Z Info: Using Java bundled with ltex-ls as ltex.java.path is not set.
+2024-11-14T20:01:32.221Z Info: Testing ltex-ls...
+2024-11-14T20:01:32.221Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-14T20:01:32.221Z Info:   Arguments: ["--version"]
+2024-11-14T20:01:32.221Z Info:   env['JAVA_HOME']: undefined
+2024-11-14T20:01:32.221Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-14T20:01:32.496Z Info: Test successful!
+2024-11-14T20:01:32.496Z Info: 
+2024-11-14T20:01:32.499Z Info: Starting ltex-ls...
+2024-11-14T20:01:32.499Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-14T20:01:32.499Z Info:   Arguments: []
+2024-11-14T20:01:32.499Z Info:   env['JAVA_HOME']: undefined
+2024-11-14T20:01:32.499Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-14T20:01:32.499Z Info: 
+2024-11-14T20:50:22.371Z Info: Created directory '/home/poseidon/Desktop/Code/Python_code/Skeleton code/.vscode' for external setting file '/home/poseidon/Desktop/Code/Python_code/Skeleton code/.vscode/ltex.hiddenFalsePositives.en-GB.txt' as it didn't exist.
+2024-11-14T20:50:22.371Z Info: Created external setting file '/home/poseidon/Desktop/Code/Python_code/Skeleton code/.vscode/ltex.hiddenFalsePositives.en-GB.txt' as it didn't exist.
+2024-11-14T20:50:22.371Z Info: Read external setting file '/home/poseidon/Desktop/Code/Python_code/Skeleton code/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-11-14T20:50:22.371Z Info: Appended new entries to external setting file '/home/poseidon/Desktop/Code/Python_code/Skeleton code/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
+2024-11-14T20:50:22.388Z Info: Started watching external setting file '/home/poseidon/Desktop/Code/Python_code/Skeleton code/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.

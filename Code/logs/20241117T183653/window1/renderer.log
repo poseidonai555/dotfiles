@@ -1,0 +1,13 @@
+2024-11-17 18:36:53.959 [info] Started local extension host with pid 6955.
+2024-11-17 18:36:54.031 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-17 18:36:54.293 [info] Settings Sync: Updating due to initialize
+2024-11-17 18:36:54.293 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-17 18:36:54.293 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-17 18:36:56.447 [error] [network] #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2024-11-17 18:36:56.509 [info] [perf] Render performance baseline is 16ms
+2024-11-17 18:38:23.887 [info] Started local extension host with pid 10078.
+2024-11-17 18:38:24.005 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-11-17 18:38:24.036 [info] Settings Sync: Updating due to initialize
+2024-11-17 18:38:24.037 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-17 18:38:24.037 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-17 18:38:26.454 [info] [perf] Render performance baseline is 13ms

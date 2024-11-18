@@ -1,0 +1,20 @@
+2024-11-16 19:35:21.625 [info] [Info  - 7:35:21 PM] (20900) Server root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 19:35:21.625 [info] [Info  - 7:35:21 PM] (20900) Pylance language server 2024.11.2 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-16 19:35:21.627 [info] [Info  - 7:35:21 PM] (20900) Starting service instance "Python_code"
+2024-11-16 19:35:21.678 [info] [Info  - 7:35:21 PM] (20900) Setting environmentName for service "Python_code": "3.12.7 (global)"
+2024-11-16 19:35:21.678 [info] [Info  - 7:35:21 PM] (20900) Setting pythonPath for service "Python_code": "/bin/python"
+2024-11-16 19:35:21.678 [info] [Info  - 7:35:21 PM] (20900) No include entries specified; assuming /home/poseidon/Desktop/Code/Python_code
+2024-11-16 19:35:21.679 [info] [Info  - 7:35:21 PM] (20900) Auto-excluding **/node_modules
+2024-11-16 19:35:21.679 [info] [Info  - 7:35:21 PM] (20900) Auto-excluding **/__pycache__
+2024-11-16 19:35:21.679 [info] [Info  - 7:35:21 PM] (20900) Auto-excluding **/.*
+2024-11-16 19:35:21.709 [info] [Info  - 7:35:21 PM] (20900) Assuming Python version 3.12.7.final.0
+2024-11-16 19:35:21.832 [info] [Info  - 7:35:21 PM] (20900) Found 34 source files
+2024-11-16 19:35:22.387 [info] [Info  - 7:35:22 PM] (20900) Background analysis(1) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist
+2024-11-16 19:35:22.390 [info] [Info  - 7:35:22 PM] (20900) Background analysis(1) started
+2024-11-16 19:35:22.677 [info] [Info  - 7:35:22 PM] (20900) Indexer background runner(2) root directory: file:///home/poseidon/.vscode/extensions/ms-python.vscode-pylance-2024.11.2/dist (index)
+2024-11-16 19:35:22.677 [info] [Info  - 7:35:22 PM] (20900) Indexing(2) started
+2024-11-16 19:35:23.292 [info] [Info  - 7:35:23 PM] (20900) scanned(2) 91 files over 1 exec env
+2024-11-16 19:35:24.426 [info] [Info  - 7:35:24 PM] (20900) indexed(2) 91 files over 1 exec env
+2024-11-16 19:35:24.457 [info] [Info  - 7:35:24 PM] (20900) Indexing finished(2).
+2024-11-16 19:35:31.258 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-11-16 19:35:31.258 [info] (Client) Pylance async client (2024.11.2) started with python extension (2024.20.0)

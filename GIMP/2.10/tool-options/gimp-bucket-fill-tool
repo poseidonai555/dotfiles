@@ -1,5 +1,6 @@
 # GIMP gimp-bucket-fill-tool options
 
+(foreground (color-rgb 0.40000000596046448 0.14509804546833038 0.68235296010971069))
 (paint-mode erase)
 (pattern "Pine")
 (brush-size 51)

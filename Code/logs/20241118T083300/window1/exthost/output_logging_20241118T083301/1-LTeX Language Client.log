@@ -1,0 +1,25 @@
+2024-11-18T08:33:01.195Z Info: Setting LTeX UI language to 'en-us'.
+2024-11-18T08:33:01.195Z Info: Loading i18n messages...
+2024-11-18T08:33:01.195Z Info: Loading default i18n messages...
+2024-11-18T08:33:01.196Z Info: 
+2024-11-18T08:33:01.197Z Info: ltex.ltex-ls.path not set.
+2024-11-18T08:33:01.197Z Info: Searching for ltex-ls in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib'...
+2024-11-18T08:33:01.197Z Info: ltex-ls found in '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-18T08:33:01.197Z Info: 
+2024-11-18T08:33:01.197Z Info: Using ltex-ls from '/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0'.
+2024-11-18T08:33:01.197Z Info: Using Java bundled with ltex-ls as ltex.java.path is not set.
+2024-11-18T08:33:01.197Z Info: Testing ltex-ls...
+2024-11-18T08:33:01.197Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-18T08:33:01.197Z Info:   Arguments: ["--version"]
+2024-11-18T08:33:01.197Z Info:   env['JAVA_HOME']: undefined
+2024-11-18T08:33:01.197Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-18T08:33:01.503Z Info: Test successful!
+2024-11-18T08:33:01.503Z Info: 
+2024-11-18T08:33:01.506Z Info: Starting ltex-ls...
+2024-11-18T08:33:01.506Z Info:   Command: "/home/poseidon/.vscode/extensions/valentjn.vscode-ltex-13.1.0/lib/ltex-ls-15.2.0/bin/ltex-ls"
+2024-11-18T08:33:01.506Z Info:   Arguments: []
+2024-11-18T08:33:01.506Z Info:   env['JAVA_HOME']: undefined
+2024-11-18T08:33:01.506Z Info:   env['JAVA_OPTS']: "-Xms64m -Xmx512m"
+2024-11-18T08:33:01.506Z Info: 
+2024-11-18T08:33:02.510Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.dictionary.en-GB.txt'.
+2024-11-18T08:33:02.515Z Info: Started watching external setting file '/home/poseidon/Desktop/Documents/Computer science/AQA notes/.vscode/ltex.hiddenFalsePositives.en-GB.txt'.
