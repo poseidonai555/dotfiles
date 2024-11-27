@@ -106,7 +106,9 @@
         "cpu": {
             "interval": 10,
             "format": "󰍛 {usage}%",
-            "rotate": 0
+            "rotate": 0,
+            "format-alt": "{icon0}{icon1}{icon2}{icon3}",
+            "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"]
         },
     
         "memory": {
@@ -208,8 +210,8 @@
         "on-click": "pavucontrol -t 3",
         "on-click-right": "volumecontrol.sh -s ''",
         "on-click-middle": "volumecontrol.sh -o m",
-        "on-scroll-up": "volumecontrol.sh -o i",
-        "on-scroll-down": "volumecontrol.sh -o d",
+        "on-scroll-up": "volumecontrol.sh -o i 1",
+        "on-scroll-down": "volumecontrol.sh -o d 1",
         "tooltip-format": "{icon} {desc} // {volume}%",
         "scroll-step": 5,
         "format-icons": {
@@ -230,8 +232,8 @@
         "format-source-muted": "",
         "on-click": "pavucontrol -t 4",
         "on-click-middle": "volumecontrol.sh -i m",
-        "on-scroll-up": "volumecontrol.sh -i i",
-        "on-scroll-down": "volumecontrol.sh -i d",
+        "on-scroll-up": "volumecontrol.sh -i i 1",
+        "on-scroll-down": "volumecontrol.sh -i d 1",
         "tooltip-format": "{format_source} {source_desc} // {source_volume}%",
         "scroll-step": 5
     },
