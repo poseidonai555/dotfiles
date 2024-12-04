@@ -1,5 +1,7 @@
 pc7/Code\ Cache/
 opera/
 discord/
-"Prospect Mail"/
-
+"Prospect Mail/"
+local/*
+!local/share/bin/
+'pc7/Cache'
