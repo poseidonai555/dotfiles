@@ -92,8 +92,90 @@ neofetch
 
 function cd() {
     builtin cd "$@"   # Use the original cd command
-    clear             # Clear the terminal
-    neofetch
-    ls -l -a
+    if [[ -z "$INSIDE_TODO" ]]; then
+        clear             # Clear the terminal
+        neofetch
+        ls -l -a
+    fi
+}
+
+function todo() {
+    local original_dir="$PWD"  # Store the current directory
+    export INSIDE_TODO=1
+
+    if [[ $1 == "add" ]]; then
+        # Change to the home directory
+        cd ~
+
+        # Pull the latest changes from the remote repository
+        git fetch origin
+        git reset --hard origin/main
+
+        # Add the item to the todo list
+        command todo add "${@:2}"
+
+        # Check if there are changes to commit
+        if [[ $(git status --porcelain) ]]; then
+            git add .todo
+            git commit -m "linux add"
+            git push origin main  # Change 'main' to your branch name if different
+        else
+            echo "No changes to commit."
+        fi
+
+        # Switch back to the original directory
+        cd "$original_dir"
+	todo
+    elif [[ $1 == "rm" ]]; then
+        # Change to the home directory
+        cd ~
+
+        # Pull the latest changes from the remote repository
+        git fetch origin
+        git reset --hard origin/main
+
+        # Remove the item from the todo list
+        command todo rm "${@:2}"
+
+        # Check if there are changes to commit
+        if [[ $(git status --porcelain) ]]; then
+            git add .todo
+            git commit -m "linux remove"
+            git push origin main  # Change 'main' to your branch name if different
+        else
+            echo "No changes to commit."
+        fi
+
+        # Switch back to the original directory
+        cd "$original_dir"
+	todo
+    elif [[ $1 == "done" ]]; then
+        # Change to the home directory
+        cd ~
+
+        # Pull the latest changes from the remote repository
+        git fetch origin
+        git reset --hard origin/main
+
+        # Mark the item as done in the todo list
+        command todo done "${@:2}"
+
+        # Check if there are changes to commit
+        if [[ $(git status --porcelain) ]]; then
+            git add .todo
+            git commit -m "linux done"
+            git push origin main  # Change 'main' to your branch name if different
+        else
+            echo "No changes to commit."
+        fi
+ 
+        # Switch back to the original directory
+        cd "$original_dir"
+	todo
+    else
+        # For other todo commands, just run them
+        command todo "$@"
+    fi
+    unset INSIDE_TODO
 }
 
