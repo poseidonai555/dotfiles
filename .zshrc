@@ -174,6 +174,10 @@ function todo() {
 	todo
     else
         # For other todo commands, just run them
+	cd ~
+	git fetch origin
+        git reset --hard origin/main
+	cd "$original_dir"
         command todo "$@"
     fi
     unset INSIDE_TODO
