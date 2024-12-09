@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get the current day of the month
-day=$(date +%d)
+day=$(date +10#%d)
 
 # Define the path to the config file
 config_file="/home/poseidon/.config/swaylock/config"
