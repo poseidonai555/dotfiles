@@ -17,7 +17,7 @@
     
         "modules-left": ["custom/padd","custom/l_end","hyprland/workspaces","hyprland/window","custom/r_end","custom/l_end","mpris","custom/r_end","custom/padd"],
         "modules-center": ["custom/padd","custom/l_end","","idle_inhibitor","clock","custom/r_end","custom/padd"],
-        "modules-right": ["custom/padd","custom/l_end","cpu","memory","custom/cpuinfo","custom/gpuinfo","custom/r_end","custom/l_end","backlight","network","pulseaudio","pulseaudio#microphone","custom/updates","custom/keybindhint","custom/r_end","custom/l_end","privacy","tray","battery","custom/r_end","custom/l_end","custom/wallchange","custom/theme","custom/cliphist","custom/power","custom/r_end","custom/padd"],
+        "modules-right": ["custom/padd","custom/l_end","custom/cava","custom/r_end","custom/l_end","cpu","memory","custom/cpuinfo","custom/gpuinfo","custom/r_end","custom/l_end","backlight","network","pulseaudio","pulseaudio#microphone","custom/updates","custom/keybindhint","custom/r_end","custom/l_end","privacy","tray","battery","custom/r_end","custom/l_end","custom/wallchange","custom/theme","custom/cliphist","custom/power","custom/r_end","custom/padd"],
     
     
     // sourced from modules based on config.ctl //
@@ -38,11 +38,11 @@
 	    "artist-len": 20
 	},
 
-    "custom/cava": {
-        "format": "{}",
-        "exec": "waybar_cava.sh --stb 3",
-        "restart-interval": 1,
-        "hide-empty": false
+        "custom/cava": {
+            "format": "{}",
+            "exec": "waybar_cava.sh --stb 3",
+            "restart-interval": 1,
+            "hide-empty": false
 	},
 
 
@@ -141,7 +141,7 @@
             "rotate": 0,
             "interval": 5, // once every 5 seconds
             "tooltip": true,
-            "max-length": 1000
+            "max-length": 1000,
         },
     
         "custom/gpuinfo": {
