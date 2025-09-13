@@ -1,0 +1,2 @@
+ctrl + shift + grave
+    exec /home/poseidon/.local/share/bin/sysmonlaunch.sh
